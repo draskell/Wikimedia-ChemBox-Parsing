@@ -1,0 +1,4052 @@
+H3BO3,Solvent,other solvents,NoUnits
+H3BO3,Density,1.435,g/cm^3
+H3BO3,Appearance,White crystalline solid,NoUnits
+H3BO3,BoilingPtC,300,C
+H3BO3,pKa,9.24,NoUnits
+H3BO3,MeltingPtC,170.9,C
+I2Cl6,MolarMass,466.5281,g/mol
+I2Cl6,Appearance,yellow solid,NoUnits
+I2Cl6,Density,3.11,g/cm^3
+NH4CN,MolarMass,44.0559,g/mol
+NH4CN,SolubleOther,very soluble in alcohol,NoUnits
+NH4CN,Appearance,colourless crystalline solid,NoUnits
+NH4CN,Solubility,very soluble,NoUnits
+NH4CN,Density,1.02,g/cm^3
+BrF3,Solvent,sulfuric acid,NoUnits
+BrF3,Density,2.803,g/cm^3 
+BrF3,MolarMass,136.90,g/mol
+BrF3,Appearance,coloured liquid ,NoUnits
+BrF3,Solubility,decomposes violently,NoUnits
+BrF3,BoilingPtC,125.72,C
+BrF3,SolubleOther,very soluble,NoUnits
+BrF3,MeltingPtC,8.77,C
+VCl3,MolarMass,157.30,g/mol
+VCl3,MeltingPtC,300,C
+VCl3,Appearance,violet crystals ,NoUnits
+VCl3,Solubility,soluble,NoUnits
+VCl3,Density,3.0,g/cm^3 20 C
+Na2ZnOH)4,MolarMass,179.418,g/mol
+CuNO3)2,SolubleOther,hydrates very soluble in ethanol,NoUnits
+CuNO3)2,BoilingPtC,170,C
+CuNO3)2,Appearance,blue crystals ,NoUnits
+CuNO3)2,MeltingPtC,256,C
+NaClO2,DeltaHf,-307.0,kJ/mol
+NaClO2,Density,2.468,g/cm^3
+NaClO2,MolarMass,90.442,g/mol anhydrous 
+NaClO2,Odor,odorless,NoUnits
+NaClO2,Appearance,white solid,NoUnits
+NaClO2,Solubility,75.8,g/100 mL 25 C 
+NaClO2,pKa,10-11,NoUnits
+NaClO2,MeltingPt,180200,C <BR /> trihydrate decomposes at 38 C
+NaClO2,SolubleOther,slightly soluble in methanol,NoUnits
+H4Si,Density,1.342,g dm^3
+H4Si,Odor,repulsive,NoUnits
+H4Si,Appearance,Colourless gas,NoUnits
+H4Si,Solubility,Reacts slowly,NoUnits
+H4Si,BoilingPtC,12,C
+H4Si,Entropy,204.6,Jmol^1K^1
+H4Si,VaporPressure,1,atm 20 C
+H4Si,DeltaHf,3431kJmol,NoUnits
+H4Si,MeltingPtC,85,C
+AgClO3,Density,4.443,g/cm^3
+AgClO3,MolarMass,191.319,g/mol
+AgClO3,Appearance,white crystals,NoUnits
+AgClO3,Solubility,slightly soluble,NoUnits
+AgClO3,BoilingPtC,250,C
+AgClO3,SolubleOther,soluble in water and ethanol alcohol,NoUnits
+AgClO3,MeltingPtC,230,C
+VCl2,Density,3.230,g/cm^3
+VCl2,MolarMass,121.847,g/mol
+VCl2,Appearance,pale green solid,NoUnits
+VCl2,Solubility,soluble,NoUnits
+VCl2,BoilingPtC,1506,C
+VCl2,MeltingPtC,1027,C
+NaClO3,DeltaHf,-365.4,kJ/mol
+NaClO3,HeatCapacity,104.6,J/molK
+NaClO3,RefractIndex,1.515,20 C
+NaClO3,Odor,Odorless,NoUnits
+NaClO3,Appearance,Colorless or white solid,NoUnits
+NaClO3,DeltaGf,-275,kJ/mol
+NaClO3,BoilingPtC,300-400,C
+NaClO3,Solvent1,acetone,NoUnits
+NaClO3,Solvent3,ethanol,NoUnits
+NaClO3,Solvent2,glycerol,NoUnits
+NaClO3,Solubility3,14.7,g/100 g
+NaClO3,Solubility2,20,g/100 g 15.5 C
+NaClO3,Solubility1,51.8,g/100 g
+NaClO3,Entropy,129.7,J/molK
+NaClO3,MeltingPtC,248-261,C
+NaClO3,VaporPressure,0.35,mPa
+PbS,DeltaHf,8.7,kJ/mol
+PbS,"-11 kg/kg (calculated, at pH",7,NoUnits
+PbS,HeatCapacity,46.02,J/degree mol
+PbS,Density,7.60,g/cm^3
+PbS,MolarMass,239.30,g/mol
+PbS,Solubility,26e,NoUnits
+PbS,BoilingPtC,1281,C
+PbS,SolubilityProduct,9.04e,NoUnits
+PbS,RefractIndex,3.91,NoUnits
+PbS,Entropy,91.3,J/mol
+PbS,location,Washington,NoUnits
+PbS,MeltingPtC,1118,C
+Ag2CrO4,MolarMass,331.73,g/mol
+Ag2CrO4,Density,5.625,g/cm^3
+Ag2CrO4,Appearance,red powder,NoUnits
+Ag2CrO4,BoilingPtC,1550,C
+Ag2CrO4,Entropy,217,Jmol^1K^1
+Ag2CrO4,DeltaHf,12,kJmol^1
+NaBrO3,DeltaHf,-342.5,kJ/mol
+NaBrO3,Density,3.339,g/cm^3
+NaBrO3,MolarMass,150.892,g/mol
+NaBrO3,Odor,odorless,NoUnits
+NaBrO3,Appearance,colorless or white solid,NoUnits
+NaBrO3,BoilingPtC,1390,C
+NaBrO3,DeltaGf,-252.6,kJ/mol
+NaBrO3,Entropy,130.5,J/mol K
+NaBrO3,RefractIndex,1.594,NoUnits
+NaBrO3,SolubleOther,soluble in ammonia ,NoUnits
+NaBrO3,MeltingPtC,381,C
+SeS2,Density,3,g/cm3
+SeS2,MolarMass,143.09,g/mol
+SeS2,Odor,faint,NoUnits
+SeS2,Appearance,orange to brown powder,NoUnits
+SeS2,Solubility,negligible,NoUnits
+SeS2,BoilingPtC,118,to 119 C
+SeS2,pKa,2-6,NoUnits
+SeS2,SolubleOther,soluble in ammonium monosulfide ,NoUnits
+SeS2,MeltingPtC,111,C
+KAlF4,MolarMass,142,NoUnits
+KAlF4,Density,2.9,g/cm^3
+KAlF4,Appearance,White solid,NoUnits
+KAlF4,Solubility,2,g/L
+KAlF4,MeltingPtC,600,C
+FeNO3)3,Density,1.68,g/cm^3 hexahydrate 
+FeNO3)3,MolarMass,241.86,g/mol anhydrous 
+FeNO3)3,Appearance,Pale violet crystals ,NoUnits
+FeNO3)3,Solubility,150,g/100 mL hexahydrate
+FeNO3)3,BoilingPtC,125,C
+FeNO3)3,SolubleOther,soluble in alcohol,NoUnits
+FeNO3)3,MeltingPtC,47.2,C
+SOCl2,DeltaHf,-245.6,kJ/mol liquid
+SOCl2,RefractIndex,1.517,20 C
+SOCl2,name,Thionyl chloride,NoUnits
+SOCl2,HeatCapacity,121.0,kJ/mol liquid
+SOCl2,Density,1.638,g/cm^3
+SOCl2,MolarMass,118.97,g/mol
+SOCl2,Appearance,clear,NoUnits
+SOCl2,Odour,pungent and unpleasant,NoUnits
+SOCl2,Solubility,reacts,NoUnits
+SOCl2,BoilingPtC,74.6,C
+SOCl2,location,Boca Raton,NoUnits
+SOCl2,units,SIref,NoUnits
+SOCl2,VaporPressure,Plainlist,NoUnits
+SOCl2,Viscosity,0.6,Poise
+SOCl2,Entropy,309.8,kJ/mol gas
+SOCl2,MeltingPtC,04.5,C
+H2CrO4,Density,1.201,g cm^3
+H2CrO4,Appearance,Dark red crystals,NoUnits
+H2CrO4,Solubility,169,g/100 mL
+H2CrO4,BoilingPtC,250,C
+H2CrO4,pKa,08 to 16,NoUnits
+H2CrO4,MeltingPtC,197,C
+BrCN,Density,2.015,g mL^1
+BrCN,MolarMass,105.921,g mol^1
+BrCN,Appearance,Colorless crystals,NoUnits
+BrCN,Solubility,Reacts,NoUnits
+BrCN,BoilingPtC,61,to 62 C
+BrCN,VaporPressure,16.2,kPa
+BrCN,DeltaHf,136.1144.7,kJ mol^1
+BrCN,MeltingPtC,50,to 53 C
+COF2,Density,2.698,g/L gas
+COF2,MolarMass,66.01,g mol^1
+COF2,Appearance,Colorless gas,NoUnits
+COF2,Solubility,reacts violently with water,NoUnits
+COF2,BoilingPtC,-84.57,C
+COF2,VaporPressure,55.4,atm 20C
+COF2,MeltingPtC,-111.26,C
+Ag1Cl,DeltaHf,27,kJmol^1
+Ag1Cl,Density,5.56,g cm^-3
+Ag1Cl,Appearance,White Solid,NoUnits
+Ag1Cl,Solubility,520,g/100 g at 50 C
+Ag1Cl,BoilingPtC,1547,C
+Ag1Cl,Entropy,96,Jmol^1K^1
+Ag1Cl,RefractIndex,2.071,NoUnits
+Ag1Cl,SolubleOther,soluble in ammonia,NoUnits
+Ag1Cl,MeltingPtC,455,C
+H2CO3,Density,1.668,g/cm^3
+H2CO3,"HCO<sub>3</sub><sup>&minus;</sup><br /><small>(mol/L)</small>
+!style",9em scope,NoUnits
+H2CO3,"-
+!style",9em scope,NoUnits
+H2CO3,MolarMass,62.03,g/mol
+H2CO3,Solubility,Exists only in solution,NoUnits
+H2CO3,location,New York,NoUnits
+H2CO3,scope,row,NoUnits
+H2CO3,pmid,9478889,NoUnits
+H2CO3,"pH
+!style",9em scope,NoUnits
+H2CO3,style,colorBBB,NoUnits
+H2CO3,"H<sub>2</sub>CO<sub>3</sub><br /><small>(mol/L)</small>
+!style",9em scope,NoUnits
+H2CO3,"CO<sub>2</sub><br /><small>(mol/L)</small>
+!style",9em scope,NoUnits
+H2CO3,-style,colorAFF,NoUnits
+H2CO3,"<math>p_\textCO_2</math><br /><small>(atm)</small>
+!style",5em scope,NoUnits
+Mo1O3,Density,4.69,g/cm^3
+Mo1O3,Odor,odorless,NoUnits
+Mo1O3,Appearance,yellow or light blue solid,NoUnits
+Mo1O3,Solubility,0.1066,g/100 mL 18 C 
+Mo1O3,BoilingPtC,1155,C
+Mo1O3,Entropy,77.78,JK^1mol^1
+Mo1O3,DeltaHf,45.17,kJ/mol
+Mo1O3,MeltingPtC,795,C
+CrO2,MolarMass,83.9949,g/mol
+CrO2,MeltingPtC,375,C
+CrO2,Appearance,black tetrahedral ferromagnetic crystals,NoUnits
+CrO2,Solubility,Insoluble,NoUnits
+CrO2,Density,4.89,g/cm^3
+Ag2SO4,Solvent1,sulfuric acid,NoUnits
+Ag2SO4,Solvent3,acetic acid,NoUnits
+Ag2SO4,Solvent2,ethanol,NoUnits
+Ag2SO4,MeltingPtC,652.2-660,C
+Ag2SO4,BoilingPt_ref,,NoUnits
+Ag2SO4,Odor,Odorless,NoUnits
+Ag2SO4,BoilingPtC,1085,C
+Ag2SO4,Entropy,200.4,kJ/mol
+Ag2SO4,MagSus,.2910^5,cm^3/mol
+Ag2SO4,Appearance,Colorless crystals,NoUnits
+Ag2SO4,ethanol<ref name,chemister ,NoUnits
+Ag2SO4,DeltaGf,18.4,J/molK
+Ag2SO4,Solubility3,7.857,g/L 0.5 n<sub>AcOH/H<sub>2</sub>O</sub>
+Ag2SO4,Solubility2,7.109,g/L 0.5 n<sub>EtOH/H<sub>2</sub>O</sub>
+Ag2SO4,HeatCapacity,131.4,J/molK
+Ag2SO4,SolubilityProduct,1.210^5,NoUnits
+Ag2SO4,MeltingPt_ref,,NoUnits
+Ag2SO4,place,New York,NoUnits
+Ag2SO4,DeltaHf,15.9,kJ/mol
+NaIO4,Density,3.865,g/cm^3 anhydrous 
+NaIO4,MolarMass,213.8918,g/mol
+NaIO4,Appearance,white crystals,NoUnits
+NaIO4,Solubility,soluble,NoUnits
+NaIO4,MeltingPt,convert,NoUnits
+NaIO4,SolubleOther,soluble in acids,NoUnits
+Cd3As2,MolarMass,487.08,g/mol
+Cd3As2,MeltingPtC,716,C
+Cd3As2,Appearance,solid,NoUnits
+Cd3As2,Solubility,decomposes in water,NoUnits
+Cd3As2,Density,3.031,NoUnits
+H2PtCl6,MolarMass,409.81,g/mol
+H2PtCl6,BoilingPt,decomposes,NoUnits
+H2PtCl6,Appearance,Reddish brown solid,NoUnits
+H2PtCl6,Solubility,highly soluble,NoUnits
+H2PtCl6,Density,2.431,g/cm^3
+H3NSO3,Density,2.15,g/cm^3
+H3NSO3,MolarMass,97.10,g/mol
+H3NSO3,pmc,ref,NoUnits
+H3NSO3,Appearance,white crystals,NoUnits
+H3NSO3,Solubility,Moderate,NoUnits
+H3NSO3,pKa,1.0,NoUnits
+H3NSO3,SolubleOther,Moderately soluble in Dimethylformamide,NoUnits
+H3NSO3,MeltingPtC,205,C
+MgClO4)2,Density,2.21,g/cm^3 anhydrous 
+MgClO4)2,MolarMass,223.206,g/mol
+MgClO4)2,Odor,odorless,NoUnits
+MgClO4)2,BoilingPt,decomposition,NoUnits
+MgClO4)2,Appearance,white powder,NoUnits
+MgClO4)2,Solubility,99.3,g/100 mL
+MgClO4)2,Solvent1,ethanol,NoUnits
+MgClO4)2,Solubility1,23.96,g/100 mL
+MgClO4)2,MeltingPtC,251,C
+Pu1Cl3,BoilingPt_ref,,NoUnits
+Pu1Cl3,MolarMass,350.322,g/mol
+Pu1Cl3,Appearance,Green solid,NoUnits
+Pu1Cl3,BoilingPtC,1767,C
+Pu1Cl3,MeltingPt_ref,,NoUnits
+Pu1Cl3,MeltingPtC,767,C
+H6O6Te,Density,3.07,g/cm^3
+H6O6Te,MolarMass,229.64,g/mol
+H6O6Te,Appearance,White monoclinic crystals,NoUnits
+H6O6Te,Solubility,50.1,g/100 ml at 30 C
+H6O6Te,pKa,7.68,NoUnits
+H6O6Te,MeltingPtC,136,C
+Na3PO4,HeatCapacity,665,J/molK dodecahydrate
+Na3PO4,F K<br /> (dodecahydrate)<ref name,2,/>
+Na3PO4,BoilingPtC,100,C
+Na3PO4,pKb,2.23,NoUnits
+Na3PO4,DeltaGf,-1819,kJ/mol anhydrous
+Na3PO4,SolubleOther,insoluble in ethanol,NoUnits
+Na3PO4,CS<sub>2</sub><ref name,2,/>
+Na3PO4,MeltingPtC,1583,C
+YBa2Cu3O7,Density,6.3,g/cm^3
+YBa2Cu3O7,MolarMass,666.19,g/mol
+YBa2Cu3O7,Appearance,Black solid,NoUnits
+YBa2Cu3O7,Solubility,Insoluble,NoUnits
+YBa2Cu3O7,MeltingPt,1000,C
+Al4C3,BoilingPt,1400,C
+Al4C3,Entropy,88.95,J/mol K
+Al4C3,HeatCapacity,116.8,J/mol K
+Al4C3,Density,2.36,g/cm^3
+Al4C3,MolarMass,143.95853,g/mol
+Al4C3,Odor,odorless,NoUnits
+Al4C3,Appearance,colorless when pure hexagonal crystals,NoUnits
+Al4C3,Solubility,decomposes,NoUnits
+Al4C3,DeltaGf,-196,kJ/mol
+Al4C3,DeltaHf,-209,kJ/mol
+Al4C3,MeltingPtC,2200,C
+V2O5,Density,3.357,g/cm^3
+V2O5,MolarMass,181.8800,g/mol
+V2O5,Appearance,Yellow solid,NoUnits
+V2O5,Solubility,0.8,g/L 20 C
+V2O5,BoilingPtC,1750,C
+V2O5,Properties_ref,,NoUnits
+V2O5,MeltingPtC,690,C
+FeC2O4,Density,2.28,g/cm^3
+FeC2O4,MolarMass,143.86,g/mol anhydrous
+FeC2O4,Odor,odorless,NoUnits
+FeC2O4,Appearance,yellow powder,NoUnits
+FeC2O4,BoilingPtC,365.1,C
+FeC2O4,MeltingPtC,190,C
+Au2O3,MolarMass,441.93,NoUnits
+Au2O3,Appearance,brown solid,NoUnits
+Au2O3,Density,11.34,g/cm^3 at 20 C
+Cr1Cl2,"F K<br> tetrahydrate, decomposes<ref name",crc ,NoUnits
+Cr1Cl2,HeatCapacity,71.2,J/molK
+Cr1Cl2,MagSus,7.2310^3,cm^3/mol
+Cr1Cl2,Density,2.88,g/cm^3 24 C
+Cr1Cl2,Odor,Odorless,NoUnits
+Cr1Cl2,Appearance,White to greygreen powder anhydrous,NoUnits
+Cr1Cl2,Solubility,Soluble,NoUnits
+Cr1Cl2,BoilingPtC,1302,C
+Cr1Cl2,DeltaGf,56,kJ/mol
+Cr1Cl2,Entropy,115.3,J/molK
+Cr1Cl2,DeltaHf,95.4,kJ/mol
+Cr1Cl2,SolubleOther,Insoluble in alcohol,NoUnits
+Cr1Cl2,MeltingPtC,824,C
+Na2Cr2O7,Solvent,other solvents,NoUnits
+Na2Cr2O7,Density,2.52,g/cm^3
+Na2Cr2O7,MolarMass,261.97,g/mol anhydrous
+Na2Cr2O7,Odor,odorless,NoUnits
+Na2Cr2O7,Appearance,bright red,NoUnits
+Na2Cr2O7,Solubility,73,g/100 mL at 25 C<!--Ullmann's-->
+Na2Cr2O7,BoilingPtC,400,C
+Na2Cr2O7,RefractIndex,1.661,dihydrate
+Na2Cr2O7,SolubleOther,soluble in methanol,NoUnits
+Na2Cr2O7,MeltingPtC,356.7,C
+H2Te,Density,3.310,g/cm^3
+H2Te,MolarMass,129.6158,g mol^1
+H2Te,Appearance,colourless gas,NoUnits
+H2Te,Solubility,0.70,g/100 mL
+H2Te,BoilingPtC,2 C,NoUnits
+H2Te,MeltingPt_ref,,NoUnits
+H2Te,pKa,2.6,NoUnits
+H2Te,DeltaHf,0.7684,kJ/g
+H2Te,MeltingPtC,9,C
+CdF2,Density,6.33,g/cm^3
+CdF2,MolarMass,150.41,g/mol
+CdF2,Appearance,grey crystals,NoUnits
+CdF2,Solubility,4.35,g/100 mL
+CdF2,BoilingPtC,1748,C
+CdF2,DeltaGf,-155.4, 0.3 kcal. mole-1 at 298.15 K
+CdF2,DeltaHf,-167.39, 0.23 kcal. mole-1 at 298.15 K
+CdF2,SolubleOther,soluble in acidbr  insoluble in ethanol alcohol and liquid ammonia,NoUnits
+CdF2,MeltingPtC,1110,C
+H3PO4,DeltaHf,-1288,kJ/mol
+H3PO4,Viscosity,2.49.4,Poise
+H3PO4,Odor,odorless,NoUnits
+H3PO4,Appearance,white solid or colourless,NoUnits
+H3PO4,BoilingPtC,158,C
+H3PO4,RefractIndex,1.34203,NoUnits
+H3PO4,pKa,1sub,NoUnits
+H3PO4,Entropy,158,J/molK
+H3PO4,MeltingPtC,42.35,C
+H3PO4,SolubleOther,soluble in ethanol,NoUnits
+H3PO4,VaporPressure,0.03,mmHg 20C
+Cu2S,MolarMass,159.16,g/mol
+Cu2S,MeltingPt_ref,,NoUnits
+Cu2S,SolubleOther,slightly soluble in hydrochloric acid,NoUnits
+Cu2S,Solubility,Insoluble,NoUnits
+Cu2S,MeltingPtC,1130,C
+Cr2SO4)312H2O,MolarMass,392.16,g/mol 
+Cr2SO4)312H2O,BoilingPt,decomposes to chromic acid,NoUnits
+Cr2SO4)312H2O,Appearance,brown crystals anhydrous,NoUnits
+Cr2SO4)312H2O,Solubility,insoluble anhydrous ,NoUnits
+Cr2SO4)312H2O,MeltingPt,90,C
+Cr2SO4)312H2O,SolubleOther,soluble in alcohol ,NoUnits
+Ba1FeO4,access-date,29,"April 2016</ref>
+File:IR Spectrum of BaFeO4.png"
+Ba1FeO4,language,enref,NoUnits
+Ba1FeO4,alkaline batteries.<ref name,3 ,NoUnits
+Ba1FeO4,Appearance,Dark red,NoUnits
+Ba1FeO4,Selected Area Diffraction (SAED).<ref name,1 FileBeFeO4 Crystal structurepng,NoUnits
+Ba1FeO4,location,Oxford Oxfordshire,NoUnits
+Ba1FeO4,paramagnetic.<ref name,0Cite book,NoUnits
+Ba1FeO4,IR Spectrum of BaFeO4 showing characteristic peaks<ref name,3Cite journal,NoUnits
+Na3SbS4,Appearance,Yellow crystals,NoUnits
+Na3SbS4,Density,1.806,g/cm^3
+CF3SO3H,Density,1.696,g/mL
+CF3SO3H,MolarMass,150.08,g/mol
+CF3SO3H,Appearance,Colorless liquid,NoUnits
+CF3SO3H,Solubility,Miscible,NoUnits
+CF3SO3H,BoilingPtC,162,C
+CF3SO3H,MeltingPtC,0,C
+CuCO3,Density,  gcm3 ,NoUnits
+CuCO3,MolarMass,123.5549,NoUnits
+CuCO3,Appearance,gray powder,NoUnits
+CuCO3,BandGap, Electronvolt,NoUnits
+CuCO3,Solubility,reacts with water at normal conditions,NoUnits
+CuCO3,Entropy, JmolK ,NoUnits
+CuCO3,DeltaHf, kJmol ,NoUnits
+Gd2O3,MolarMass,362.50,g/mol
+Gd2O3,Appearance,white odorless powder,NoUnits
+Gd2O3,Solubility,insoluble,NoUnits
+Gd2O3,SolubilityProduct,1.810^23,NoUnits
+Gd2O3,SolubleOther,soluble in acid,NoUnits
+Gd2O3,MeltingPtC,2420,C
+K2S,Solvent,other solvents,NoUnits
+K2S,Density,1.74,g/cm^3
+K2S,MolarMass,110.262,g/mol
+K2S,Odor,hydrogen sulfide,NoUnits
+K2S,Appearance,brown,NoUnits
+K2S,Solubility,converts to KSH,NoUnits
+K2S,BoilingPtC,912,C
+K2S,SolubleOther,soluble in ethanol,NoUnits
+K2S,MeltingPtC,840,C
+Li2S,Density,1.66,g/cm^3
+Li2S,MolarMass,45.95,g/mol
+Li2S,Appearance,white solid,NoUnits
+Li2S,Solubility,very soluble,NoUnits
+Li2S,BoilingPtC,1372,C
+Li2S,Entropy,63,J/mol K
+Li2S,DeltaHf,-9.401,kJ/g or -447 kJ/mol
+Li2S,SolubleOther,very soluble in ethanol,NoUnits
+Li2S,MeltingPtC,938,C
+KHSO3,MolarMass,120.1561,g/mol
+KHSO3,Odor,sulfur dioxide,NoUnits
+KHSO3,Appearance,White crystalline powder,NoUnits
+KHSO3,Solubility,49,g/100 mL 20 C 
+KHSO3,SolubleOther,insoluble in alcohol,NoUnits
+KHSO3,MeltingPtC,190,C
+Al2S3,HeatCapacity,105.1,J/mol K
+Al2S3,Density,2.02,g/cm^3
+Al2S3,MolarMass,150.158,g/mol
+Al2S3,Appearance,gray solid,NoUnits
+Al2S3,Solubility,decomposes,NoUnits
+Al2S3,BoilingPtC,1500,C
+Al2S3,Entropy,116.9,J/mol K
+Al2S3,DeltaHf,-724,kJ/mol
+Al2S3,SolubleOther,insoluble in acetone,NoUnits
+Al2S3,MeltingPtC,1100,C
+ZnS,Density,4.090,g/cm^3
+ZnS,MolarMass,97.474,g/mol
+ZnS,BandGap,3.54,eV cubic
+ZnS,Solubility,negligible,NoUnits
+ZnS,DeltaHf,04.6,kJ/mol
+ZnS,MeltingPtC,1185,C
+Li2SO4,DeltaHf,436.37,kJ/mol
+Li2SO4,RefractIndex,1.465,-form
+Li2SO4,HeatCapacity,1.07,J/g K
+Li2SO4,Density,2.221,g/cm^3 anhydrous 
+Li2SO4,MolarMass,109.94,g/mol
+Li2SO4,Appearance,White crystalline solid,NoUnits
+Li2SO4,Solubility,monohydrate ,NoUnits
+Li2SO4,BoilingPtC,1377,C
+Li2SO4,DeltaGf,-1324.7,kJ/mol
+Li2SO4,MeltingPtC,859,C
+Li2SO4,Entropy,113,J/mol K
+Li2SO4,Properties_ref,,NoUnits
+Li2SO4,SolubleOther,insoluble in absolute ethanol,NoUnits
+NH4ClO4,Density,1.95,g/cm^3
+NH4ClO4,MolarMass,117.49,g/mol
+NH4ClO4,Solubility,11.56,g/100 mL 0 C 
+NH4ClO4,MeltingPt,200,C
+NH4ClO4,SolubleOther,Soluble in Methanol ,NoUnits
+H6Si2,MeltingPtC,-132,C
+H6Si2,Appearance,Colourless gas,NoUnits
+H6Si2,BoilingPtC,-14,C
+H6Si2,Density,2.7,g dm^3
+N1H4Cl,Density,1.5274,g/cm^3
+N1H4Cl,Solvent1,methanol,NoUnits
+N1H4Cl,Solvent3,glycerol,NoUnits
+N1H4Cl,Solvent2,ethanol,NoUnits
+N1H4Cl,Solvent5,acetic acid,NoUnits
+N1H4Cl,Solvent4,sulfur dioxide,NoUnits
+N1H4Cl,RefractIndex,1.642,20 C
+N1H4Cl,Odor,Odorless,NoUnits
+N1H4Cl,BoilingPtC,520,C
+N1H4Cl,MeltingPtC,338,C
+N1H4Cl,Appearance,White solid,NoUnits
+N1H4Cl,Solubility5,0.67,g/kg 16.6 C
+N1H4Cl,Solubility4,0.09,g/kg 0 C
+N1H4Cl,Solubility3,97,g/kg
+N1H4Cl,Solubility2,6,g/L 19 C
+N1H4Cl,HeatCapacity,84.1,J/molK
+N1H4Cl,DeltaGf,02.97,kJ/mol
+N1H4Cl,SolubilityProduct,30.9,395 g/L
+N1H4Cl,pKa,9.24,NoUnits
+N1H4Cl,Entropy,94.56,J/molK
+N1H4Cl,DeltaHf,14.43,kJ/mol
+SeCl4,Density,2.6,g/cm^3
+SeCl4,MolarMass,220.771,g/mol
+SeCl4,Appearance,white to yellow crystals,NoUnits
+SeCl4,Solubility,decomposes in water,NoUnits
+SeCl4,postscript,Noneref,NoUnits
+SeCl4,MeltingPt,Sublimation chemistry,NoUnits
+SeCl4,sublimes at 191.4&nbsp;C<ref name,handCite book,NoUnits
+BaNO3)2,Density,3.24,g/cm^3
+BaNO3)2,MolarMass,261.337,g/mol
+BaNO3)2,Odor,odorless,NoUnits
+BaNO3)2,Appearance,white,NoUnits
+BaNO3)2,Solubility,4.95,g/100 mL 0 C 
+BaNO3)2,RefractIndex,1.5659,NoUnits
+BaNO3)2,SolubleOther,insoluble in alcohol,NoUnits
+BaNO3)2,MeltingPtC,592,C
+CN)2,DeltaHf,309.07,kJ mol^1
+CN)2,BoilingPtK,252.0,K
+CN)2,Odor,pungent,NoUnits
+CN)2,Density,950,mg mL^1 at 21 C
+CN)2,Appearance,Colourless gas,NoUnits
+CN)2,Solubility,45,g/100 mL at 20 C
+CN)2,Entropy,241.57,J K^1 mol^1
+CN)2,DeltaHc,.09781.0942,MJ mol^1
+CN)2,VaporPressure,5.1,atm 21 C
+CN)2,RefractIndex,1.327,18 C
+CN)2,SolubleOther,soluble in ethanol,NoUnits
+CN)2,HenryConstant,1.9,mol Pa^1 kg^1
+CN)2,MeltingPtC,-28,C
+NdCl3,Solvent,ethanol,NoUnits
+NdCl3,Density,4.13,g/cm^3 2.282 for hydrate
+NdCl3,MolarMass,250.598,g/mol
+NdCl3,Appearance,colored powder ,NoUnits
+NdCl3,Solubility,0.967,kg/L at 13 C
+NdCl3,BoilingPtC,1600,C
+NdCl3,SolubleOther,0.445,kg/L
+NdCl3,MeltingPtC,758,C
+Ga2S3,MolarMass,235.644,g/mol
+Ga2S3,MeltingPt_ref,,NoUnits
+Ga2S3,Appearance,,NoUnits
+Ga2S3,MeltingPtC,1090,C
+CdBr2,Density,5.192,g/cm^3
+CdBr2,MolarMass,272.22, g/mol
+CdBr2,Appearance,white to pale yellow crystalline solid,NoUnits
+CdBr2,Solubility,56.3,g/100 mL 0 C 
+CdBr2,BoilingPtC,844,C
+CdBr2,SolubleOther,soluble in alcohol,NoUnits
+CdBr2,MeltingPtC,568,C
+SeF4,MolarMass,154.954,g/mol
+SeF4,MeltingPtC,-13.2,C
+SeF4,Appearance,colourless liquid,NoUnits
+SeF4,BoilingPtC,101,C
+SeF4,Density,2.77,g/cm^3
+NiNO3)2,Density,2.05,g/cm^3 hexahydrate
+NiNO3)2,MolarMass,182.703,g/mol anhydrous
+NiNO3)2,Odor,odorless,NoUnits
+NiNO3)2,Appearance,emerald green hygroscopic solid,NoUnits
+NiNO3)2,Solubility,243,hexahydrate g/100ml 0 C
+NiNO3)2,BoilingPtC,136.7,C
+NiNO3)2,RefractIndex,1.422,hexahydrate
+NiNO3)2,SolubleOther,soluble in ethanol,NoUnits
+NiNO3)2,MeltingPtC,56.7,C
+H2Se,Density,3.553,g/cm^3
+H2Se,MolarMass,80.98,g/mol
+H2Se,Odor,decayed horseradish,NoUnits
+H2Se,Appearance,Colorless gas,NoUnits
+H2Se,Solubility,0.70,g/100 mL
+H2Se,BoilingPtC,-41.25,C
+H2Se,pKa,3.89,NoUnits
+H2Se,VaporPressure,9.5,atm 21C
+H2Se,SolubleOther,soluble in carbon disulfide,NoUnits
+H2Se,MeltingPtC,-65.73,C
+NH4)2Cr2O7,MolarMass,252.07,g/mol
+NH4)2Cr2O7,SolubleOther,insoluble in acetone ,NoUnits
+NH4)2Cr2O7,MeltingPtC,180,C
+NH4)2Cr2O7,Appearance,red crystals,NoUnits
+NH4)2Cr2O7,Density,2.115,g/cm^3
+AlBr3,Density,3.205,g/cm^3
+AlBr3,MolarMass,266.69,g/mol
+AlBr3,Odor,pungent,NoUnits
+AlBr3,Appearance,white to pale yellowbr  crystalline solid,NoUnits
+AlBr3,Solubility,reacts,NoUnits
+AlBr3,BoilingPtC,265,C
+AlBr3,SolubleOther,slightly soluble in methanol,NoUnits
+AlBr3,MeltingPtC,97.8,C
+Cr1O3,DeltaHf,89.3,kJ/mol
+Cr1O3,MagSus,410^5,cm^3/mol
+Cr1O3,Density,2.7,g/cm^3 20 C
+Cr1O3,Odor,Odorless,NoUnits
+Cr1O3,Appearance,Dark red granular solid,NoUnits
+Cr1O3,Solubility,164.8,g/abbr
+Cr1O3,BoilingPtC,250,C
+Cr1O3,SolubleOther,Soluble in sulfuric acid,NoUnits
+Cr1O3,MeltingPtC,197,C
+BaCl2,Density,3.856,g/cm^3 anhydrous 
+BaCl2,MolarMass,208.23,g/mol anhydrous 
+BaCl2,Appearance,White solid,NoUnits
+BaCl2,BoilingPtC,1560,C
+BaCl2,DeltaHf,-858.56,kJ/mol
+BaCl2,MeltingPtC,962,C
+NH4)2SO3,MolarMass,116.14,g/mol
+NH4)2SO3,SolubleOther,Insoluble in acetone and alcohol,NoUnits
+NH4)2SO3,Appearance,colourless,NoUnits
+NH4)2SO3,RefractIndex,1.515.,NoUnits
+Al2SO4)3,Density,2.672,g/cm^3 anhydrous 
+Al2SO4)3,MolarMass,342.15,g/mol anhydrous 
+Al2SO4)3,Appearance,white crystalline solid ,NoUnits
+Al2SO4)3,pKa,3.3-3.6,NoUnits
+Al2SO4)3,DeltaHf,-3440,kJ/mol
+Al2SO4)3,SolubleOther,slightly soluble in alcohol,NoUnits
+Al2SO4)3,MeltingPtC,770,C
+CaCN2,Density,2.29,g/cm^3
+CaCN2,MolarMass,80.102,g/mol
+CaCN2,Odor,odorless,NoUnits
+CaCN2,Appearance,White solid Often gray or black from impurities,NoUnits
+CaCN2,Solubility,Reacts,NoUnits
+CaCN2,BoilingPtC,1150,to 1200 C
+CaCN2,MeltingPtC,1340,C
+NiF2,Density,4.72,g/cm^3
+NiF2,MolarMass,96.6902,g/mol
+NiF2,Appearance,Yellowish to green tetragonal crystals,NoUnits
+NiF2,Solubility,4,g/100 mL
+NiF2,BoilingPtC,1750,C
+NiF2,SolubleOther,insoluble in alcohol,NoUnits
+NiF2,MeltingPtC,1474,C
+BaO2,Density,5.68,g/cm^3 anhydrous 2.292 g/cm^3 octahydrate
+BaO2,MolarMass,169.33,g/mol anhydrous 
+BaO2,Odor,odorless,NoUnits
+BaO2,Appearance,white crystalline anhydrous ,NoUnits
+BaO2,BoilingPtC,800,C
+BaO2,SolubleOther,dissolves with decomposition in acid,NoUnits
+BaO2,MeltingPtC,450,C
+Na2TeO3,Density,6.245,g/cm^3
+Na2TeO3,MolarMass,221.57774,g/mol
+Na2TeO3,BoilingPt,unknown very high,NoUnits
+Na2TeO3,Appearance,white crystals,NoUnits
+Na2TeO3,Solubility,soluble ,NoUnits
+Na2TeO3,MeltingPtC,710,C
+P4S3,Density,2.08,g.cm^3
+P4S3,MolarMass,220.093,g/mol
+P4S3,Appearance,yellow,NoUnits
+P4S3,BoilingPtC,408,C
+P4S3,MeltingPtC,172.5,C
+CoNO3)2,Density,2.49,g/cm^3 anhydrous 
+CoNO3)2,MolarMass,182.943,g/mol anhydrous 
+CoNO3)2,Odor,odorless hexahydrate,NoUnits
+CoNO3)2,Appearance,pale red powder anhydrous ,NoUnits
+CoNO3)2,BoilingPtC,100,to 105 C
+CoNO3)2,SolubleOther,soluble in alcohol,NoUnits
+CoNO3)2,MeltingPtC,100,C
+UO2SO4,MolarMass,366.09,g/mol
+UO2SO4,Solubility,27,NoUnits
+UO2SO4,Density,3,NoUnits
+NaClO4,Density,2.4994,g/cm^3 
+NaClO4,MolarMass,122.44,g/mol
+NaClO4,Appearance,White crystalline solid,NoUnits
+NaClO4,Solubility,209.6,g/100 mL 25 C
+NaClO4,BoilingPtC,482,C
+NaClO4,RefractIndex,1.4617,NoUnits
+NaClO4,MeltingPtC,468,C
+SeF6,DeltaHf,1030,kJ/mol
+SeF6,HeatCapacity,Selenium hexafluoride is the inorganic compound with the chemical formula,NoUnits
+SeF6,Density,7.887,kg/m^3 g/L
+SeF6,MolarMass,192.9534,g/mol
+SeF6,Appearance,colourless gas,NoUnits
+SeF6,Solubility,insoluble,NoUnits
+SeF6,BoilingPtC,6.6,C
+SeF6,editor,King,NoUnits
+SeF6,MeltingPt_ref,,NoUnits
+SeF6,encyclopedia,Encyclopedia of Inorganic Chemistry,NoUnits
+SeF6,VaporPressure,1,atm 20C
+SeF6,RefractIndex,1.895,NoUnits
+SeF6,MeltingPtC,4.6,C
+ErCl3,Density,4.1,g/cm^3 anhydrous
+ErCl3,MolarMass,273.62,g/mol anhydrous
+ErCl3,BoilingPtC,1500,C
+ErCl3,postscript,Noneref,NoUnits
+ErCl3,MeltingPtC,776,C
+P4O10,Density,2.39,g/cm^3
+P4O10,MolarMass,283.886,g mol^1
+P4O10,Appearance,white powderbr very deliquescentbr pungent odour,NoUnits
+P4O10,Solubility,exothermic hydrolysis,NoUnits
+P4O10,BoilingPtC,360,C
+P4O10,VaporPressure,1,mmHg @ 385 C stable form
+P4O10,MeltingPt,sublimes,NoUnits
+ThO2,DeltaHf,-12264,kJ/mol
+ThO2,Density,10.00,g/cm^3
+ThO2,MolarMass,264.04,g/mol
+ThO2,Odor,odorless,NoUnits
+ThO2,Appearance,white solid,NoUnits
+ThO2,Solubility,insoluble,NoUnits
+ThO2,BoilingPtC,4400,C
+ThO2,Entropy,65.22,JK^-1mol^-1
+ThO2,RefractIndex,2.200,thorianite
+ThO2,SolubleOther,insoluble in alkali ,NoUnits
+ThO2,MeltingPtC,3390,C
+K2Cr2O7,DeltaHf,-2033,kJ/mol
+K2Cr2O7,Density,2.676,g/cm^3
+K2Cr2O7,MolarMass,294.185,g/mol
+K2Cr2O7,Odor,odorless,NoUnits
+K2Cr2O7,Appearance,orange crystalline solid,NoUnits
+K2Cr2O7,Solubility,4.9,g/100 mL 0 C 
+K2Cr2O7,BoilingPtC,500,C
+K2Cr2O7,Entropy,291.2,JK^1mol^1
+K2Cr2O7,RefractIndex,1.738,NoUnits
+K2Cr2O7,SolubleOther,insoluble in alcohol,NoUnits
+K2Cr2O7,MeltingPtC,398,C
+MgO,Density,3.58,g/cm^3
+MgO,Dipole,6.2, 0.6 D
+MgO,RefractIndex,1.7355,NoUnits
+MgO,MolarMass,40.3044,g/mol
+MgO,Odor,Odorless,NoUnits
+MgO,Solubility,0.00062,g/100 mL 0 C 
+MgO,BoilingPtC,3600,C
+MgO,MeltingPtC,2852,C
+MgO,Appearance,White powder,NoUnits
+MgO,BandGap,7.8,eV
+MgO,DeltaGf,-596.6,kJ/mol
+MgO,SolubleOther,Soluble in acid,NoUnits
+MgO,HeatCapacity,37.8,J/mol K
+MgO,Entropy,26.9,Jmol^1K^1
+MgO,DeltaHf,01.8,kJmol^1
+IF5,MolarMass,221.89,g/mol
+IF5,Density,3.250,g/cm^3
+IF5,Appearance,colorless or pale yellow liquid,NoUnits
+IF5,Solubility,Reacts,NoUnits
+IF5,BoilingPtC,97.85,C
+IF5,MeltingPtC,9.43,C
+AgI,Density,5.675,g/cm^3
+AgI,MolarMass,234.77,g/mol
+AgI,Odor,odorless,NoUnits
+AgI,Appearance,yellow,NoUnits
+AgI,BoilingPtC,1506,C
+AgI,SolubilityProduct,8.52, 10 ^17
+AgI,Entropy,115,Jmol^1K^1
+AgI,DeltaHf,2,kJmol^1
+AgI,SolubleOther,soluble in acid,NoUnits
+AgI,MeltingPtC,558,C
+PH3,DeltaHf,5,kJmol^1
+PH3,Density,1.379,g/l
+PH3,MolarMass,33.99758,g/mol
+PH3,Viscosity,1.1,x 10^5 Pa s
+PH3,Odor,faint,NoUnits
+PH3,Appearance,colorless gas,NoUnits
+PH3,Solubility,31.2,mg/100 ml 17 C
+PH3,BoilingPtC,-87.7,C
+PH3,Entropy,210,Jmol^1K^1
+PH3,VaporPressure,41.3,atm 20C
+PH3,RefractIndex,2.144,NoUnits
+PH3,SolubleOther,soluble in alcohol,NoUnits
+PH3,MeltingPtC,-132.8,C
+B5H9,Density,0.618,g/mL
+B5H9,MolarMass,63.12,g/mol
+B5H9,Odor,pungent,NoUnits
+B5H9,Appearance,Colorless liquid,NoUnits
+B5H9,Solubility,Reacts with water,NoUnits
+B5H9,BoilingPtC,60.1,C
+B5H9,VaporPressure,171,mmHg 20C
+B5H9,MeltingPtC,-46.8,C
+B4C,Density,2.52,g/cm^3
+B4C,MolarMass,55.255,g/mol
+B4C,Appearance,dark gray or black powder,NoUnits
+B4C,Solubility,insoluble,NoUnits
+B4C,BoilingPtC,3500,C
+B4C,pKa,67,20 C
+B4C,MeltingPtC,2763,C
+PdNO3)2,MolarMass,230.43,g/mol
+PdNO3)2,MeltingPt,100,C
+PdNO3)2,Appearance,brown solid,NoUnits
+PdNO3)2,Solubility,Soluble,NoUnits
+BeCO3,DeltaGf,-948,kJ/mol
+BeCO3,Entropy,52,J/molK
+BeCO3,HeatCapacity,65,J/molK
+BeCO3,Solubility,0.36,g/100 mL
+BeCO3,BoilingPtC,100,C
+ZnSO4,DeltaHf,83,kJmol^1
+ZnSO4,Density,3.54,g/cm^3 anhydrous 
+ZnSO4,Odor,odorless,NoUnits
+ZnSO4,Appearance,white powder,NoUnits
+ZnSO4,BoilingPtC,740,C
+ZnSO4,Entropy,120,Jmol^1K^1
+ZnSO4,RefractIndex,1.658,anhydrous
+ZnSO4,SolubleOther,alcohols,NoUnits
+ZnSO4,MeltingPtC,680,C
+AuF3,DeltaHf,-363.3,kJ/mol
+AuF3,HeatCapacity,GoldIII fluoride,NoUnits
+AuF3,Density,6.75,g/cm^3
+AuF3,MolarMass,253.962,g/mol
+AuF3,align,center  class,NoUnits
+AuF3,Appearance,yellow hexagonal crystal system,NoUnits
+AuF3,MeltingPt,300C,NoUnits
+COCl2,Density,4.248,g/L 15 C
+COCl2,MolarMass,98.92,g mol^1
+COCl2,Odor,suffocating,NoUnits
+COCl2,Appearance,colorless gas,NoUnits
+COCl2,Solubility,decomposes in water,NoUnits
+COCl2,BoilingPtC,8.3,C
+COCl2,VaporPressure,1.6,atm 20C
+COCl2,SolubleOther,soluble in benene,NoUnits
+COCl2,MeltingPtC,18,C
+BaS,Density,4.25,g/cm^3 
+BaS,MolarMass,169.39,g/mol
+BaS,BoilingPt,decomposes,NoUnits
+BaS,Solubility,2.88,g/100 mL 0 C 
+BaS,RefractIndex,2.155,NoUnits
+BaS,SolubleOther,insoluble in alcohol,NoUnits
+BaS,MeltingPtC,1200,C
+RbNO2,Density,3.11,g/cm^3
+RbNO2,MolarMass,147.473,g/mol
+RbNO2,Appearance,White hygroscopic solid,NoUnits
+RbNO2,BoilingPtC,578,C
+RbNO2,MeltingPtC,310,C
+RbNO2,RefractIndex,1.524,NoUnits
+Se2S6,MolarMass,350.32,g/mol
+Se2S6,SolubleOther,soluble in carbon disulfide,NoUnits
+Se2S6,MeltingPtC,121.5,C
+Se2S6,Appearance,orange needles,NoUnits
+Se2S6,Density,2.44,g/cm^3
+NH4OH,DeltaHf,0,kJmol^1
+NH4OH,Name,Ammonia solutionref,NoUnits
+NH4OH,Density,0.91,g/cm^3 25 % w/w<br />0.88 g/cm^3 35 % w/w
+NH4OH,MolarMass,35.04,g/mol
+NH4OH,Odor,Fishy,NoUnits
+NH4OH,Appearance,Colourless liquid,NoUnits
+NH4OH,Solubility,Miscible,NoUnits
+NH4OH,Entropy,111,Jmol^1K^1
+NH4OH,Properties_ref,,NoUnits
+NH4OH,MeltingPtC,7.5,C
+NaCN,DeltaHf,-91,kJ/mol
+NaCN,HeatCapacity,70.4,J/mol K
+NaCN,Density,1.5955,g/cm^3
+NaCN,MolarMass,49.0072,g/mol
+NaCN,Odor,like,NoUnits
+NaCN,Appearance,white solid,NoUnits
+NaCN,Solubility,48.15,g/100 mL 10 C 
+NaCN,BoilingPtC,1496,C
+NaCN,Entropy,115.7,J/mol K
+NaCN,RefractIndex,1.452,NoUnits
+NaCN,MeltingPtC,563.7,C
+Si3N4,MeltingPtF,3,NoUnits
+Si3N4,Appearance,grey,NoUnits
+Si3N4,Solubility,Insoluble,NoUnits
+Si3N4,Density,3.2,g/cm^3
+AlNO3)3,Density,1.72,g/cm^3 nonahydrate
+AlNO3)3,MolarMass,212.996,g/mol anhydrous <br /> 375.134 g/mol nonahydrate
+AlNO3)3,Odor,odorless,NoUnits
+AlNO3)3,Appearance,White crystals,NoUnits
+AlNO3)3,BoilingPtC,150,C
+AlNO3)3,Solvent1,methanol,NoUnits
+AlNO3)3,Solvent3,ethylene glycol,NoUnits
+AlNO3)3,Solvent2,ethanol,NoUnits
+AlNO3)3,Solubility3,18.32,g/100ml
+AlNO3)3,Solubility2,8.63,g/100ml
+AlNO3)3,Solubility1,14.45,g/100ml
+AlNO3)3,RefractIndex,1.54,NoUnits
+K2SO4,Density,2.66,g/cm^3
+K2SO4,MolarMass,174.259,g/mol
+K2SO4,Odor,odorless,NoUnits
+K2SO4,Appearance,White solid,NoUnits
+K2SO4,Solubility,111,g/L 20 C <br /> 120 g/L 25 C <br /> 240 g/L 100 C
+K2SO4,BoilingPtC,1689,C
+K2SO4,RefractIndex,1.495,NoUnits
+K2SO4,SolubleOther,slightly soluble in glycerol br  insoluble in acetone,NoUnits
+BaClO3)2,MolarMass,304.23,g/mol
+BaClO3)2,MeltingPtC,413.9,C
+BaClO3)2,Appearance,white solid,NoUnits
+BaClO3)2,Solubility,27.5,g/100 ml 20 C
+BaClO3)2,Density,3.18,g/cm^3
+CrO2Cl2,Density,1.911,g/mL
+CrO2Cl2,MolarMass,154.9008,g/mol
+CrO2Cl2,Odor,musty,NoUnits
+CrO2Cl2,BoilingPt,117,C
+CrO2Cl2,Appearance,deep red fuming liquid,NoUnits
+CrO2Cl2,Solubility,Reacts,NoUnits
+CrO2Cl2,VaporPressure,20,mmHg 20 C
+CrO2Cl2,MeltingPt,-96.5,C
+CsF,DeltaHf,-555,kJ/mol
+CsF,Density,4.115,g/cm^3
+CsF,MolarMass,151.90,g/mol
+CsF,Appearance,white crystalline solid,NoUnits
+CsF,Solubility,367,g/100 ml 18 C
+CsF,BoilingPtC,1251,C
+CsF,RefractIndex,1.477,NoUnits
+CsF,MeltingPtC,682,C
+Fe2O3,DeltaHf,24.2,kJ/mol
+Fe2O3,CH<sub>3</sub>COOH<ref name,00,/>
+Fe2O3,HeatCapacity,103.9,J/molK
+Fe2O3,Density,5.242,g/cm^3
+Fe2O3,Odor,Odorless,NoUnits
+Fe2O3,Appearance,brown solid,NoUnits
+Fe2O3,Solubility,Insoluble,NoUnits
+Fe2O3,MeltingPt_ref,,NoUnits
+Fe2O3,DeltaGf,42.2,kJ/mol
+Fe2O3,place,New York,NoUnits
+Fe2O3,"F K<br> -monohydrate, decomposes<ref name",00cite book,NoUnits
+Fe2O3,Entropy,87.4,J/molK
+Fe2O3,MeltingPtC,1539-1565,C
+SiO2,MolarMass,60.08,g/mol
+SiO2,Odor,OdorlessSilica gel is a granularity,NoUnits
+SiO2,Appearance,Transparent beads,NoUnits
+MnF4,Density,3.61,g cm<sup3 calc.
+MnF4,assignee,Astor ElectronicsShowa Denko,NoUnits
+MnF4,MolarMass,130.93,g mol^1
+MnF4,Solubility,reacts violently,NoUnits
+MnF4,publication-date,2006-03-30,NoUnits
+MnF4,publication-place,2006033480.</ref>,NoUnits
+MnF4,Appearance,blue solid,NoUnits
+MnF4,contribution,PCT Appl,NoUnits
+MnF4,Properties_ref,,NoUnits
+Cl2O,Solvent,other solvents,NoUnits
+Cl2O,MolarMass,86.9054,g/mol
+Cl2O,Appearance,yellow gas,NoUnits
+Cl2O,Solubility,very soluble,NoUnits
+Cl2O,BoilingPtC,2.0,C
+Cl2O,Entropy,265.9,J K^1 mol^1
+Cl2O,DeltaHf,80.3,kJ mol^1
+Cl2O,SolubleOther,4sub,NoUnits
+Cl2O,MeltingPtC,20.6,C
+Ag2S,DeltaHf,2.59,kJ/mol
+Ag2S,HeatCapacity,76.57,J/molK
+Ag2S,Odor,Odorless,NoUnits
+Ag2S,Appearance,black crystal,NoUnits
+Ag2S,"KNO<sub>3</sub><br> Insoluble in acids, alkalies, aqueous ammoniums<ref name",00cite book,NoUnits
+Ag2S,Solubility,6.2110^15,g/L 25 C
+Ag2S,SolubilityProduct,6.3110^50,NoUnits
+Ag2S,MeltingPt_ref,,NoUnits
+Ag2S,DeltaGf,0.71,kJ/mol
+Ag2S,place,New York,NoUnits
+Ag2S,Entropy,143.93,J/molK
+Ag2S,SolubleOther,Soluble in aq hydrogen cyanide,NoUnits
+Ag2S,MeltingPtC,836,C
+SnF2,Density,4.57,g/cm^3
+SnF2,MolarMass,156.69,g/mol
+SnF2,Appearance,colorless solid,NoUnits
+SnF2,Solubility,31,g/100 mL 0 C; <br />35 g/100 mL 20 C; <br />78.5 g.100 mL 106 C
+SnF2,BoilingPtC,850,C
+SnF2,SolubleOther,soluble in potassium hydroxide,NoUnits
+SnF2,MeltingPtC,213,C
+H2SiF6,Odor,sour,NoUnits
+H2SiF6,Appearance,transparent,NoUnits
+H2SiF6,Solubility,miscible,NoUnits
+H2SiF6,BoilingPtC,108.5,C
+H2SiF6,MeltingPt,ca convert,NoUnits
+H2SiF6,RefractIndex,1.3465,NoUnits
+C1O2,DeltaHf,93.5,kJmol^1
+C1O2,HeatCapacity,37.135,J/K mol
+C1O2,Appearance,Colorless gas,NoUnits
+C1O2,Odor,Odorless,NoUnits
+C1O2,SublimationConditions,8.5,C; 109.2 F; 194.7 K 1 atm
+C1O2,Dipole,0,D
+C1O2,Solubility,1.45,g/L at convert
+C1O2,pKa,6.35,NoUnits
+C1O2,Entropy,214,Jmol^1K^1
+C1O2,MeltingPtK,216.6,K
+C1O2,VaporPressure,5.73,MPa 20 C
+C1O2,Viscosity,0.07,Poise
+C1O2,RefractIndex,1.00045,NoUnits
+GaS,MolarMass,101.788,g mol^1
+GaS,MeltingPtC,965,C
+GaS,Appearance,Yellow crystals,NoUnits
+GaS,Density,3.86,g cm^3
+H3NO,HeatCapacity,46.47,J K^1 mol^1
+H3NO,LogP,.758,NoUnits
+H3NO,Appearance,Vivid white,NoUnits
+H3NO,pKb,8.05,NoUnits
+H3NO,pKa,5.95,NoUnits
+H3NO,Entropy,236.18,J K^1 mol^1
+H3NO,DeltaHf,9.9,kJ mol^1
+N2O4,Density,1.44246,g/cm^3 liquid
+N2O4,MolarMass,92.011,g/mol
+N2O4,Appearance,Colourless liquidOrange gas,NoUnits
+N2O4,Solubility,reacts,NoUnits
+N2O4,BoilingPtC,21.69,C
+N2O4,Entropy,304.29,JK^1mol^1
+N2O4,RefractIndex,1.00112,NoUnits
+N2O4,MeltingPtC,1.2,C
+H1BrO4,MolarMass,128.91,NoUnits
+H1BrO4,MeltingPt,decomposes before melting,NoUnits
+GaCl3,Density,2.47,g/cm^3
+GaCl3,Appearance,colorless crystals ,NoUnits
+GaCl3,Solubility,very soluble,NoUnits
+GaCl3,BoilingPtC,201,C
+GaCl3,SolubleOther,soluble in benene,NoUnits
+GaCl3,MeltingPtC,77.9,C
+NaOCN,HeatCapacity,86.6,J/mol K
+NaOCN,Density,1.893,g/cm^3
+NaOCN,MolarMass,65.01,g/mol
+NaOCN,Odor,odorless,NoUnits
+NaOCN,Appearance,white crystalline solid,NoUnits
+NaOCN,Solubility,11.6,g/100 mL 25 C
+NaOCN,Entropy,119.2,J/mol K
+NaOCN,DeltaHf,00,kJ/mol
+NaOCN,MeltingPtC,550,C
+Hg2Cl2,DeltaHf,65,kJmol^1
+Hg2Cl2,Density,7.150,g/cm^3
+Hg2Cl2,MolarMass,472.09,g/mol
+Hg2Cl2,Appearance,White solid,NoUnits
+Hg2Cl2,Solubility,0.2,mg/100 mL
+Hg2Cl2,BoilingPtC,383,C
+Hg2Cl2,Entropy,196,Jmol^1K^1
+Hg2Cl2,RefractIndex,1.973,NoUnits
+Hg2Cl2,SolubleOther,insoluble in ethanol,NoUnits
+Hg2Cl2,MeltingPtC,525,C
+Y2S3,MolarMass,274.010,g/mol
+Y2S3,MeltingPtC,1925,C
+Y2S3,Appearance,yellow cubic crystal system,NoUnits
+Y2S3,Density,3.87,g/cm^3
+AuCl,MolarMass,232.423,g/mol
+AuCl,Appearance,yellow solid,NoUnits
+AuCl,Solubility,very slightly soluble,NoUnits
+AuCl,BoilingPtC,298,C
+AuCl,SolubleOther,soluble in hydrochloric acid,NoUnits
+AuCl,MeltingPtC,170,C
+AgClO4,Density,2.806,g/cm^3
+AgClO4,MolarMass,207.319,g/mol
+AgClO4,Appearance,Colorless hygroscopic crystals,NoUnits
+AgClO4,Solubility,557,g/100 mL 25 C 
+AgClO4,SolubleOther,soluble in organic solvents,NoUnits
+AgClO4,MeltingPtC,486,C
+H1NO3,DeltaHf,07,kJmol^1
+H1NO3,Density,1.5129,g cm^3
+H1NO3,Odor,acrid,NoUnits
+H1NO3,Appearance,Colorless,NoUnits
+H1NO3,Dipole,2.17, 0.02 D
+H1NO3,Solubility,Completely miscible,NoUnits
+H1NO3,RefractIndex,1.397,16.5 C
+H1NO3,pKa,14,NoUnits
+H1NO3,Entropy,146,Jmol^1K^1
+H1NO3,location,Ithaca,NoUnits
+H1NO3,VaporPressure,48,mmHg 20 C
+H1NO3,MeltingPtC,-42,C
+ZnF2,Density,4.95,g/cm^3 anhydrous 
+ZnF2,MolarMass,103.406,g/mol anhydrous 
+ZnF2,Appearance,white needles ,NoUnits
+ZnF2,Solubility,000052,g/100 mL anhydrous 
+ZnF2,BoilingPtC,1500,C
+ZnF2,SolubleOther,sparingly soluble in hydrochloric acid,NoUnits
+ZnF2,MeltingPtC,872,C
+CuCl,Density,4.145,g/cm^3
+CuCl,MolarMass,98.999,g/mol
+CuCl,Appearance,white powder,NoUnits
+CuCl,Solubility,0.0062,g/100 mL 20 C
+CuCl,BoilingPtC,1490,C
+CuCl,SolubilityProduct,1.72,x 10^7
+CuCl,SolubleOther,insoluble in ethanol ,NoUnits
+CuCl,MeltingPtC,426,C
+Cr2O3,DeltaHf,128,kJmol^1
+Cr2O3,Solvent,alcohol,NoUnits
+Cr2O3,Density,5.22,g/cm^3
+Cr2O3,MolarMass,151.9904,g/mol
+Cr2O3,Appearance,light to dark green,NoUnits
+Cr2O3,Solubility,insoluble,NoUnits
+Cr2O3,BoilingPtC,4000,C
+Cr2O3,Entropy,81,Jmol^1K^1
+Cr2O3,RefractIndex,2.551,NoUnits
+Cr2O3,SolubleOther,insoluble in alcohol,NoUnits
+Cr2O3,MeltingPtC,2435,C
+NH4)2CrO4,DeltaHf,-1163,kJ/mol
+NH4)2CrO4,Density,1.90,g/ml
+NH4)2CrO4,MolarMass,152.07,g/mol
+NH4)2CrO4,Appearance,yellow crystals,NoUnits
+NH4)2CrO4,Entropy,657,J/Kmol
+NH4)2CrO4,location,Boca Raton,NoUnits
+NH4)2CrO4,MeltingPtC,185,C
+ZnTe,ElectronMobility,340,cm^2/Vs
+ZnTe,HeatCapacity,264,J/kgK
+ZnTe,Density,6.34,g/cm^3
+ZnTe,MolarMass,192.99,g/mol
+ZnTe,BandGap,2.26,eV
+ZnTe,Appearance,red crystals,NoUnits
+ZnTe,MeltingPt_ref,,NoUnits
+ZnTe,MeltingPtK,1568,K
+ZnTe,ThermalConductivity,108,mW/cmK
+ZnTe,RefractIndex,3.56,NoUnits
+NH4)2PtCl6,Density,3.065,g/cm^3
+NH4)2PtCl6,MolarMass,443.87,g/mol
+NH4)2PtCl6,series,Inorganic Syntheses,NoUnits
+NH4)2PtCl6,Odor,odorless,NoUnits
+NH4)2PtCl6,Appearance,yellow crystals,NoUnits
+NH4)2PtCl6,Solubility,0.289,g/100ml 0 C<br /> 0.7 g/100ml 15 C
+NH4)2PtCl6,hexachloroplatinic acid with a solution of an ammonium salt.<ref name,Kauufcite journal,NoUnits
+NH4)2PtCl6,MeltingPtC,380,C
+Rb2Te,MolarMass,298.54,g/mol
+Rb2Te,BoilingPt,Rubidium telluride is the inorganic compound with the formula rubidium,NoUnits
+Rb2Te,Appearance,green powder,NoUnits
+Rb2Te,pmc, cite web,NoUnits
+Rb2Te,MeltingPtC,775,C
+ZnI2,Density,4.74,g/cm^3
+ZnI2,MolarMass,319.22,g/mol
+ZnI2,Appearance,white solid,NoUnits
+ZnI2,Solubility,450,g/100mL 20 C
+ZnI2,BoilingPtC,1150,C
+ZnI2,MeltingPtC,446,C
+HN3,Density,1.09,g/cm^3
+HN3,MolarMass,43.03,g/mol
+HN3,Appearance,colorless,NoUnits
+HN3,Solubility,highly soluble,NoUnits
+HN3,SolubleOther,soluble in alkali,NoUnits
+HN3,MeltingPtC,-80,C
+OF2,Solvent,slightly soluble in alcohol,NoUnits
+OF2,HeatCapacity,43.3,J/mol K
+OF2,MolarMass,53.9962,g/mol
+OF2,Odor,peculiar,NoUnits
+OF2,Appearance,colorless gas,NoUnits
+OF2,Solubility,hydrolyes,NoUnits
+OF2,BoilingPtC,44.75,C
+OF2,DeltaGf,42.5,kJ/mol
+OF2,Entropy,246.98,J/mol K
+OF2,VaporPressure,1,atm 20C
+OF2,DeltaHf,24.5,kJ mol^1
+OF2,MeltingPtC,23.8,C
+GaSb,Density,5.614,g/cm^3
+GaSb,MolarMass,191.483,g/mol
+GaSb,ElectronMobility,3000,cm^2/V*s 300 K
+GaSb,BandGap,0.726,eV 300 K
+GaSb,Solubility,insoluble,NoUnits
+GaSb,ThermalConductivity,0.32,W/cm*K 300 K
+GaSb,RefractIndex,3.8,NoUnits
+GaSb,MeltingPtC,712,C
+P4S10,Solvent,other solvents,NoUnits
+P4S10,Density,2.09,g/cm^3
+P4S10,MolarMass,444.555,g mol
+P4S10,Odor,rotten eggs,NoUnits
+P4S10,Appearance,gray to yellow solid,NoUnits
+P4S10,Solubility,hydrolyses,NoUnits
+P4S10,BoilingPtC,514,C
+P4S10,VaporPressure,1,mmHg 300C
+P4S10,SolubleOther,0.222,g / 100g carbon disulfide
+P4S10,MeltingPtC,288,C
+CsCl,Density,3.988,g/cm^3
+CsCl,MolarMass,168.36,g/mol
+CsCl,BandGap,8.35,eV 80 K
+CsCl,Appearance,white solid ,NoUnits
+CsCl,Solubility,162,g/100 mL 0 C 
+CsCl,BoilingPtC,1297,C
+CsCl,RefractIndex,1.64,NoUnits
+CsCl,SolubleOther,soluble in ethanol,NoUnits
+CsCl,MeltingPtC,645,C
+IF7,MolarMass,259.90,g/mol
+IF7,MeltingPtC,4.5,C
+IF7,Appearance,colorless gas,NoUnits
+IF7,BoilingPtC,4.8,C
+IF7,Density,2.6,g/cm^3 6 C 
+TiC,Density,4.93,g/cm^3
+TiC,MolarMass,59.89,g/mol
+TiC,Appearance,black powder,NoUnits
+TiC,Solubility,insoluble in water,NoUnits
+TiC,BoilingPtC,4820,C
+TiC,MeltingPtC,3160,C
+EuCl3,MolarMass,258.323,g/mol
+EuCl3,SolubleOther,Soluble,NoUnits
+EuCl3,Solvent,other solvents,NoUnits
+EuCl3,MeltingPtC,632,C
+FeCl3,Solvent,acetone,NoUnits
+FeCl3,Density,2.898,g/cm^3 anhydrous 
+FeCl3,MolarMass,162.2,g/mol anhydrous 
+FeCl3,Odor,slight hydrochloric acid,NoUnits
+FeCl3,BoilingPt,convert,NoUnits
+FeCl3,Viscosity,40%,solution: 12 cPoise
+FeCl3,MeltingPtC,306,C
+VBr3,MolarMass,290.654,g/mol
+VBr3,SolubleOther,soluble in THFbr forms adduct,NoUnits
+VBr3,Appearance,brown solid,NoUnits
+VBr3,Solubility,soluble,NoUnits
+VBr3,Density,4,g/cm^3
+Na2O,HeatCapacity,72.95,J/molK
+Na2O,Density,2.27,g/cm^3
+Na2O,SublimationConditions,1275,C
+Na2O,Appearance,white solid,NoUnits
+Na2O,Solubility,reacts violently to form sodium hydroxide,NoUnits
+Na2O,BoilingPtC,1950,C
+Na2O,DeltaGf,-377.1,kJ/mol
+Na2O,Entropy,73,J/molK
+Na2O,DeltaHf,-416,kJ/mol
+Na2O,SolubleOther,reacts with ethanol,NoUnits
+Na2O,MeltingPtC,1132,C
+AlSb,DeltaHf,-50.4,kJ/mol
+AlSb,Density,4.26,g/cm^3
+AlSb,MolarMass,148.742,g/mol
+AlSb,BandGap,1.58,eV
+AlSb,Appearance,black crystals,NoUnits
+AlSb,Solubility,insoluble,NoUnits
+AlSb,BoilingPtC,2467,C
+AlSb,Entropy,65,J/mol K
+AlSb,RefractIndex,3.3,NoUnits
+AlSb,MeltingPtC,1060,C
+NH4ClO3,MeltingPtC,380,C
+NH4ClO3,Appearance,small colorless crystals,NoUnits
+NH4ClO3,Density,2.42,g/cm^3
+O3,Entropy,238.92,J K^1 mol^1
+O3,BoilingPtK,161,K
+O3,Odor,pungent,NoUnits
+O3,Density,2.144,mg cm^3 at 0 C
+O3,Appearance,colorless to pale blue gas,NoUnits
+O3,Solubility,1.05,g L^1 at 0 C
+O3,DeltaHf,142.67,kJ mol^1
+O3,SolubleOther,very soluble in carbon tetrachloride,NoUnits
+O3,VaporPressure,1,atm 20 C
+MoBr2,MolarMass,225.75,g/mol
+MoBr2,MeltingPtC,700,C
+MoBr2,Appearance,red solid ,NoUnits
+MoBr2,Solubility,insoluble,NoUnits
+MoBr2,Density,4.88,g/cm^3
+UO2CO3),Solvent,other solvents,NoUnits
+UO2CO3),MolarMass,330,g/mol
+B6O,Density,2.56,g/cm^3
+B6O,MolarMass,80.865,g/mol
+B6O,Appearance,Reddish icosahedral twinned crystals,NoUnits
+B6O,twinned groups of twenty tetrahedral crystals.<ref name,millan cite journal,NoUnits
+B6O,MeltingPtC,2000,C
+UO2CH3COO)2,Density,2.89,g/cm^3 dihydrate
+UO2CH3COO)2,MolarMass,424.146,g/mol dihydrate
+UO2CH3COO)2,Appearance,green crystals dihydrate,NoUnits
+UO2CH3COO)2,Solubility, 7694 g100 ml water someone confirm this,NoUnits
+UO2CH3COO)2,MeltingPt,80,C dihydrate
+UO2CH3COO)2,SolubleOther,slightly soluble in ethanol,NoUnits
+PCl3,DeltaHf,-319.7,kJ/mol
+PCl3,Solvent,other solvents,NoUnits
+PCl3,Density,1.574,g/cm^3
+PCl3,MolarMass,137.33,g/mol
+PCl3,Viscosity,0.65,cP 0 C 
+PCl3,Odor,like hydrochloric acid,NoUnits
+PCl3,Appearance,Colorless to yellow fuming liquid,NoUnits
+PCl3,Dipole,0.97,Debye
+PCl3,Solubility,Hydrolysis reaction,NoUnits
+PCl3,BoilingPtC,76.1,C
+PCl3,VaporPressure,13.3,kPa
+PCl3,RefractIndex,1.5122,21 C
+PCl3,SolubleOther,solublevague,NoUnits
+PCl3,MeltingPtC,-93.6,C
+H6N2O3S,Density,1.8,g/cm^3
+H6N2O3S,MolarMass,114.125,g/mol
+H6N2O3S,Appearance,White solid ,NoUnits
+H6N2O3S,Solubility,very soluble,NoUnits
+H6N2O3S,BoilingPtC,160,C
+H6N2O3S,SolubleOther,soluble in glycerol,NoUnits
+H6N2O3S,MeltingPtC,131,C
+CoF3,MolarMass,115.928,g/mol
+CoF3,Appearance,brown powder,NoUnits
+CoF3,Solubility,reacts,NoUnits
+CoF3,Density,3.88,g/cm^3
+NaH,DeltaHf,6.4,kJmol^1
+NaH,HeatCapacity,36.4,J/mol K
+NaH,Density,1.396,g/cm^3
+NaH,MolarMass,23.99771,g/mol
+NaH,Appearance,white or grey solid,NoUnits
+NaH,Solubility,Reacts with water,NoUnits
+NaH,DeltaGf,-33.5,kJ/mol
+NaH,Entropy,40,Jmol^1K^1
+NaH,RefractIndex,1.470,NoUnits
+NaH,SolubleOther,insoluble in ammonia,NoUnits
+NaH,MeltingPtC,300,C
+MoBr3,Density,4.89,g/cm^3
+MoBr3,MolarMass,335.70,g/mol
+MoBr3,Appearance,dark green to black solid,NoUnits
+MoBr3,Solubility,insoluble,NoUnits
+MoBr3,SolubleOther,soluble in pyridine,NoUnits
+MoBr3,MeltingPtC,500,C
+MoCl3,Density,3.58,g/cm^3
+MoCl3,MolarMass,202.30,g/mol
+MoCl3,Appearance,dark red solid ,NoUnits
+MoCl3,Solubility,insoluble,NoUnits
+MoCl3,SolubleOther,insoluble in ethanol,NoUnits
+MoCl3,MeltingPtC,410,C
+SeO2F2,MolarMass,148.95,g/mol
+SeO2F2,MeltingPt_ref,,NoUnits
+SeO2F2,BoilingPtC,84 C,NoUnits
+SeO2F2,Appearance,Gas,NoUnits
+SeO2F2,MeltingPtC,-99.5,C
+BaI2,Density,5.15,g/cm^3 anhydrous
+BaI2,MolarMass,391.136,g/mol anhydrous 
+BaI2,Odor,odorless,NoUnits
+BaI2,Appearance,White orthorhombic crystals anhydrous colorless crystals dihydrate,NoUnits
+BaI2,Solubility,166.7,g/100 mL 0 C 
+BaI2,DeltaHf,-602.1,kJ/mol
+BaI2,SolubleOther,soluble in ethanol,NoUnits
+BaI2,MeltingPtC,711,C
+MgCO3,DeltaHf,-1113,kJ/mol
+MgCO3,HeatCapacity,75.6,J/molK
+MgCO3,MolarMass,84.3139,g/mol anhydrous
+MgCO3,Odor,odorless,NoUnits
+MgCO3,Appearance,white solid ,NoUnits
+MgCO3,DeltaGf,-1029.3,kJ/mol
+MgCO3,MeltingPtC,350,C
+MgCO3,SolubleOther,soluble in acid,NoUnits
+MgCO3,RefractIndex,1.717,anhydrous
+BeSO4,DeltaHf,-1197,kJ/mol
+BeSO4,RefractIndex,1.4374,tetrahydrate
+BeSO4,Density,2.44,g/cm^3 anhydrous
+BeSO4,MolarMass,105.075,g/mol anhydrous
+BeSO4,Odor,odorless,NoUnits
+BeSO4,Appearance,white solid,NoUnits
+BeSO4,Solubility,36.2,g/100 mL 0 C 
+BeSO4,BoilingPtC,2500,C
+BeSO4,DeltaGf,-1088,kJ/mol
+BeSO4,Entropy,90,J/mol K
+BeSO4,Properties_ref,,NoUnits
+BeSO4,SolubleOther,insoluble in alcohol,NoUnits
+BeSO4,MeltingPtC,110,C
+Kr1F2,Appearance,Colourless crystals solid,NoUnits
+Kr1F2,Solubility,Reacts,NoUnits
+Kr1F2,Density,3.24,g cm^3 solid
+Ag3PO4,Density,6.370,g/cm^3
+Ag3PO4,Odor,odorless,NoUnits
+Ag3PO4,Appearance,Translucent yellow ,NoUnits
+Ag3PO4,Solubility,0.00065,g/100 mL
+Ag3PO4,Properties_ref,,NoUnits
+Ag3PO4,MeltingPtC,849,C
+H1F,DeltaHf,3.66,kJ/g gas <br /> 14.99 kJ/g liquid
+H1F,Density,1.15,g/L
+H1F,Appearance,195degC,NoUnits
+H1F,Solubility,miscible,NoUnits
+H1F,BoilingPtC,19.5,C
+H1F,pKa,3.17,NoUnits
+H1F,Entropy,8.687,J/g K gas
+H1F,VaporPressure,783,mmHg 20 C
+H1F,MeltingPtC,-83.6,C
+H1F,RefractIndex,1.00001,NoUnits
+NH4)NO3),MolarMass,80.043,g/mol
+NH4)NO3),BoilingPt,210,C;decomposes
+NH4)NO3),MeltingPtC,169.6,C
+NH4)NO3),Appearance,whitegrey solid,NoUnits
+NH4)NO3),Density,1.725,g/cm^3 20 C
+Ag1F,Entropy,83.7,J/molK
+Ag1F,HeatCapacity,48.1,J/molK
+Ag1F,Density,5.852,g/cm^3 15 C
+Ag1F,Appearance,brown solid,NoUnits
+Ag1F,BoilingPtC,1159,C
+Ag1F,DeltaGf,-187.9,kJ/mol
+Ag1F,DeltaHf,-206,kJ/mol
+Ag1F,MeltingPtC,435,C
+CaH2,Density,1.70,g/cm^3
+CaH2,MolarMass,42.094,g/mol
+CaH2,Appearance,gray powder white when pure,NoUnits
+CaH2,Solubility,reacts violently,NoUnits
+CaH2,DeltaGf,-142.5,kJ/mol
+CaH2,Entropy,41.4,Jmol^1K^1
+CaH2,DeltaHf,81.5,kJmol^1
+CaH2,SolubleOther,reacts in alcohol,NoUnits
+CaH2,MeltingPtC,816,C
+InP,HeatCapacity,45.4,J/molK
+InP,Density,4.81,g/cm^3
+InP,MolarMass,145.792,g/mol
+InP,BandGap,1.344,eV 300 K; Direct and indirect band gaps
+InP,Appearance,black cubic crystal system,NoUnits
+InP,Entropy,59.8,J/molK
+InP,DeltaHf,-88.7,Kilojoule per mole
+InP,RefractIndex,3.1,infrared; 
+InP,ElectronMobility,5400,cm^2/Vs 300 K
+InP,ThermalConductivity,0.68,W/cmK 300 K
+InP,SolubleOther,slightly soluble in acids,NoUnits
+InP,MeltingPtC,1062,C
+LiBr,DeltaHf,-350.3,kJ/mol
+LiBr,HeatCapacity,51.88,J/mol K
+LiBr,Density,3.464,g/cm^3
+LiBr,MolarMass,86.8453,g/mol
+LiBr,Appearance,White solid ,NoUnits
+LiBr,Solubility,143,g/100 mL 0 C 
+LiBr,BoilingPtC,1265,C
+LiBr,DeltaGf,-338.9,kJ/mol
+LiBr,Entropy,66.9,J/mol K
+LiBr,RefractIndex,1.784,NoUnits
+LiBr,SolubleOther,soluble in methanol,NoUnits
+LiBr,DeltaHc,-157,kJ/mol
+LiBr,MeltingPtC,552,C
+CaCrO4,MolarMass,156.072,g/mol
+CaCrO4,SolubleOther,soluble in acid ,NoUnits
+CaCrO4,MeltingPtC,2710,C
+CaCrO4,Appearance,bright yellow powder,NoUnits
+CaCrO4,Density,3.12,g/cm^3
+C2H7AsO2,Density,1.1,g/cm^3
+C2H7AsO2,MolarMass,137.9977,g/mol
+C2H7AsO2,Odor,odorless,NoUnits
+C2H7AsO2,Appearance,White crystals or powder,NoUnits
+C2H7AsO2,Solubility,66.7,g/100 ml
+C2H7AsO2,BoilingPtC,200,C
+C2H7AsO2,pKa,1.57,NoUnits
+C2H7AsO2,SolubleOther,soluble in ethanol,NoUnits
+C2H7AsO2,MeltingPtC,192,to 198 C
+SrCl2,MolarMass,158.53,g/mol anhydrous
+SrCl2,BoilingPtC,1250,C
+SrCl2,Appearance,White crystalline solid,NoUnits
+SrCl2,MeltingPtC,874,C
+GdCl3,Density,4.52,g/cm^3
+GdCl3,MolarMass,263.61,g/mol
+GdCl3,Appearance,white crystals,NoUnits
+GdCl3,Solubility,soluble,NoUnits
+GdCl3,BoilingPtC,1580,C
+GdCl3,MeltingPtC,609,C
+GaAs,Density,5.3176,g/cm^3
+GaAs,MolarMass,144.645,g/mol
+GaAs,BandGap,1.424,eV at 300 K
+GaAs,Odor,like when moistened,NoUnits
+GaAs,Appearance,Very dark red,NoUnits
+GaAs,Solubility,insoluble,NoUnits
+GaAs,ElectronMobility,8500,cm^2/Vs at 300 K
+GaAs,ThermalConductivity,0.55,W/cmK at 300 K
+GaAs,SolubleOther,soluble in hydrochloric acid,NoUnits
+GaAs,MeltingPtC,1238,C
+BeNO3)2,Density,1.56,g/cm^3
+BeNO3)2,MolarMass,133.021982,g/mol
+BeNO3)2,Odor,odorless,NoUnits
+BeNO3)2,Appearance,white to yellow solid,NoUnits
+BeNO3)2,Solubility,166,g/100 mL
+BeNO3)2,BoilingPtC,142,C
+BeNO3)2,DeltaHf,-700.4,kJ/mol
+BeNO3)2,MeltingPtC,60.5,C
+CoSO4H2O)6,Odor,odorless heptahydrate,NoUnits
+CoSO4H2O)6,RefractIndex,1.639,monohydrate 
+CoSO4H2O)6,Appearance,reddish crystalline anhydrous,NoUnits
+CoSO4H2O)6,MeltingPtC,735,C
+BeTe,MolarMass,136.612,g/mol
+BeTe,Density,5.1,g/cm^3
+InN,Density,6.81,g/cm^3
+InN,MolarMass,128.83,g/mol
+InN,Appearance,black powder,NoUnits
+InN,BandGap,0.65,eV 300 K
+InN,Solubility,hydrolysis,NoUnits
+InN,ElectronMobility,3200,cm^2/V.s 300 K
+InN,ThermalConductivity,45,W/m.K 300 K
+InN,RefractIndex,2.9,NoUnits
+InN,MeltingPtC,1100,C
+Na2WO4,SolubleOther,slightly soluble in ammonia ,NoUnits
+Na2WO4,MeltingPtC,698,C
+Na2WO4,Appearance,white Rhombohedral crystal system,NoUnits
+Na2WO4,Solubility,57.5,g/100 mL 0 C 
+Na2WO4,Density,4.179,g/cm^3 anhydrous 
+AsH3,Density,4.93,g/l
+AsH3,MolarMass,77.9454,g/mol
+AsH3,Appearance,colourless gas,NoUnits
+AsH3,Solubility,0.07,g/100 ml 25 C
+AsH3,BoilingPtC,2.5,C
+AsH3,Entropy,223,J.K^1.mol^1
+AsH3,VaporPressure,14.9,atm
+AsH3,DeltaHf,66.4,kJ/mol<!--Wiberg
+AsH3,MeltingPtC,11.2,C
+Cl2O3,MolarMass,118.903,g/mol
+Cl2O3,MeltingPt,0,C
+Cl2O3,Appearance,dark brown solid,NoUnits
+H3PO2,MolarMass,66.00,g/mol
+H3PO2,Appearance,colorless,NoUnits
+H3PO2,Solubility,miscible,NoUnits
+H3PO2,BoilingPtC,130,C
+H3PO2,pKa,1.2,NoUnits
+H3PO2,SolubleOther,very soluble in alcohol,NoUnits
+H3PO2,MeltingPtC,26.5,C
+VC,MolarMass,62.953,g/mol
+VC,MeltingPtC,2810,C
+VC,Appearance,refractory black Cubic crystal system,NoUnits
+VC,Solubility,insoluble,NoUnits
+VC,Density,5.77,g/cm^3
+ICl,Density,3.10,g/cm^3
+ICl,MolarMass,162.35,g/mol
+ICl,Appearance,blue and yellow,NoUnits
+ICl,Solubility,hydrolysis,NoUnits
+ICl,BoilingPtC,97.4,C
+ICl,SolubleOther,soluble in carbon disulfide,NoUnits
+ICl,MeltingPtC,27.2,C
+UF6,Density,5.09,g/cm^3
+UF6,MolarMass,352.02,g/mol
+UF6,Appearance,colorless solid,NoUnits
+UF6,Solubility,Reacts violently,NoUnits
+UF6,BoilingPtC,56.5,C
+UF6,DeltaHf,97,NoUnits
+UF6,SolubleOther,soluble in chloroform,NoUnits
+UF6,kJmol<sup>1</sup><ref name,Enthalpiecite journal,NoUnits
+UF6,MeltingPtC,64.052,C
+UF5,MolarMass,333.02,g/mol
+UF5,bridge to the next uranium atom.<ref name,1982cite journal,NoUnits
+Na2PFO3,MolarMass,143.95,g/mol
+Na2PFO3,SolubleOther,insoluble in ethanol,NoUnits
+Na2PFO3,Appearance,white powder,NoUnits
+Na2PFO3,Solubility,25,g/100 mL
+Na2PFO3,MeltingPtC,625,C
+Mn3PO4)2,MolarMass,354.76,g/mol
+C6MoO6,Density,1.96,g cm^3
+C6MoO6,Appearance,Vivid,NoUnits
+C6MoO6,BoilingPtC,156,C
+C6MoO6,DeltaHf,89.1,kJ mol^1
+C6MoO6,DeltaHc,123.4,kJ mol^1
+C6MoO6,MeltingPtC,150,C
+YAs,MolarMass,163.828,g/mol
+YAs,Appearance,cubic crystal system,NoUnits
+YAs,Density,5.59,g/cm^3
+TmCl3,DeltaHf,966.6,kJ/mol
+TmCl3,Density,3.98,g/cm^3
+TmCl3,MolarMass,275.292,g/mol
+TmCl3,Appearance,yellow crystals,NoUnits
+TmCl3,Solubility,heptahydrate very soluble,NoUnits
+TmCl3,BoilingPtC,1490,C
+TmCl3,postscript,Noneref,NoUnits
+TmCl3,SolubleOther,heptahydrate very soluble in ethanol,NoUnits
+TmCl3,MeltingPtC,824,C
+K3FeCN)6,BoilingPt,decomposes,NoUnits
+K3FeCN)6,MolarMass,329.24,g/mol
+K3FeCN)6,Density,1.89,g/cm^3
+K3FeCN)6,Appearance,deep red crystals,NoUnits
+K3FeCN)6,encyclopedia,Encyclopedia of Reagents for Organic Synthesis,NoUnits
+K3FeCN)6,editor,Paquette,NoUnits
+K3FeCN)6,MeltingPtC,300,C
+K3FeCN)6,SolubleOther,slightly soluble in alcohol ,NoUnits
+K3FeCN)6,location,New York,NoUnits
+H2XeO4,MolarMass,197.31,g/mol
+BeBH4)2,Density,0.604,g/cm^3
+BeBH4)2,MolarMass,38.70,g/mol
+BeBH4)2,Appearance,white crystals,NoUnits
+BeBH4)2,Solubility,reacts,NoUnits
+BeBH4)2,BoilingPtC,123,C
+BeBH4)2,DeltaHf,-108,kJ/mol
+BeBH4)2,SolubleOther,soluble in benene,NoUnits
+BeBH4)2,MeltingPtC,91.3,C
+CO,DeltaHf,10.5,kJmol^1
+CO,HeatCapacity,29.1,J/K mol
+CO,HenryConstant,1.04,atm-m^3/mol
+CO,MolarMass,28.010,g/mol
+CO,Odor,odorless,NoUnits
+CO,Appearance,colorless gas,NoUnits
+CO,Dipole,0.122,Debye
+CO,Solubility,27.6,mg/L 25 C
+CO,BoilingPtC,91.5,C
+CO,Entropy,197.7,Jmol^1K^1
+CO,RefractIndex,1.0003364,NoUnits
+CO,DeltaHc,83.4,kJ/mol
+CO,MeltingPtC,05.02,C
+Ag2O,DeltaHf,1,kJ/mol
+Ag2O,SolubilityProductAs,AgOH,NoUnits
+Ag2O,Density,7.14,g/cm^3
+Ag2O,Odor,Odorless,NoUnits
+Ag2O,Appearance,Black brown cubic crystal system,NoUnits
+Ag2O,Solubility,0.013,g/L 20 C<br /> 0.025 g/L 25 C
+Ag2O,SolubilityProduct,1.5210^8,20 C
+Ag2O,Entropy,122,J/molK
+Ag2O,HeatCapacity,65.9,J/molK
+Ag2O,SolubleOther,Soluble in acid,NoUnits
+Ag2O,MeltingPtC,300,C
+LiNO3,HeatCapacity,64,J/mol K
+LiNO3,Density,2.38,g/cm^3
+LiNO3,MolarMass,68.946,g/mol
+LiNO3,Appearance,White to light yellow solid,NoUnits
+LiNO3,Solubility,52.2,g/100 mL 20 C 
+LiNO3,BoilingPtC,600,C
+LiNO3,DeltaGf,-389.5,kJ/mol
+LiNO3,Entropy,105,J/mol K
+LiNO3,DeltaHf,-7.007,kJ/g or -482.3 kJ/mol
+LiNO3,SolubleOther,soluble in ethanol,NoUnits
+LiNO3,DeltaHc,25.5,kH/mol
+LiNO3,MeltingPtC,255,C
+UO2F2,MolarMass,308.02,g/mol
+UO2F2,SolubleOther,VS,NoUnits
+UO2F2,MeltingPt,300,C
+UO2F2,Solvent,other solvents,NoUnits
+CeBr3,Density,5.1,g/cm^3
+CeBr3,MolarMass,379.828,g/mol
+CeBr3,Appearance,grey to white solid,NoUnits
+CeBr3,Solubility,Not Published Yet,NoUnits
+CeBr3,BoilingPtC,1457,C
+CeBr3,MeltingPtC,722,C
+KI,DeltaHf,-327.6,kJ/mol
+KI,HeatCapacity,52.73,J/mol K
+KI,Density,3.123,g/cm^3
+KI,MolarMass,166.0028,g/mol
+KI,Viscosity,1.0227,cP 733 C
+KI,Appearance,white crystalline solid,NoUnits
+KI,BoilingPtC,1330,C
+KI,MeltingPtC,681,C
+KI,RefractIndex,1.677,NoUnits
+Na2MnO4,Appearance,deep green solid,NoUnits
+CrO2F2,BoilingPt_ref,,NoUnits
+CrO2F2,language,German,NoUnits
+CrO2F2,trans_title,Handbook of Preparative Inorganic Chemistry,NoUnits
+CrO2F2,MolarMass,112,g/mol
+CrO2F2,Appearance,violet crystals,NoUnits
+CrO2F2,location,Stuttgart New York,NoUnits
+CrO2F2,MeltingPtC,31.6,C
+RaCl2,Density,4.9,g/cm^3
+RaCl2,MolarMass,296.094,g/mol
+RaCl2,Appearance,Colorless solid,NoUnits
+RaCl2,Solubility,245,g/L 20 C
+RaCl2,fractional crystallization.<ref name,6 Radium chloride is only sparingly soluble in Aeotrope,NoUnits
+RaCl2,MeltingPtC,900,C
+RhCl3,DeltaHf,34,kJ/mol
+RhCl3,Density,5.38,g/cm^3
+RhCl3,MolarMass,209.26,g/mol
+RhCl3,Appearance,dark red solid ,NoUnits
+RhCl3,Solubility,insoluble,NoUnits
+RhCl3,BoilingPtC,717,C
+RhCl3,pKa,acidic in solution,NoUnits
+RhCl3,MeltingPt,ca,NoUnits
+RhCl3,SolubleOther,soluble in hydroxide and cyanide solutions,NoUnits
+RhCl3,MeltingPtC,450,C
+S2F10,Density,2.08,g/cm^3
+S2F10,MolarMass,254.1,g/mol
+S2F10,Odor,like sulfur dioxide,NoUnits
+S2F10,Appearance,colorless liquid,NoUnits
+S2F10,BoilingPtC,30.1,C
+S2F10,VaporPressure,561,mmHg 20 C
+S2F10,MeltingPtC,-53,C
+InAs,DeltaHf,-58.6,kJ/mol
+InAs,HeatCapacity,47.8,Jmol^1K^1
+InAs,Density,5.67,g/cm^3
+InAs,MolarMass,189.740,g/mol
+InAs,ElectronMobility,40000,cm^2/V*s
+InAs,BandGap,0.354,eV 300 K
+InAs,Entropy,75.7,Jmol^1K^1
+InAs,ThermalConductivity,0.27,W/cm*K 300 K
+InAs,RefractIndex,3.51,NoUnits
+InAs,MeltingPtC,942,C
+ZnCl2,Density,2.907,g/cm^3
+ZnCl2,MolarMass,136.315,g/mol
+ZnCl2,Odor,odorless,NoUnits
+ZnCl2,Appearance,white crystalline solid ,NoUnits
+ZnCl2,BoilingPt_ref,,NoUnits
+ZnCl2,Solubility,432.0,g/ 100 g 25 C
+ZnCl2,BoilingPtC,732,C
+ZnCl2,Solvent1,alcohol,NoUnits
+ZnCl2,MeltingPt_ref,,NoUnits
+ZnCl2,location,N J,NoUnits
+ZnCl2,Solubility1,430.0,g/100ml
+ZnCl2,SolubleOther,soluble in ethanol,NoUnits
+ZnCl2,MeltingPtC,290,C
+CaC2,Density,2.22,g/cm^3
+CaC2,MolarMass,64.099,g/mol
+CaC2,Appearance,White powder to greyblack crystals,NoUnits
+CaC2,Solubility,decomposes,NoUnits
+CaC2,BoilingPtC,2300,C
+CaC2,Entropy,70,Jmol^1K^1
+CaC2,DeltaHf,3,kJmol^1
+CaC2,MeltingPtC,2160,C
+HNO5S,Density,1.612,g/mL in<br /> 40% sulfuric acid soln
+HNO5S,MolarMass,127.08,g/mol
+HNO5S,BoilingPt,decomposes,NoUnits
+HNO5S,Appearance,pale yellow crystals,NoUnits
+HNO5S,Solubility,decomposes,NoUnits
+HNO5S,SolubleOther,soluble in sulfuric acid,NoUnits
+HNO5S,MeltingPtC,73.5,C
+Na2MoO4,Density,3.78,g/cm^3
+Na2MoO4,MolarMass,205.92,g/mol anhydrous
+Na2MoO4,Appearance,White powder,NoUnits
+Na2MoO4,Solubility,84,g/100 ml 100 C
+Na2MoO4,MeltingPtC,687,C
+Na2MoO4,RefractIndex,1.714,NoUnits
+Na2SO4,Density,2.664,g/cm^3 anhydrous
+Na2SO4,MolarMass,142.04,g/mol anhydrous
+Na2SO4,Odor,odorless,NoUnits
+Na2SO4,Appearance,white crystalline solid ,NoUnits
+Na2SO4,Solubility,anhydrous ,NoUnits
+Na2SO4,BoilingPtC,1429,C
+Na2SO4,RefractIndex,1.468,anhydrous 
+Na2SO4,SolubleOther,insoluble in ethanol ,NoUnits
+Na2SO4,MeltingPtC,884,C
+Sb2O3,Density,5.2,g/cm^3
+Sb2O3,MolarMass,291.518,g/mol
+Sb2O3,Odor,odorless,NoUnits
+Sb2O3,Appearance,white solid,NoUnits
+Sb2O3,BoilingPtC,1425,C
+Sb2O3,RefractIndex,2.087,NoUnits
+Sb2O3,SolubleOther,soluble in acid,NoUnits
+Sb2O3,MeltingPtC,656,C
+NiO,DeltaHf,-240.0,kJ/mol
+NiO,Density,6.67,g/cm^3
+NiO,MolarMass,74.6928,g/mol
+NiO,Appearance,green crystalline solid,NoUnits
+NiO,Solubility,negligible,NoUnits
+NiO,RefractIndex,2.1818,NoUnits
+NiO,SolubleOther,soluble in potassium cyanide,NoUnits
+NiO,MeltingPtC,1955,C
+NH4N3,Density,1.3459,g/cm^3
+NH4N3,MolarMass,60.059,g/mol
+NH4N3,Odor,Odorless,NoUnits
+NH4N3,Appearance,White crystalline solid,NoUnits
+NH4N3,BoilingPtC,400,C
+NH4N3,MeltingPtC,160,C
+CuO,DeltaHf,56,kJmol^1
+CuO,Density,6.315,g/cm^3
+CuO,MolarMass,79.545,g/mol
+CuO,BandGap,1.2,Electronvolt
+CuO,Appearance,black to brown powder,NoUnits
+CuO,Solubility,insoluble,NoUnits
+CuO,BoilingPtC,2000,C
+CuO,Entropy,43,Jmol^1K^1
+CuO,RefractIndex,2.63,NoUnits
+CuO,MeltingPtC,1326,C
+SrOH)2,Density,3.625,g/cm^3 anhydrous 
+SrOH)2,MolarMass,121.63,g/mol anhydrous
+SrOH)2,Appearance,prismatic colourless crystals ,NoUnits
+SrOH)2,BoilingPtC,710,C
+SrOH)2,pKb,-2.19,NoUnits
+SrOH)2,SolubleOther,insoluble in acetone ,NoUnits
+SrOH)2,MeltingPtC,535,C
+SnCl4,Density,2.226,g/cm^3 anhydrous 
+SnCl4,MolarMass,260.50,g/mol anhydrous 
+SnCl4,Odor,acrid,NoUnits
+SnCl4,Appearance,colorless to slightly yellow fuming liquid,NoUnits
+SnCl4,Solubility,decomposes anhydrous ,NoUnits
+SnCl4,BoilingPtC,114.15,C
+SnCl4,VaporPressure,2.4,kPa
+SnCl4,RefractIndex,1.512,NoUnits
+SnCl4,MeltingPtC,-34.07,C
+BaO,Density,5.72,g/cm^3
+BaO,MolarMass,153.326,g/mol
+BaO,Appearance,white solid,NoUnits
+BaO,Solubility,3.48,g/100 mL 20 C 
+BaO,BoilingPtC,2000,C
+BaO,Entropy,70,Jmol^1K^1
+BaO,DeltaHf,82,kJmol^1
+BaO,MeltingPtC,1923,C
+KClO3,DeltaHf,91.2,kJ/mol
+KClO3,HeatCapacity,100.25,J/molK
+KClO3,Density,2.32,g/cm^3
+KClO3,MolarMass,122.55,g mol^1
+KClO3,Appearance,white crystals or powder,NoUnits
+KClO3,DeltaGf,-289.9,kJ/mol
+KClO3,BoilingPtC,400,C
+KClO3,Solvent1,glycerol,NoUnits
+KClO3,RefractIndex,1.40835,NoUnits
+KClO3,Entropy,142.97,J/molK
+KClO3,Solubility1,1,g/100 g 20 C
+KClO3,MeltingPtC,356,C
+GeH4,Density,3.3,kg/m^3 gas
+GeH4,MolarMass,76.62,g/mol^1
+GeH4,Odor,Pungent,NoUnits
+GeH4,BoilingPt,-88,C 185 K
+GeH4,Appearance,Colorless gas,NoUnits
+GeH4,Solubility,low,NoUnits
+GeH4,VaporPressure,1,atm
+GeH4,MeltingPt,-165,C 108 K
+BeF2,BoilingPt_ref,,NoUnits
+BeF2,HeatCapacity,1.102,J/K or 59 J/mol K
+BeF2,Density,1.986,g/cm^3
+BeF2,MolarMass,47.01,g/mol 
+BeF2,Appearance,colorless lumps,NoUnits
+BeF2,Solubility,very soluble,NoUnits
+BeF2,BoilingPtC,1169,C
+BeF2,DeltaGf,-941,kJ/mol
+BeF2,Entropy,45,J/mol K
+BeF2,DeltaHf,-1028.2,kJ/g or -1010 kJ/mol
+BeF2,SolubleOther,sparingly soluble in alcohol,NoUnits
+BeF2,MeltingPtC,554,C
+ICN,DeltaHf,160.5169.1,kJ mol^1
+ICN,Density,1.84,g mL^1
+ICN,MolarMass,152.9219,g mol^1
+ICN,Appearance,White crystals,NoUnits
+ICN,Solubility,Reacts,NoUnits
+ICN,Properties_ref,,NoUnits
+ICN,MeltingPtC,146.7,C
+RbBr,Density,3.350,g/cm^3
+RbBr,MolarMass,165.372,g/mol
+RbBr,Appearance,white crystalline solid,NoUnits
+RbBr,Solubility,98,g/100 mL
+RbBr,BoilingPtC,1340,C
+RbBr,MeltingPtC,693,C
+AlI3,Solvent,alcohol,NoUnits
+AlI3,Density,3.98,g/cm^3 anhydrous 
+AlI3,MolarMass,407.69495,g/mol anhydrous 
+AlI3,Appearance,white powderbr but impure samplesbr are often brown,NoUnits
+AlI3,location,New York,NoUnits
+AlI3,Solubility,reacts violently anhydrous ,NoUnits
+AlI3,BoilingPtC,360,C
+AlI3,AlBr<sub>3</sub>.<ref name,2004cite journal,NoUnits
+AlI3,MeltingPtC,189.4,C
+Na2SeO4,Appearance,White or grey powder,NoUnits
+Na2SeO4,Solubility,soluble,NoUnits
+Na2SeO4,Density,3.098,g/cm^3
+UO2Cl2,MolarMass,340.90,NoUnits
+UO2Cl2,SolubleOther,320,@ 18C
+UO2Cl2,MeltingPt,Decomposes,NoUnits
+UO2Cl2,Solvent,other solvents,NoUnits
+UO2Cl2,BoilingPt,Decomposes,NoUnits
+Cd1Cl2,DeltaHf,91.5,kJ/mol
+Cd1Cl2,HeatCapacity,74.7,J/molK
+Cd1Cl2,MagSus,.8710^5,cm^3/mol
+Cd1Cl2,Viscosity,2.31,cP 597 C
+Cd1Cl2,Odor,Odorless,NoUnits
+Cd1Cl2,Appearance,White solid,NoUnits
+Cd1Cl2,DeltaGf,43.9,kJ/mol
+Cd1Cl2,BoilingPtC,964,C
+Cd1Cl2,Solvent1,pyridine,NoUnits
+Cd1Cl2,Solvent3,dimethyl sulfoxide,NoUnits
+Cd1Cl2,Solvent2,ethanol,NoUnits
+Cd1Cl2,place,New York,NoUnits
+Cd1Cl2,Solubility3,18,g/100 g 25 C
+Cd1Cl2,MeltingPtC,568,C
+Cd1Cl2,Entropy,115.3,J/molK
+Cd1Cl2,VaporPressure,0.01,kPa 471 C
+NiCl2,MolarMass,129.5994,g/mol anhydrous 
+NiCl2,Odor,odorless,NoUnits
+NiCl2,Density,3.55,g/cm^3 anhydrous 
+NiCl2,Appearance,brown crystals ,NoUnits
+NiCl2,Solubility,anhydrous ,NoUnits
+NiCl2,pKa,4,hexahydrate
+NiCl2,Entropy,107,Jmol^1K^1
+NiCl2,DeltaHf,16,kJmol^1
+NiCl2,MeltingPtC,1001,C
+Ag1NO3,Solvent1,acetic acid,NoUnits
+Ag1NO3,Solvent3,benene,NoUnits
+Ag1NO3,Solvent2,acetone,NoUnits
+Ag1NO3,Solvent5,ethyl acetate,NoUnits
+Ag1NO3,Solvent4,ethanol,NoUnits
+Ag1NO3,cP (244&nbsp;C)<br> 3.04 cP (275&nbsp;C)<ref name,chemister ,NoUnits
+Ag1NO3,RefractIndex,1.744,NoUnits
+Ag1NO3,LogP,0.19,NoUnits
+Ag1NO3,Odor,Odorless,NoUnits
+Ag1NO3,Viscosity,3.77,poise
+Ag1NO3,BoilingPtC,440,C
+Ag1NO3,Entropy,140.9,J/molK
+Ag1NO3,MeltingPtC,209.7,C
+Ag1NO3,MagSus,.5710^5,cm^3/mol
+Ag1NO3,Appearance,White solid,NoUnits
+Ag1NO3,Solubility5,2.7,g/100 g 20 C
+Ag1NO3,Solubility4,3.1,g/100 g 19 C
+Ag1NO3,Solubility3,0.22,g/kg 35 C
+Ag1NO3,Solubility2,0.35,g/100 g 14 C
+Ag1NO3,SolubleOther,Soluble in acetone,NoUnits
+Ag1NO3,HeatCapacity,93.1,J/molK
+Ag1NO3,DeltaGf,3.4,kJ/mol
+Ag1NO3,MeltingPt_ref,,NoUnits
+Ag1NO3,place,New York City,NoUnits
+Ag1NO3,DeltaHf,24.4,kJ/mol
+BaOH)2,Solvent,other solvents,NoUnits
+BaOH)2,Density,3.743,g/cm^3 monohydrate 
+BaOH)2,Appearance,white solid,NoUnits
+BaOH)2,BoilingPtC,780,C
+BaOH)2,pKb,-2.02,NoUnits
+BaOH)2,DeltaHf,-944.7,kJ/mol
+BaOH)2,SolubleOther,low,NoUnits
+BaOH)2,RefractIndex,1.50,octahydrate
+K4FeCN)6,MolarMass,368.35,g/mol anhydrous
+K4FeCN)6,SolubleOther,insoluble in ethanol,NoUnits
+K4FeCN)6,Appearance,Light yellow,NoUnits
+K4FeCN)6,Solubility,trihydrate ,NoUnits
+K4FeCN)6,Density,1.85,g/cm^3 trihydrate
+Cl12Mo6,Appearance,orange solid,NoUnits
+Cl12Mo6,Solubility,low,NoUnits
+GaN,language,enref,NoUnits
+GaN,Density,6.15,g/cm^3
+GaN,MolarMass,83.73,g/mol
+GaN,BandGap,3.4,eV 300 K
+GaN,Appearance,yellow powder,NoUnits
+GaN,Solubility,Insoluble,NoUnits
+GaN,ElectronMobility,440,cm^2/Vs 300 K
+GaN,MeltingPt,2500,C
+GaN,RefractIndex,2.429,NoUnits
+Cs2CrO4,Properties_ref,,NoUnits
+Cs2CrO4,Appearance,Yellow crystalline solid,NoUnits
+Cs2CrO4,Solubility,71.4,g/100 ml 13 C
+Cs2CrO4,Density,4.237,g/cm^3
+ZrWO4)2,MolarMass,586.92,g/mol
+ZrWO4)2,Appearance,white powder,NoUnits
+ZrWO4)2,Solubility,negligible,NoUnits
+ZrWO4)2,Density,5.09,g/cm^3
+BaF2,Density,4.893,g/cm^3
+BaF2,MolarMass,175.34,g/mol
+BaF2,Appearance,white cubic crystals,NoUnits
+BaF2,Solubility,0.16,g/100 mL 20 C
+BaF2,BoilingPtC,2260,C
+BaF2,RefractIndex,1.455,NoUnits
+BaF2,SolubleOther,soluble in methanol,NoUnits
+BaF2,MeltingPtC,1368,C
+AlAsO4,DeltaHf,-1431.1,kJ/mol
+AlAsO4,Density,3.25,g/cm^3
+AlAsO4,MolarMass,165.901,g/mol
+AlAsO4,Appearance,white crystals,NoUnits
+AlAsO4,Solubility,insoluble,NoUnits
+AlAsO4,Entropy,145.6,J/mol K
+AlAsO4,MeltingPtC,1000,C
+AlAsO4,RefractIndex,1.596,NoUnits
+GeTe,MolarMass,200.21,g/mol
+GeTe,Appearance,solid,NoUnits
+GeTe,Density,6.14,g/cm^3
+GeTe,BandGap,0.6,eV 
+GeTe,MeltingPtC,725,C
+NH4HCO3,MolarMass,79.056,g/mol
+NH4HCO3,MeltingPtC,41.9,C
+NH4HCO3,SolubleOther,insoluble in methanol,NoUnits
+NH4HCO3,Solubility,11.9,g/100 mL 0 C 
+NH4HCO3,Density,1.586,g/cm^3
+NH4)2HPO4,DeltaHf,566.91,kJ/mol
+NH4)2HPO4,Density,1.619,g/cm^3
+NH4)2HPO4,MolarMass,132.06,g/mol
+NH4)2HPO4,Appearance,white powder,NoUnits
+NH4)2HPO4,Solubility,57.5,g/100 mL 10 C 
+NH4)2HPO4,RefractIndex,1.52,NoUnits
+NH4)2HPO4,SolubleOther,insoluble in alcohol,NoUnits
+NH4)2HPO4,MeltingPtC,155,C
+KHCO3,DeltaHf,-963.2,kJ/mol
+KHCO3,Density,2.17,g/cm^3
+KHCO3,MolarMass,100.115,g/mol
+KHCO3,Odor,odorless,NoUnits
+KHCO3,Appearance,white crystals,NoUnits
+KHCO3,location,Boca Raton,NoUnits
+KHCO3,Solubility,33.7,g/100 mL 20 C  
+KHCO3,pKa,10.329,NoUnits
+KHCO3,editor,David R Lide,NoUnits
+KHCO3,SolubleOther,practically insoluble in alcohol,NoUnits
+KHCO3,MeltingPtC,292,C
+Na2S2O8,MolarMass,238.10,g/mol
+Na2S2O8,Appearance,white powder,NoUnits
+Na2S2O8,Solubility,55.6,g/100 ml 20 C
+Na2S2O8,MeltingPtC,180,C
+Na2S,MolarMass,78.0452,g/mol anhydrous
+Na2S,Odor,rotten eggs,NoUnits
+Na2S,Appearance,colorless,NoUnits
+Na2S,Solubility,12.4,g/100 mL 0 C 
+Na2S,SolubleOther,insoluble in ether ,NoUnits
+Na2S,MeltingPtC,1176,C
+Ag3N,MolarMass,337.62,NoUnits
+Ag3N,Appearance,Black solid,NoUnits
+Ag3N,Density,9,g/cm^3
+CaOH)2,pKb,2.37,NoUnits
+CaOH)2,DeltaHf,87,kJmol^1
+CaOH)2,Density,2.211,g/cm^3
+CaOH)2,MolarMass,74.093,g/mol
+CaOH)2,Odor,odorless,NoUnits
+CaOH)2,Appearance,white powder,NoUnits
+CaOH)2,Solubility,0.189,g/100 mL 0 C 
+CaOH)2,SolubilityProduct,55e,NoUnits
+CaOH)2,pKa,12.4,NoUnits
+CaOH)2,Entropy,83,Jmol^1K^1
+CaOH)2,RefractIndex,1.574,NoUnits
+CaOH)2,SolubleOther,Soluble in glycerol and acids ,NoUnits
+CaOH)2,MeltingPtC,580,C
+C6HN3O8Pb,MolarMass,450.288,g/mol
+C6HN3O8Pb,Density,3.06,to 3.1 g cm^3
+NaCl,DeltaHf,11.12,kJ mol^1
+NaCl,HeatCapacity,36.79,J K^1 mol^1
+NaCl,Density,2.165,g/cm^3
+NaCl,MolarMass,58.44,g mol^1
+NaCl,Odor,Odorless,NoUnits
+NaCl,Appearance,Colorless crystals,NoUnits
+NaCl,Solubility,359,g/L
+NaCl,BoilingPtC,1413,C
+NaCl,Solvent1,ammonia,NoUnits
+NaCl,Solvent2,methanol,NoUnits
+NaCl,Entropy,72.11,J K^1 mol^1
+NaCl,Solubility2,14.9,g/L
+NaCl,Solubility1,21.5,g/L
+NaCl,RefractIndex,1.5442,at 589 nm
+NaCl,MeltingPtC,801,C
+HIO3,Density,4.62,g/cm^3
+HIO3,MolarMass,175.91,g/mol
+HIO3,Appearance,White solid,NoUnits
+HIO3,Solubility,269,g/100 mL 20 C
+HIO3,pKa,0.75,NoUnits
+HIO3,MeltingPtC,110,C
+Xe1F2,Density,4.32,g/cm^3
+Xe1F2,Appearance,White solid,NoUnits
+Xe1F2,Solubility,25,g/l 0 C
+Xe1F2,MeltingPt_ref,,NoUnits
+Xe1F2,Entropy,254,Jmol^1K^1
+Xe1F2,VaporPressure,6.010^2,Pa
+Xe1F2,DeltaHf,08,kJmol^1
+Xe1F2,MeltingPtC,128.6,C
+Ge2H6,Density,1.98,kg/m^3
+Ge2H6,MolarMass,151.328,g/mol
+Ge2H6,Appearance,Colorless gas,NoUnits
+Ge2H6,Solubility,Insoluble,NoUnits
+Ge2H6,BoilingPtC,31.5,C
+Ge2H6,MeltingPtC,-109,C
+AlOH)3,Density,2.42,g/cm^3
+AlOH)3,MolarMass,78.00,g/mol
+AlOH)3,Appearance,White amorphous powder,NoUnits
+AlOH)3,Solubility,0.0001,g/100 mL 20 C
+AlOH)3,SolubilityProduct,310^34,NoUnits
+AlOH)3,DeltaHf,277,kJmol^1
+AlOH)3,SolubleOther,soluble in acids,NoUnits
+AlOH)3,MeltingPtC,300,C
+AgBrO3,Solvent,ammonium hydroxide,NoUnits
+AgBrO3,Density,5.206,g/cm^3
+AgBrO3,MolarMass,235.770,g/mol
+AgBrO3,Appearance,white powderbr photosensitive,NoUnits
+AgBrO3,Solubility,0.167,g/100 mL
+AgBrO3,SolubleOther,soluble,NoUnits
+AgBrO3,MeltingPtC,309,C
+CaClO4)2,Density,2.651,g/cm3
+CaClO4)2,MolarMass,238.9792,g/mol
+CaClO4)2,Appearance,White to yellow crystalline solid,NoUnits
+CaClO4)2,Solubility,188,g/100mL 20 C
+CaClO4)2,SolubleOther,EtOH,NoUnits
+CaClO4)2,MeltingPtC,270,C
+H2BeO2,HeatCapacity,1.443,J K^1
+H2BeO2,Appearance,Vivid white,NoUnits
+H2BeO2,Solubility,slightly soluble,NoUnits
+H2BeO2,DeltaGf,-818,kJ/mol
+H2BeO2,Entropy,47,Jmol^1K^1
+H2BeO2,DeltaHf,-904,kJ mol^1
+H2BeO2,MeltingPtC,1000,C
+UCl4,MolarMass,379.84,g/mol
+UCl4,MeltingPtC,590,C
+UCl4,BoilingPtC,791,C
+UCl4,Density,4.87,g/cm^3
+Ti1Cl2,MeltingPtC,1035,C
+Ti1Cl2,Appearance,black hexagonal crystal system,NoUnits
+Ti1Cl2,BoilingPtC,1500,C
+Ti1Cl2,Density,3.13,g/cm^3
+Cl2O7,MolarMass,182.901,g/mol
+Cl2O7,MeltingPtC,1.57,C
+Cl2O7,Appearance,colorless oil,NoUnits
+Cl2O7,Density,1900,kg m^3
+Yb2O3,Density,9.17,g/cm^3
+Yb2O3,MolarMass,394.08,g/mol
+Yb2O3,Appearance,White solid,NoUnits
+Yb2O3,Solubility,Insoluble,NoUnits
+Yb2O3,BoilingPtC,4070,C
+Yb2O3,MeltingPtC,2355,C
+CaF2,Density,3.18,g/cm^3
+CaF2,Appearance,White crystalline solid single crystals are transparent,NoUnits
+CaF2,Solubility,0.0015,g/100 mL 18 C 
+CaF2,BoilingPtC,2533,C
+CaF2,RefractIndex,1.4338,NoUnits
+CaF2,SolubleOther,insoluble in acetone ,NoUnits
+CaF2,MeltingPtC,1418,C
+CNCl,DeltaHf,137.95,kJ mol^1
+CNCl,Density,2.7683,mg mL^1 at 0 C
+CNCl,MolarMass,61.470,g mol^1
+CNCl,Odor,acrid,NoUnits
+CNCl,Appearance,Colorless gas,NoUnits
+CNCl,Solubility,soluble,NoUnits
+CNCl,Entropy,236.33,J K^1 mol^1
+CNCl,VaporPressure,1.987,MPa at 21.1 C
+CNCl,Properties_ref,,NoUnits
+CNCl,SolubleOther,soluble in ethanol,NoUnits
+CNCl,MeltingPtC,.55,C
+CrSO45H2O,MolarMass,238.13,pentahydrate
+CrSO45H2O,Appearance,blue solid  pentahydrate,NoUnits
+CrSO45H2O,Solubility,21,g/100 mL 0C
+Na2CO3,F K<br> (decahydrate)<ref name,90ref,NoUnits
+Na2CO3,Solvent1,glycerine,NoUnits
+Na2CO3,Solvent3,dimethylformamide,NoUnits
+Na2CO3,Solvent2,ethanediol,NoUnits
+Na2CO3,RefractIndex,1.485,anhydrous
+Na2CO3,MolarMass,105.9888,g/mol anhydrous<br />286.1416 g/mol decahydrate
+Na2CO3,Odor,Odorless,NoUnits
+Na2CO3,Viscosity,3.4,cP 887 C
+Na2CO3,Entropy,135,J/molK
+Na2CO3,MeltingPtC,851,C
+Na2CO3,MagSus,.110^5,cm^3/mol
+Na2CO3,Appearance,White solid,NoUnits
+Na2CO3,DeltaGf,044.4,kJ/mol
+Na2CO3,Solubility3,0.5,g/kg
+Na2CO3,Solubility2,3.46,g/100 g 20 C
+Na2CO3,Solubility1,98.3,g/100 g 15.5 C
+Na2CO3,HeatCapacity,112.3,J/molK
+Na2CO3,pKb,3.67,NoUnits
+Na2CO3,place,New York,NoUnits
+Na2CO3,DeltaHf,130.7,kJ/mol
+H5IO6,MolarMass,227.941,g/mol H<sub>5</sub>IO<sub>6</sub><BR>190.91 g/mol HIO<sub>4</sub>
+H5IO6,Appearance,Colourless crystals,NoUnits
+H5IO6,MeltingPt_ref,,NoUnits
+H5IO6,location,San Diego,NoUnits
+H5IO6,SolubleOther,soluble in water,NoUnits
+H5IO6,MeltingPtC,128.5,C
+Na2Se,Density,2.625,g cm^3
+Na2Se,Odor,unpleaseant,NoUnits
+Na2Se,Appearance,white to red solid,NoUnits
+Na2Se,Solubility,reacts with water,NoUnits
+Na2Se,Entropy,105,J/mol K
+Na2Se,editor,David R Lide ref,NoUnits
+Na2Se,DeltaHf,-343,kJ/mol
+Na2Se,MeltingPtC,875,C
+HgCl2,DeltaHf,30,kJmol^1
+HgCl2,Density,5.43,g/cm^3
+HgCl2,MolarMass,271.52,g/mol
+HgCl2,Odor,odorless,NoUnits
+HgCl2,Appearance,colorless or white solid,NoUnits
+HgCl2,Solubility,3.6,g/100 mL 0 C 
+HgCl2,BoilingPtC,304,C
+HgCl2,pKa,3.2,0.2M solution
+HgCl2,Entropy,144,Jmol^1K^1
+HgCl2,RefractIndex,1.859,NoUnits
+HgCl2,MeltingPtC,276,C
+SeO3,Density,3.44,g/cm^3
+SeO3,MolarMass,126.96,g/mol
+SeO3,BoilingPt,sublimes,NoUnits
+SeO3,Appearance,white hygroscopic crystals,NoUnits
+SeO3,Solubility,very soluble,NoUnits
+SeO3,MeltingPtC,118.35,C
+SbH3,Solvent,other solvents,NoUnits
+SbH3,Density,5.48,g/L
+SbH3,MolarMass,124.784,g/mol
+SbH3,Odor,unpleasant,NoUnits
+SbH3,Appearance,Colourless gas,NoUnits
+SbH3,Solubility,slightly soluble,NoUnits
+SbH3,BoilingPtC,7,C
+SbH3,VaporPressure,1,atm 20C
+SbH3,SolubleOther,Insoluble,NoUnits
+SbH3,MeltingPtC,8,C
+SmI2,MolarMass,404.16,g/mol
+SmI2,Appearance,green solid,NoUnits
+SmI2,MeltingPtC,520,C
+Na2O2,HeatCapacity,89.37,J/mol K
+Na2O2,Density,2.805,g/cm^3
+Na2O2,MolarMass,77.98,g/mol
+Na2O2,Appearance,yellow to white powder,NoUnits
+Na2O2,Solubility,reacts violently,NoUnits
+Na2O2,BoilingPtC,657,C
+Na2O2,DeltaGf,-446.9,kJ/mol
+Na2O2,Entropy,95,Jmol^1K^1
+Na2O2,DeltaHf,15,kJmol^1
+Na2O2,SolubleOther,soluble in acid ,NoUnits
+Na2O2,MeltingPtC,460,C
+KCl,DeltaHf,36,kJmol^1
+KCl,Density,1.984,g/cm^3
+KCl,MolarMass,74.5513,gmol^1
+KCl,Odor,odorless,NoUnits
+KCl,Appearance,white crystalline solid,NoUnits
+KCl,Solubility,21.74%,0 C 
+KCl,BoilingPtC,1420,C
+KCl,Entropy,83,Jmol^1K^1
+KCl,RefractIndex,1.4902,589 nm
+KCl,MeltingPtC,770,C
+NiCO3,Density,4.39,g/cm^3
+NiCO3,MolarMass,118.7,NoUnits
+NiCO3,Appearance,light green powder,NoUnits
+NiCO3,Solubility,0.0093,g/100ml
+NiCO3,SolubilityProduct,6.610^9,NoUnits
+NiCO3,MeltingPtC,205,C
+K2CO3,Density,2.43,g/cm^3
+K2CO3,MolarMass,138.205,g/mol
+K2CO3,BoilingPt,decomposes,NoUnits
+K2CO3,Appearance,white,NoUnits
+K2CO3,Solubility,112,g/100 mL 20 C 
+K2CO3,SolubleOther,insoluble in alcohol,NoUnits
+K2CO3,MeltingPtC,891,C
+Li1ClO4,C<sub>4</sub>H<sub>9</sub>OH)<ref name,chemister ,NoUnits
+Li1ClO4,HeatCapacity,105,J/molK
+Li1ClO4,Density,2.42,g/cm^3
+Li1ClO4,Odor,odorless,NoUnits
+Li1ClO4,Appearance,white crystals,NoUnits
+Li1ClO4,BoilingPtC,430,C
+Li1ClO4,Solvent1,acetone,NoUnits
+Li1ClO4,DeltaGf,-254,kJ/mol
+Li1ClO4,Solvent2,alcohol,NoUnits
+Li1ClO4,Entropy,125.5,J/molK
+Li1ClO4,Solubility2,1.82,g/g 0 C
+Li1ClO4,Solubility1,137,g/100 g
+Li1ClO4,DeltaHf,-380.99,kJ/mol
+Li1ClO4,SolubleOther,soluble in alcohol,NoUnits
+Li1ClO4,MeltingPtC,236,C
+Tl2CO3,Density,7.11,g/cm^3
+Tl2CO3,MolarMass,468.776,g/mol
+Tl2CO3,Odor,odorless,NoUnits
+Tl2CO3,Appearance,white crystals,NoUnits
+Tl2CO3,Solubility,5.2,g/100 mL 25 C 
+Tl2CO3,SolubleOther,insoluble in alcohol,NoUnits
+Tl2CO3,MeltingPtC,272,C
+FeO,Density,5.745,g/cm^3
+FeO,MolarMass,71.844,g/mol
+FeO,Appearance,black crystals,NoUnits
+FeO,Solubility,Insoluble,NoUnits
+FeO,BoilingPtC,3414,C
+FeO,RefractIndex,2.23,NoUnits
+FeO,SolubleOther,insoluble in alkali,NoUnits
+FeO,MeltingPtC,1377,C
+B4H10,Density,2.3,kg m^3 gas
+B4H10,MolarMass,53.32,g/mol
+B4H10,Appearance,colourless gas,NoUnits
+B4H10,Properties_ref,,NoUnits
+B4H10,class,wikitable,NoUnits
+B4H10,MeltingPtC,20.8,C
+PBr3,Density,2.852,g/cm^3
+PBr3,MolarMass,270.69,g/mol
+PBr3,Viscosity,0.001302,Pas
+PBr3,Appearance,clear,NoUnits
+PBr3,Solubility,rapid hydrolysis,NoUnits
+PBr3,BoilingPtC,173.2,C
+PBr3,RefractIndex,1.697,NoUnits
+PBr3,MeltingPtC,-41.5,C
+Cl10Mo2,Density,2.928,g/cm^3
+Cl10Mo2,MolarMass,273.21,g/mol MoCl<sub>5</sub>
+Cl10Mo2,Appearance,green solid ,NoUnits
+Cl10Mo2,Solubility,hydrolyes,NoUnits
+Cl10Mo2,BoilingPtC,268,C
+Cl10Mo2,SolubleOther,soluble in dry ether,NoUnits
+Cl10Mo2,MeltingPtC,194,C
+Bi2O3,Density,8.90,g/cm^3
+Bi2O3,MolarMass,465.96,g/mol
+Bi2O3,Odor,odorless,NoUnits
+Bi2O3,Appearance,yellow crystals or powder,NoUnits
+Bi2O3,Solubility,insoluble,NoUnits
+Bi2O3,BoilingPtC,1890,C
+Bi2O3,MeltingPt_ref,,NoUnits
+Bi2O3,SolubleOther,soluble in acids,NoUnits
+Bi2O3,MeltingPtC,817,C
+AgF2,Density,4.58,g/cm^3
+AgF2,MolarMass,145.865,g/mol
+AgF2,Appearance,white or grey crystalline powder,NoUnits
+AgF2,Solubility,Decomposes violently,NoUnits
+AgF2,BoilingPtC,700,C
+AgF2,MeltingPtC,690,C
+SbF5,Density,2.99,g/cm^3 
+SbF5,MolarMass,216.74,g/mol
+SbF5,Odor,pungent,NoUnits
+SbF5,Appearance,colorless oily liquid ,NoUnits
+SbF5,Solubility,Reacts,NoUnits
+SbF5,BoilingPtC,149.5,C
+SbF5,SolubleOther,soluble in potassium fluoride,NoUnits
+SbF5,MeltingPtC,8.3,C
+LiH,DeltaHf,-90.65,kJ/mol
+LiH,HeatCapacity,3.51,J/gK
+LiH,Density,0.78,g/cm^3
+LiH,MolarMass,7.95,g/mol
+LiH,BoilingPt,9001000,C
+LiH,Appearance,colorless to gray solid,NoUnits
+LiH,Solubility,reacts,NoUnits
+LiH,MeltingPt_ref,,NoUnits
+LiH,DeltaGf,-68.48,kJ/mol
+LiH,Entropy,170.8,J/mol K
+LiH,RefractIndex,1.9847,NoUnits
+LiH,MeltingPtC,688.7,C
+BeCl2,HeatCapacity,7.808,J/K or 71.1 J/mol K
+BeCl2,Density,1.899,g/cm^3
+BeCl2,MolarMass,79.9182,g/mol
+BeCl2,Appearance,White or yellow crystals,NoUnits
+BeCl2,Solubility,15.1,g/100 mL 20 C
+BeCl2,BoilingPtC,482,C
+BeCl2,DeltaGf,-468,kJ/mol
+BeCl2,Entropy,63,J/mol K
+BeCl2,DeltaHf,.136,kJ/g or -494 kJ/mol
+BeCl2,DeltaHc,16,kJ/mol
+BeCl2,MeltingPtC,399,C
+MgCl2,DeltaHf,-641.1,kJ/mol
+MgCl2,HeatCapacity,71.09,J/mol K
+MgCl2,Density,2.32,g/cm^3 anhydrous 
+MgCl2,MolarMass,95.211,g/mol anhydrous
+MgCl2,Appearance,white or colourless crystalline solid,NoUnits
+MgCl2,BoilingPtC,1412,C
+MgCl2,Solvent1,ethanol,NoUnits
+MgCl2,DeltaGf,-591.6,kJ/mol
+MgCl2,Entropy,89.88,J/mol K
+MgCl2,Solubility1,7.4,g/100 mL 30 C
+MgCl2,RefractIndex,1.675,anhydrous 
+MgCl2,SolubleOther,slightly soluble in acetone,NoUnits
+MgCl2,MeltingPtC,714,C
+W1C,HF<ref name,crc ,NoUnits
+W1C,MagSus,110^5,cm^3/mol
+W1C,Density,15.6,g/cm^3
+W1C,Appearance,black lustrous solid,NoUnits
+W1C,Solubility,Insoluble,NoUnits
+W1C,BoilingPtC,6000,C
+W1C,MeltingPt_ref,,NoUnits
+W1C,link,hydrofluoric acid,NoUnits
+W1C,HeatCapacity,39.8,J/molK
+W1C,ThermalConductivity,110,W/mK
+W1C,SolubleOther,Soluble in chem,NoUnits
+W1C,Entropy,32.1,J/molK
+W1C,MeltingPtC,27852830,C
+Be3N2,Density,2.71,g/cm^3
+Be3N2,MolarMass,55.06,g/mol
+Be3N2,Appearance,yellow or white powder,NoUnits
+Be3N2,Solubility,decomposes,NoUnits
+Be3N2,BoilingPtC,2240,C
+Be3N2,Solvent1,acids,NoUnits
+Be3N2,Solubility1,hydrolyes,NoUnits
+Be3N2,MeltingPtC,2200,C
+V1F3,BoilingPt,Sublimes,NoUnits
+V1F3,MagSus,2.75710^3,cm^3/mol
+V1F3,Density,3.363,g/cm^3
+V1F3,F K<br> at 760 mmHg (trihydrate) decomposes<ref name,90ref,NoUnits
+V1F3,Appearance,green powder anhydrous,NoUnits
+V1F3,Solubility,Insoluble,NoUnits
+V1F3,EtOH<ref name,crc ,NoUnits
+V1F3,SolubleOther,Insoluble in ethanol,NoUnits
+V1F3,MeltingPtC,1395,C
+K3PO4,Solvent,ethanol,NoUnits
+K3PO4,Density,2.564,g/cm^3 17 C
+K3PO4,MolarMass,212.27,g/mol
+K3PO4,Appearance,White deliquescent powder,NoUnits
+K3PO4,Solubility,90,g/100 mL 20 C
+K3PO4,pKb,1.6,NoUnits
+K3PO4,SolubleOther,Insoluble,NoUnits
+K3PO4,MeltingPtC,1380,C
+B1N,DeltaHf,-250.91,kJ/mol
+B1N,HeatCapacity,19.7,J/K mol
+B1N,Density,2.1,hBN; 3.45 cBN g/cm^3
+B1N,ElectronMobility,200,cm^2/Vs cBN
+B1N,Appearance,Colorless crystals,NoUnits
+B1N,Solubility,insoluble,NoUnits
+B1N,DeltaGf,-226.8,kJ/mol
+B1N,Entropy,14.77,J/K mol
+B1N,MeltingPtC,2973,C
+B1N,RefractIndex,1.8,hBN; 2.1 cBN
+BrCl,Solvent,other solvents,NoUnits
+BrCl,Density,2.172,g/cm^3
+BrCl,MolarMass,115.357,g/mol
+BrCl,SolubleOther,1.5,g/L
+BrCl,MeltingPtC,4,C
+SeOBr2,Density,3.38,g/cm^3
+SeOBr2,MolarMass,254.77,g/mol
+SeOBr2,BoilingPt,decomposes at,NoUnits
+SeOBr2,Appearance,yellow solid,NoUnits
+SeOBr2,Solubility,reacts,NoUnits
+SeOBr2,BoilingPtC,220,C
+SeOBr2,SolubleOther,soluble in carbon disulfide,NoUnits
+SeOBr2,MeltingPtC,41.6,C
+CeCl3,Density,3.97,g/cm^3
+CeCl3,MolarMass,246.48,g/mol anhydrous 
+CeCl3,Appearance,fine white powder,NoUnits
+CeCl3,Solubility,100,g/100 ml
+CeCl3,BoilingPtC,1727,C
+CeCl3,SolubleOther,soluble in alcohol,NoUnits
+CeCl3,MeltingPtC,817,C
+C1S2,Solvent1,formic acid,NoUnits
+C1S2,Solvent2,dimethyl sulfoxide,NoUnits
+C1S2,RefractIndex,1.627,NoUnits
+C1S2,Odor,Chloroform pure,NoUnits
+C1S2,Viscosity,0.436,cP 0 C
+C1S2,BoilingPtC,46.24,C
+C1S2,units,SIref,NoUnits
+C1S2,MeltingPtC,-111.61,C
+C1S2,Appearance,Colorless liquid,NoUnits
+C1S2,DeltaGf,64.4,kJ/mol
+C1S2,Solubility2,45,g/100 g 20.3 C
+C1S2,Solubility1,4.66,g/100 g
+C1S2,SolubleOther,Soluble in alcohol,NoUnits
+C1S2,name,Carbon disulfide,NoUnits
+C1S2,HeatCapacity,75.73,J/molK
+C1S2,mask,FFFF,NoUnits
+C1S2,Entropy,151,J/molK
+C1S2,VaporPressure,48.1,kPa 25 C
+C1S2,DeltaHc,1687.2,kJ/mol
+UO2NO3)2,MolarMass,394.04,g/mol
+UO2NO3)2,SolubleOther,soluble,NoUnits
+UO2NO3)2,Solvent,tributyl phosphate,NoUnits
+UO2NO3)2,Appearance,green solid BR  hygroscopic,NoUnits
+UO2NO3)2,Density,2.81,g/cm^3
+Tl2O3,Density,10.19,g/cm^3
+Tl2O3,MolarMass,456.76,g/mol
+Tl2O3,Appearance,very dark,NoUnits
+Tl2O3,Solubility,insoluble,NoUnits
+Tl2O3,BoilingPtC,875,C
+Tl2O3,Properties_ref,,NoUnits
+Tl2O3,MeltingPtC,717,C
+Be1O,DeltaHf,99,kJmol^1
+Be1O,HeatCapacity,25.5,J/mol K
+Be1O,Density,3.01,g cm^3
+Be1O,BandGap,10.6,eV
+Be1O,Odor,Odourless,NoUnits
+Be1O,Appearance,Colourless,NoUnits
+Be1O,Solubility,0.00002,g/100 mL
+Be1O,BoilingPtC,3900,C
+Be1O,DeltaGf,-582,kJ/mol
+Be1O,Entropy,13.7313.81,JK^1mol^1
+Be1O,ThermalConductivity,330,W K^1 m^1
+Be1O,RefractIndex,1.719,NoUnits
+Be1O,MeltingPtC,2507,C
+Hg2SO4,HeatCapacity,132,Jmol^1K^1
+Hg2SO4,Density,7.56,g/cm^3
+Hg2SO4,MolarMass,497.24,g/mol
+Hg2SO4,Appearance,yellow crystals,NoUnits
+Hg2SO4,Solubility,0.051,g/100 mL 25 C 
+Hg2SO4,Entropy,200.7,Jmol^1K^1
+Hg2SO4,DeltaHf,-743.1,kJ/mol
+Hg2SO4,SolubleOther,soluble in dilute nitric acid,NoUnits
+KClO4,Density,2.5239,g/cm^3
+KClO4,Solvent1,ethanol,NoUnits
+KClO4,Solvent3,ethyl acetate,NoUnits
+KClO4,Solvent2,acetone,NoUnits
+KClO4,RefractIndex,1.4724,NoUnits
+KClO4,Solubility,0.76,g/100 mL 0 C
+KClO4,units,SIref,NoUnits
+KClO4,MeltingPtC,610,C
+KClO4,Appearance,colourless white crystalline powder,NoUnits
+KClO4,DeltaGf,-300.4,kJ/mol
+KClO4,Solubility3,15,mg/kg
+KClO4,Solubility2,1.6,g/kg
+KClO4,Solubility1,47,mg/kg 0 C
+KClO4,SolubleOther,negligible in alcohol,NoUnits
+KClO4,name,Potassium perchlorate,NoUnits
+KClO4,HeatCapacity,111.35,J/molK
+KClO4,mask,FFFF,NoUnits
+KClO4,Entropy,150.86,J/molK
+KClO4,DeltaHf,-433,kJ/mol
+KIO3,Density,3.89,g/cm^3
+KIO3,MolarMass,214.001,g/mol
+KIO3,Odor,odorless,NoUnits
+KIO3,Appearance,white crystalline powder,NoUnits
+KIO3,Solubility,4.74,g/100 mL 0 C 
+KIO3,SolubleOther,soluble in potassium iodide,NoUnits
+KIO3,MeltingPtC,560,C
+NH4SCN,Density,1.305,g/cm^3
+NH4SCN,MolarMass,76.122,g/mol
+NH4SCN,Appearance,Colorless hygroscopic crystalline solid,NoUnits
+NH4SCN,Solubility,128,g/100 mL 0 C
+NH4SCN,BoilingPtC,170,C
+NH4SCN,SolubleOther,soluble in liquid ammonia,NoUnits
+NH4SCN,MeltingPtC,149.5,C
+SeOCl2,Density,2.43,g/cm^3
+SeOCl2,MolarMass,165.87,g/mol
+SeOCl2,Appearance,colorless liquid,NoUnits
+SeOCl2,BoilingPtC,177.2,C
+SeOCl2,MeltingPtC,10.9,C
+SeOCl2,RefractIndex,1.651,20 C
+PbO,MolarMass,223.20,g/mol
+PbO,MeltingPtC,888,C
+PbO,Appearance,red or yellow powder,NoUnits
+PbO,BoilingPtC,1477,C
+PbO,Density,9.53,g/cm^3
+ZnBr2,publisher,21,</ref>
+ZnBr2,MolarMass,225.198,g/mol
+ZnBr2,Density,4.20,g/cm^3 20 C 
+ZnBr2,Appearance,white crystalline powder ,NoUnits
+ZnBr2,Solubility,311,g/100 mL 0 C 
+ZnBr2,BoilingPtC,697,C
+ZnBr2,RefractIndex,1.5452,NoUnits
+ZnBr2,SolubleOther,very soluble in alcohol,NoUnits
+ZnBr2,MeltingPtC,394,C
+NaNO3,DeltaHf,67,kJ/mol
+NaNO3,HeatCapacity,93.05,J/mol K
+NaNO3,Density,2.257,g/cm^3
+NaNO3,MolarMass,84.9947,g/mol
+NaNO3,Viscosity,2.85,cP 317 C
+NaNO3,Odor,sweet,NoUnits
+NaNO3,Appearance,White powder or colorless crystals,NoUnits
+NaNO3,Solubility,73,g/100 mL 0 C 
+NaNO3,BoilingPtC,380,C
+NaNO3,DeltaGf,65.9,kJ/mol
+NaNO3,Entropy,116,J/mol K
+NaNO3,RefractIndex,1.587,trigonal 
+NaNO3,MeltingPtC,308,C
+PtCl4,Density,4.303,g/cm^3 anhydrous 
+PtCl4,MolarMass,336.89,g/mol
+PtCl4,BoilingPt,decompose,NoUnits
+PtCl4,Appearance,red powder,NoUnits
+PtCl4,Solubility,58.7,g/100 mL anhydrous 
+PtCl4,MeltingPtC,370,C
+H2TeO3,Density,3,g/cm^3
+H2TeO3,MolarMass,177.616,grams
+H2TeO3,BoilingPt,decomposes,NoUnits
+H2TeO3,Appearance,colorless crystals,NoUnits
+H2TeO3,Solubility,negligible,NoUnits
+H2TeO3,pKa,1,NoUnits
+CF3NC,MolarMass,95.023,NoUnits
+NaBO3nH2O,MolarMass,99.815,g/mol monohydrate;
+NaBO3nH2O,Odor,odorless,NoUnits
+NaBO3nH2O,Appearance,white powders,NoUnits
+NaBO3nH2O,Solubility,2.15,g/100 mL tetrahydrate
+NaBO3nH2O,BoilingPtC,130,to 150 C
+GaF3,Density,4.47,g/cm^3
+GaF3,MolarMass,126.718,g/mol
+GaF3,Appearance,white powder,NoUnits
+GaF3,Solubility,0.0002,g/100 mL
+GaF3,BoilingPtC,1000,C
+GaF3,MeltingPtC,800,C
+CoCO3,Density,4.13,g/cm^3
+CoCO3,Appearance,red pink crystals anhydrous,NoUnits
+CoCO3,Solubility,negligible,NoUnits
+CoCO3,SolubilityProduct,1.010^10,NoUnits
+CoCO3,DeltaGf,-651,kJ/mol
+CoCO3,Entropy,79.9,J/molK
+CoCO3,RefractIndex,1.855,NoUnits
+CoCO3,SolubleOther,soluble in acid ,NoUnits
+CoCO3,MeltingPtC,427,C
+AuBr3,MolarMass,436.69,g/mol
+AuBr3,Appearance,dark red to black crystalline,NoUnits
+AuBr3,MeltingPtC,97.5,C
+BiOCl,chapter,Bismoclite,NoUnits
+BiOCl,Density,7.36,meas.
+BiOCl,editor4,Nichols,NoUnits
+BiOCl,editor2,Bideaux,NoUnits
+BiOCl,editor3,Bladh,NoUnits
+BiOCl,Solubility,insoluble,NoUnits
+BiOCl,editor1,Anthony,NoUnits
+BiOCl,place,Chantilly,NoUnits
+H3AsO3,MolarMass,125.94,g/mol
+H3AsO3,Appearance,Only exists in aqueous solutions,NoUnits
+PbCl2,Density,5.85,g/cm^3
+PbCl2,MolarMass,278.10,g/mol
+PbCl2,Appearance,white odorless solid,NoUnits
+PbCl2,BoilingPtC,950,C
+PbCl2,SolubilityProduct,5.89e,NoUnits
+PbCl2,Entropy,135.98,JK^1mol^1
+PbCl2,DeltaHf,-359.41,kJ/mol
+PbCl2,SolubleOther,slightly soluble in dilute hydrochloric acid,NoUnits
+PbCl2,MeltingPtC,501,C
+C3Cl3N3,Solvent,organic solvents,NoUnits
+C3Cl3N3,Density,1.32,g/cm^3
+C3Cl3N3,Odor,pungent,NoUnits
+C3Cl3N3,Appearance,White powder,NoUnits
+C3Cl3N3,Solubility,hydrolyes,NoUnits
+C3Cl3N3,BoilingPtC,192,C
+C3Cl3N3,SolubleOther,soluble,NoUnits
+C3Cl3N3,MeltingPtC,154,C
+PI3,Density,4.18,g/cm^3
+PI3,MolarMass,411.68717,g/mol
+PI3,Appearance,dark red solid,NoUnits
+PI3,Solubility,Decomposes,NoUnits
+PI3,BoilingPtC,200,C
+PI3,MeltingPtC,61.2,C
+Sb1Cl5,DeltaHf,-437.2,kJ/mol
+Sb1Cl5,name,Antimony pentachloride,NoUnits
+Sb1Cl5,HeatCapacity,120.9,J/molK gas
+Sb1Cl5,Viscosity,2.034,cP 29.4 C
+Sb1Cl5,Odor,pungent,NoUnits
+Sb1Cl5,Appearance,yellow fuming liquid,NoUnits
+Sb1Cl5,mask,FFFF,NoUnits
+Sb1Cl5,Solubility,reacts,NoUnits
+Sb1Cl5,BoilingPtC,140,C
+Sb1Cl5,Solvent1,seleniumIV oxychloride,NoUnits
+Sb1Cl5,DeltaGf,-345.35,kJ/mol
+Sb1Cl5,Entropy,295,J/molK
+Sb1Cl5,Solubility1,62.97,g/100 g 25 C
+Sb1Cl5,F K<br> at 30 mmHg<ref name,sigma ,NoUnits
+Sb1Cl5,units,SIref,NoUnits
+Sb1Cl5,VaporPressure,0.16,kPa 25 C
+Sb1Cl5,RefractIndex,1.59255,NoUnits
+Sb1Cl5,SolubleOther,soluble in alcohol,NoUnits
+Sb1Cl5,MeltingPtC,2.8,C
+LiClO3,MolarMass,90.39,g/mol
+LiClO3,Solubility,241g/100mL,0 C
+LiClO3,MeltingPtC,127.6,to 129 C
+PbNO3)2,Solvent,nitric acidbr in ethanolbr in methanol,NoUnits
+PbNO3)2,Density,4.53,g/cm^3 20 C
+PbNO3)2,MolarMass,3312gmol,NoUnits
+PbNO3)2,Appearance,White colourless crystals,NoUnits
+PbNO3)2,Solubility,37.65,g/100 mL 0 C 
+PbNO3)2,RefractIndex,1.782,NoUnits
+PbNO3)2,SolubleOther,0.04,g/100 mL<br />1.3 g/100 mL
+PbNO3)2,MeltingPtC,270,C
+C1Si,ElectronMobility,900,cm^2/Vs all polytypes
+C1Si,Density,3.21,gcm^3 all polytypes
+C1Si,Appearance,black,NoUnits
+C1Si,RefractIndex,2.55,infrared; all polytypes
+C1Si,MeltingPtC,2730,C
+Na2B4O710H2O,MolarMass,381.38,decahydrate<br />201.22 anhydrate
+Na2B4O710H2O,MeltingPtC,743,C
+Na2B4O710H2O,Appearance,white solid,NoUnits
+Na2B4O710H2O,BoilingPtC,1575,C
+Na2B4O710H2O,Density,1.73,g/cm^3 solid
+NaSCN,Density,1.735,g/cm^3
+NaSCN,MolarMass,81.072,g/mol
+NaSCN,Appearance,deliquescent colorless crystals,NoUnits
+NaSCN,Solubility,139,g/100 mL 21 C 
+NaSCN,BoilingPtC,307,C
+NaSCN,pKa,-1.28,NoUnits
+NaSCN,RefractIndex,1.545,NoUnits
+NaSCN,SolubleOther,soluble in acetone,NoUnits
+NaSCN,MeltingPtC,287,C
+BCl3,BoilingPt_ref,,NoUnits
+BCl3,DeltaHf,-427,kJ/mol
+BCl3,HeatCapacity,107,J/mol K
+BCl3,Density,1.326,g/cm^3
+BCl3,MolarMass,117.17,g/mol
+BCl3,Appearance,Colorless gas,NoUnits
+BCl3,Solubility,decomposes,NoUnits
+BCl3,BoilingPtC,12.6,C
+BCl3,DeltaGf,-387.2,kJ/mol
+BCl3,Entropy,206,J/mol K
+BCl3,RefractIndex,1.00139,NoUnits
+BCl3,SolubleOther,soluble in carbon tetrachloride,NoUnits
+BCl3,MeltingPtC,-107.3,C
+HfCl4,Density,3.89,g/cm^3
+HfCl4,MolarMass,320.302,g/mol
+HfCl4,Appearance,white crystalline solid,NoUnits
+HfCl4,Solubility,decomposes,NoUnits
+HfCl4,VaporPressure,1,mmHg at 190 C
+HfCl4,MeltingPtC,432,C
+AuBr,MolarMass,276.87,g/mol
+AuBr,MeltingPtC,165,C
+AuBr,Appearance,I,NoUnits
+AuBr,Density,7.9,g/cm^3
+Cl1O2,Density,2.757,g dm^3
+Cl1O2,Odor,Acrid,NoUnits
+Cl1O2,HenryConstant,4.01,x 10^2 atm-cu m/mole
+Cl1O2,Appearance,Yellow to reddish gas,NoUnits
+Cl1O2,Solubility,8,g dm^3 at 20 C
+Cl1O2,pKa,3.05,NoUnits
+Cl1O2,Entropy,257.22,J K^1 mol^1
+Cl1O2,VaporPressure,1,atm
+Cl1O2,DeltaHf,104.60,kJ/mol
+Cl1O2,SolubleOther,soluble in alkaline and sulfuric acid solutions,NoUnits
+Cl1O2,MeltingPtC,-59,C
+CuN3)2,MolarMass,147.586,g/mol
+CuN3)2,MeltingPt,explodes,NoUnits
+CuN3)2,Appearance,brown orthorhombic crystals,NoUnits
+CuN3)2,Density,2.6,g/cm ^3
+Na4FeCN)6,Density,1.458,g/cm^3
+Na4FeCN)6,MolarMass,303.91,g/mol
+Na4FeCN)6,Odor,odorless,NoUnits
+Na4FeCN)6,Appearance,pale yellow crystals,NoUnits
+Na4FeCN)6,Solubility,10.2,g/100 mL 10 C 
+Na4FeCN)6,MeltingPt,convert,NoUnits
+Na4FeCN)6,RefractIndex,1.530,NoUnits
+HfF4,BoilingPtC,970,C
+HfF4,Appearance,white crystalline powder,NoUnits
+HfF4,Density,7.1,g/cm^3
+Cd1Te,Solvent,other solvents,NoUnits
+Cd1Te,MolarMass,240.01,g/mol
+Cd1Te,Density,5.85,gcm^3
+Cd1Te,BandGap,1.5,eV @300 K
+Cd1Te,Solubility,insoluble,NoUnits
+Cd1Te,BoilingPtC,1050,C
+Cd1Te,MeltingPt_ref,,NoUnits
+Cd1Te,RefractIndex,2.67,@10 m
+Cd1Te,SolubleOther,insoluble,NoUnits
+Cd1Te,MeltingPtC,1041,C
+SeO2,pKa,2.62;,8.32
+SeO2,RefractIndex,1.76,NoUnits
+SeO2,Solubility4,10.16,g/100 mL 12 C
+SeO2,Density,3.954,g/cm^3
+SeO2,MolarMass,110.96,g/mol
+SeO2,Odor,rotten radishes,NoUnits
+SeO2,Solubility,38.4,g/100 mL 20 C 
+SeO2,BoilingPtC,350,C
+SeO2,Solvent1,ethanol,NoUnits
+SeO2,Solvent3,acetic acid,NoUnits
+SeO2,Solvent2,acetone,NoUnits
+SeO2,Solubility3,1.11,g/100 mL 14 C
+SeO2,Solubility2,4.4,g/100 mL 15 C
+SeO2,Solubility1,6.7,g/100 mL 15 C
+SeO2,VaporPressure,1.65,kPa 70 C
+SeO2,MeltingPtC,340,C
+SeO2,SolubleOther,soluble in benene,NoUnits
+SeO2,Solvent4,methanol,NoUnits
+NH4)2SO4,Density,1.769,g/cm^3 20 C
+NH4)2SO4,MolarMass,132.14,g/mol
+NH4)2SO4,Appearance,Fine white hygroscopic granules or crystals,NoUnits
+NH4)2SO4,CriticalRelativeHumidity,79.2%,30 C
+NH4)2SO4,SolubleOther,insoluble in acetone,NoUnits
+NH4)2SO4,MeltingPtC,235,to 280 C
+FeF3,Density,3.87,g/cm^3 anhydrous 
+FeF3,MolarMass,112.840,g/mol anhydrous 
+FeF3,Appearance,pale green crystals,NoUnits
+FeF3,Solubility,slightly soluble anhydrous ,NoUnits
+FeF3,SolubleOther,negligible in alcohol,NoUnits
+FeF3,MeltingPtC,1000,C
+NaPO2H2,MolarMass,87.98,g/mol anhydrous 
+NaPO2H2,Appearance,white solid,NoUnits
+NaPO2H2,Solubility,soluble,NoUnits
+NaPO2H2,Density,0.8,g/cm^3 monohydrate
+SnCl2,Density,3.95,g/cm^3 anhydrous<br />2.71 g/cm^3 dihydrate
+SnCl2,MolarMass,189.60,g/mol anhydrous<br />225.63 g/mol dihydrate
+SnCl2,Odor,odorless,NoUnits
+SnCl2,Appearance,White crystalline solid,NoUnits
+SnCl2,Solubility,83.9,g/100 ml 0 C<br />Hydrolysis
+SnCl2,BoilingPtC,623,C
+SnCl2,SolubleOther,soluble in ethanol,NoUnits
+SnCl2,MeltingPtC,247,C
+BF3,HeatCapacity,50.46,J/mol K
+BF3,Density,0.00276,g/cm^3 anhydrous gas <br /> 1.64 g/cm^3 dihydrate
+BF3,MolarMass,67.82,g/mol anhydrous <br /> 103.837 g/mol dihydrate
+BF3,Appearance,colorless gas anhydrous br  colorless liquid dihydrate,NoUnits
+BF3,Dipole,0,D
+BF3,BoilingPtC,00.3,C
+BF3,DeltaGf,-1120,kJ/mol
+BF3,Entropy,254.3,J/mol K
+BF3,VaporPressure,50,atm 20C
+BF3,DeltaHf,-1137,kJ/mol
+BF3,SolubleOther,soluble in benene,NoUnits
+BF3,MeltingPtC,26.8,C
+CoCl2,MolarMass,129.839,g/mol anhydrous 
+CoCl2,BoilingPtC,1049,C
+CoCl2,MeltingPtC,735,C
+NH4)2S2O8,Density,1.98,g/cm^3
+NH4)2S2O8,MolarMass,228.18,g/mol
+NH4)2S2O8,Appearance,white to yellowish crystals,NoUnits
+NH4)2S2O8,Solubility,80,g/100 mL 25 C
+NH4)2S2O8,SolubleOther,Moderately soluble in MeOH,NoUnits
+NH4)2S2O8,MeltingPtC,120,C
+Li1Cl,Density,2.068,g/cm^3
+Li1Cl,Solvent1,methanol,NoUnits
+Li1Cl,Solvent3,formic acid,NoUnits
+Li1Cl,Solvent2,ethanol,NoUnits
+Li1Cl,Solvent5,liquid ammonia,NoUnits
+Li1Cl,Solvent4,acetone,NoUnits
+Li1Cl,RefractIndex,1.662,24 C
+Li1Cl,Viscosity,0.87,cP 807 C
+Li1Cl,BoilingPtC,1382,C
+Li1Cl,MeltingPtC,605-614,C
+Li1Cl,"butanol, selenium(IV) oxychloride, propanol<ref name",chemister ,NoUnits
+Li1Cl,Appearance,white solid ,NoUnits
+Li1Cl,Solubility5,0.54,g/100 g -34 C
+Li1Cl,Solubility3,26.6,g/100 g 18 C
+Li1Cl,SolubleOther,soluble in hydraine,NoUnits
+Li1Cl,HeatCapacity,48.03,J/molK
+Li1Cl,DeltaGf,-384,kJ/mol
+Li1Cl,Entropy,59.31,J/molK
+Li1Cl,DeltaHf,-408.27,kJ/mol
+YF3,Solvent,acid,NoUnits
+YF3,Density,4.01,g cm^3
+YF3,MolarMass,145.90,g mol^1
+YF3,Appearance,white powder,NoUnits
+YF3,Solubility,insoluble,NoUnits
+YF3,BoilingPtC,2230,C
+YF3,RefractIndex,1.51,500 nm
+YF3,SolubleOther,soluble,NoUnits
+YF3,MeltingPtC,1387,C
+C18Fe7N18,Appearance,Blue opaque crystals,NoUnits
+HNO2,MolarMass,47.013,g/mol
+HNO2,pKa,3.398,NoUnits
+HNO2,MeltingPt,Only known in solution,NoUnits
+HNO2,Appearance,Pale blue solution,NoUnits
+HNO2,Density,1,g/ml
+NH4)2S,MolarMass,68.154,g/mol
+NH4)2S,MeltingPt,decomposes at ambient temperatures,NoUnits
+NH4)2S,SolubleOther,soluble in alcohol ,NoUnits
+NH4)2S,Solubility,128.1,g/100 mL
+NH4)2S,Density,0.997,g/cm^3
+DyCl3,Density,3.67,g/cm^3
+DyCl3,MolarMass,268.86,g/mol anhydrous
+DyCl3,Appearance,white solid,NoUnits
+DyCl3,Solubility,Soluble,NoUnits
+DyCl3,BoilingPtC,1530,C
+DyCl3,MeltingPtC,647,C
+FeCl2,LogP,-0.15,NoUnits
+FeCl2,MolarMass,126.751,g/mol anhydrous
+FeCl2,Appearance,tan solid anhydrous,NoUnits
+FeCl2,BoilingPtC,1023,C
+FeCl2,Solvent1,THF,NoUnits
+FeCl2,Solvent2,ethanol,NoUnits
+FeCl2,Solubility1,soluble,NoUnits
+FeCl2,MeltingPtC,677,C
+Cl1F3,Density,4,mg cm^3
+Cl1F3,Appearance,yellow liquid,NoUnits
+Cl1F3,Viscosity,91.82,Pa s
+Cl1F3,BoilingPtC,11.75,C
+Cl1F3,Entropy,281.59,J K^1mol^1
+Cl1F3,location,USA,NoUnits
+Cl1F3,VaporPressure,175,kPa
+Cl1F3,DeltaHf,58.87,kJ mol^1
+Cl1F3,MeltingPtC,6.34,C
+LiAlH4,HeatCapacity,86.4,J/mol K
+LiAlH4,Density,0.917,g/cm^3
+LiAlH4,MolarMass,37.95,g/mol
+LiAlH4,Odor,odorless,NoUnits
+LiAlH4,Appearance,white crystals pure samplesbr grey powder commercial material ,NoUnits
+LiAlH4,Solubility,Reacts,NoUnits
+LiAlH4,Solvent1,tetrahydrofuran,NoUnits
+LiAlH4,DeltaGf,-48.4,kJ/mol
+LiAlH4,Solvent2,diethyl ether,NoUnits
+LiAlH4,Entropy,87.9,J/mol K
+LiAlH4,Solubility2,39.5,g/100 mL
+LiAlH4,Solubility1,112.332,g L^1
+LiAlH4,DeltaHf,-117,kJ/mol
+LiAlH4,MeltingPtC,150,C
+CuOH)2,Density,3.368,g/cm^3
+CuOH)2,MolarMass,97.561,g/mol
+CuOH)2,Appearance,green solid,NoUnits
+CuOH)2,Solubility,negligible,NoUnits
+CuOH)2,Entropy,108,Jmol^1K^1
+CuOH)2,DeltaHf,50,kJmol^1
+CuOH)2,SolubleOther,insoluble in ethanol ,NoUnits
+Rb2O,MolarMass,186.94,g/moL
+Rb2O,MeltingPt,500,C
+Rb2O,Appearance,Yellow solid,NoUnits
+Rb2O,Solubility,Reacts violently to give Rubidium hydroxide,NoUnits
+Rb2O,Density,4,g/cm^3
+XeO4,DeltaHf,153.5,kcal mol^1 
+XeO4,Density,,NoUnits
+XeO4,MolarMass,195.29,g mol^1
+XeO4,Appearance,6C,NoUnits
+XeO4,postscript,None ref,NoUnits
+XeO4,Entropy,mol1,NoUnits
+XeO4,MeltingPtC,5.9,C
+KMnO4,DeltaHf,13.4,kJ/mol
+KMnO4,HeatCapacity,119.2,J/mol K
+KMnO4,Density,2.703,g/cm^3
+KMnO4,MolarMass,158.034,g/mol
+KMnO4,Odor,odorless,NoUnits
+KMnO4,Appearance,bronegray needles br  magentarose in solution,NoUnits
+KMnO4,Solubility,6.4,g/100mL 20 C <br /> 250 g/L 65 C
+KMnO4,DeltaGf,-713.8,kJ/mol
+KMnO4,Entropy,171.7,JK^1mol^1
+KMnO4,RefractIndex,1.59,NoUnits
+KMnO4,SolubleOther,decomposes in alcohol and organic solvents,NoUnits
+KMnO4,MeltingPtC,240,C
+NaOCl,Density,1.11,g/cm^3
+NaOCl,MolarMass,74.442,g/mol
+NaOCl,Odor,like and sweetish,NoUnits
+NaOCl,Appearance,yellow solid pentahydrate,NoUnits
+NaOCl,Solubility,29.3,g/100mL 0 C
+NaOCl,BoilingPtC,101,C
+NaOCl,DeltaHf,-347.1,kJ/mol
+H4O4Si,pKa,9.84,NoUnits
+AlAs,DeltaHf,-116.3,kJ/mol
+AlAs,Density,3.72,g/cm^3
+AlAs,MolarMass,101.9031,g/mol
+AlAs,BandGap,2.12,eV indirect
+AlAs,Appearance,orange crystals,NoUnits
+AlAs,Solubility,reacts,NoUnits
+AlAs,Entropy,60.3,J/mol K
+AlAs,location,Peterburg ref,NoUnits
+AlAs,ElectronMobility,200,cm^2/Vs 300 K
+AlAs,ThermalConductivity,0.9,W/cmK 300 K
+AlAs,RefractIndex,3,infrared
+AlAs,SolubleOther,reacts in ethanol,NoUnits
+AlAs,MeltingPtC,1740,C
+ZrN,name,Zirconium nitride,NoUnits
+ZrN,HeatCapacity,40.442,J/molK
+ZrN,Density,7.09,g/cm^3 24 C
+ZrN,mask,FFFF,NoUnits
+ZrN,Odor,Odorless,NoUnits
+ZrN,Appearance,brown crystals,NoUnits
+ZrN,Solubility,Insoluble,NoUnits
+ZrN,Entropy,38.83,J/molK
+ZrN,"HF, acids<ref name",crc ,NoUnits
+ZrN,units,SIref,NoUnits
+ZrN,DeltaHf,65.26,kJ/mol
+ZrN,SolubleOther,Soluble in concentrated hydrofluoric acid,NoUnits
+ZrN,MeltingPtC,2952,C
+Li2O2,MolarMass,45.881,g/mol
+Li2O2,Odor,odorless,NoUnits
+Li2O2,BoilingPt,Decomposes to Lithium oxide,NoUnits
+Li2O2,Appearance,fine,NoUnits
+Li2O2,Solubility,soluble,NoUnits
+Li2O2,DeltaHf,-13.82,kJ/g
+Li2O2,SolubleOther,insoluble in alcohol,NoUnits
+Li2O2,MeltingPtC,195,C
+VO2,MolarMass,82.94,g/mol
+VO2,MeltingPt,1,NoUnits
+VO2,Appearance,Deep Blue Powder,NoUnits
+VO2,Density,4.571,g/cm^3 monoclinic
+NaNO2,DeltaHf,59,kJ/mol
+NaNO2,Density,2.168,g/cm^3
+NaNO2,MolarMass,68.9953,g/mol
+NaNO2,Appearance,white or slightly yellowish solid,NoUnits
+NaNO2,Solubility,71.4,g/100 mL 0 C 
+NaNO2,DeltaGf,95,kJ/mol
+NaNO2,Entropy,106,J/mol K
+NaNO2,MeltingPtC,271,C
+NaNO2,RefractIndex,1.65,NoUnits
+CuSO4,chapter,Chalcocyanite,NoUnits
+CuSO4,DeltaHf,69.98,kJ/mol
+CuSO4,Appearance,white anhydrous,NoUnits
+CuSO4,editor4,Nichols,NoUnits
+CuSO4,editor2,Bideaux,NoUnits
+CuSO4,editor3,Bladh,NoUnits
+CuSO4,Solubility,1.055,Molality
+CuSO4,editor1,Anthony,NoUnits
+CuSO4,place,Chantilly,NoUnits
+CuSO4,Entropy,5,JK^1mol^1
+CuSO4,MeltingPtC,110,C
+CuSO4,RefractIndex,1.7241.739,anhydrous
+NaMnO4,MolarMass,141.9254,g/mol 
+NaMnO4,Appearance,Red solid,NoUnits
+NaMnO4,Solubility,90,g/100 mL
+NaMnO4,Density,1.972,g/cm^3 monohydrate
+VO,Density,5.758,g/cm^3
+VO,MolarMass,66.9409,g/mol
+VO,Appearance,grey solid with metallic lustre,NoUnits
+VO,BoilingPtC,2627,C
+VO,MeltingPtC,1789,C
+VO,RefractIndex,1.5763,NoUnits
+NiOH)2,Density,4.10,g/cm^3
+NiOH)2,MolarMass,92.724,g/mol anhydrous 
+NiOH)2,Appearance,green crystals,NoUnits
+NiOH)2,Solubility,0.13,g/L
+NiOH)2,Entropy,79,Jmol^1K^1
+NiOH)2,DeltaHf,38,kJmol^1
+NiOH)2,SolubleOther,soluble in dilute acid,NoUnits
+NiOH)2,MeltingPtC,230,C
+S2Cl2,Dielectric Constant,4.9,-->
+S2Cl2,Density,1.688,g/cm^3
+S2Cl2,MolarMass,135.04,g/mol
+S2Cl2,Odor,pungent,NoUnits
+S2Cl2,Appearance,amber to yellowred,NoUnits
+S2Cl2,Solubility,decomposes,NoUnits
+S2Cl2,BoilingPtC,137.1,C
+S2Cl2,VaporPressure,7,mmHg 20 C
+S2Cl2,RefractIndex,1.658,NoUnits
+S2Cl2,SolubleOther,soluble in ethanol,NoUnits
+S2Cl2,MeltingPtC,0,C
+CeSO4)2,MolarMass,332.24,g/mol anhydrous 
+CeSO4)2,SolubleOther,soluble in dilute sulfuric acid,NoUnits
+CeSO4)2,MeltingPtC,350,C
+CeSO4)2,Appearance,Yellow solid anhydrous ,NoUnits
+CeSO4)2,Density,3.91,g/cm^3 tetrahydrate
+TeCl44,MolarMass,1077.64,g/mol
+TeCl44,MeltingPtC,224,C
+TeCl44,Appearance,hygroscopic pale yellow solidbr if fused,NoUnits
+TeCl44,BoilingPtC,380,C
+TeCl44,Density,3.26,g/cm^3
+V2O3,Solvent,other solvents,NoUnits
+V2O3,Density,4.87,g/cm^3
+V2O3,MolarMass,149.881,g/mol
+V2O3,Appearance,Black powder,NoUnits
+V2O3,SolubleOther,Insoluble,NoUnits
+V2O3,MeltingPtC,1940,C
+CuCl2,Density,3.386,g/cm^3 anhydrous <br /> 2.51 g/cm^3 dihydrate
+CuCl2,MolarMass,134.45,g/mol anhydrous<br />170.48 g/mol dihydrate
+CuCl2,Odor,odorless,NoUnits
+CuCl2,Appearance,brown solid anhydrousbr bluegreen solid dihydrate,NoUnits
+CuCl2,Solubility,70.6,g/100 mL 0 C 
+CuCl2,BoilingPtC,993,C
+CuCl2,MeltingPtC,498,C
+CaClO3)2,Density,2.71,g/cm^3
+CaClO3)2,MolarMass,206.98,g/mol
+CaClO3)2,Odor,odorless,NoUnits
+CaClO3)2,Appearance,white solid ,NoUnits
+CaClO3)2,Solubility,209,g/100mL 20 C 
+CaClO3)2,MeltingPt,150C,dihydrate
+Na2SeO3,SolubleOther,insoluble in alcohol,NoUnits
+Na2SeO3,MeltingPt,710,C
+Na2SeO3,Appearance,colourless solid,NoUnits
+Na2SeO3,Solubility,85,g/100 mL 20 C
+Na2SeO3,Density,3.1,g/cm^3
+H6B2,Density,1.216,g/L
+H6B2,Odor,repulsive and sweet,NoUnits
+H6B2,Appearance,Colorless gas,NoUnits
+H6B2,Solubility,Reacts,NoUnits
+H6B2,BoilingPtC,-92.5,C
+H6B2,VaporPressure,39.5,atm 16.6C
+H6B2,MeltingPtC,64.85,C
+RbCl,DeltaHf,-435.14,kJ/mol
+RbCl,HeatCapacity,52.4,JK^-1mol^-1
+RbCl,Density,2.80,g/cm^3 25 C 
+RbCl,MolarMass,120.921,g/mol
+RbCl,Appearance,white crystals ,NoUnits
+RbCl,Solubility,77,g/100mL 0 C 
+RbCl,BoilingPtC,1390,C
+RbCl,Solvent1,methanol,NoUnits
+RbCl,Entropy,95.9,JK^-1mol^-1
+RbCl,Solubility1,1.41,g/100 mL
+RbCl,RefractIndex,1.5322,NoUnits
+RbCl,MeltingPtC,718,C
+LiI,DeltaHf,-2.02,kJ/g or 270.48 kJ/mol
+LiI,HeatCapacity,0.381,J/g K or 54.4 J/mol K
+LiI,Density,4.076,g/cm^3 anhydrous 
+LiI,MolarMass,133.85,g/mol
+LiI,Appearance,White crystalline solid,NoUnits
+LiI,BoilingPtC,1171,C
+LiI,Solvent1,methanol,NoUnits
+LiI,DeltaGf,-266.9,kJ/mol
+LiI,Solvent2,acetone,NoUnits
+LiI,Entropy,75.7,J/mol K
+LiI,Solubility2,426,g/L 18 C
+LiI,Solubility1,3430,g/L 20 C
+LiI,RefractIndex,1.955,NoUnits
+LiI,SolubleOther,soluble in ethanol,NoUnits
+LiI,MeltingPtC,469,C
+K3FeC2O4)3,MolarMass,437.20,g/mol anhydrous
+K3FeC2O4)3,MeltingPtC,230,C
+K3FeC2O4)3,Appearance,emerald green hydrated crystals,NoUnits
+K3FeC2O4)3,Density,2.13,g/cm^3
+H2SO3,MolarMass,82.07,g/mol
+H2SO3,pKa,1.857,NoUnits
+YBr3,MolarMass,328.618,g/mol
+YBr3,Appearance,colorless hygroscopic crystals,NoUnits
+YBr3,Solubility,83.3,g/100 mL at 30C
+YBr3,MeltingPtC,904,C
+CdNO3)2,Density,3.6,g/cm^3 anhydrous
+CdNO3)2,MolarMass,236,NoUnits
+CdNO3)2,Odor,Odorless,NoUnits
+CdNO3)2,Appearance,White crystals,NoUnits
+CdNO3)2,F K<br> at 760 mmHg (tetrahydrate)<ref name,90ref,NoUnits
+CdNO3)2,BoilingPtC,132,C
+CdNO3)2,place,New York,NoUnits
+CdNO3)2,MeltingPtC,360,C
+CdNO3)2,SolubleOther,Soluble in acids,NoUnits
+PrCl3,Density,4.02,g/cm^3 anhydrous
+PrCl3,MolarMass,247.24,g/mol anhydrous
+PrCl3,Appearance,green solid anhydrous,NoUnits
+PrCl3,Solubility,104.0,g/100 ml 13 C
+PrCl3,BoilingPtC,1710,C
+PrCl3,MeltingPtC,786,C
+PF3,Density,3.91,g/L
+PF3,MolarMass,87.968971,g/mol
+PF3,Appearance,colorless gas,NoUnits
+PF3,Solubility,slow hydrolysis,NoUnits
+PF3,BoilingPtC,-101.8,C
+PF3,MeltingPtC,-151.5,C
+KCN,pKa,11.0,NoUnits
+KCN,RefractIndex,1.410,NoUnits
+KCN,Entropy,127.8,JK^-1mol^-1
+KCN,Solubility4,0.57,g/100mL
+KCN,Density,1.52,g/cm^3
+KCN,MolarMass,65.12,g/mol
+KCN,Odor,faint,NoUnits
+KCN,Appearance,White crystalline solid ,NoUnits
+KCN,Solubility5,41,g/100 mL
+KCN,Solubility,71.6,g/100 ml 25 C 
+KCN,BoilingPtC,1625,C
+KCN,Solvent1,methanol,NoUnits
+KCN,Solvent3,formamide,NoUnits
+KCN,Solvent2,glycerol,NoUnits
+KCN,Solubility3,14.6,g/100 mL
+KCN,Solubility2,soluble,NoUnits
+KCN,Solubility1,4.91,g/100 mL 20 C
+KCN,Solvent5,hydroxylamine,NoUnits
+KCN,MeltingPtC,634.5,C
+KCN,DeltaHf,-131.5,kJ/mol
+KCN,Solvent4,ethanol,NoUnits
+Au2S,MolarMass,425.998,g/mol
+Au2S,Solubility,Insoluble,NoUnits
+Na1Br,Density,3.21,g/cm^3 anhydrous
+Na1Br,Solvent1,methanol,NoUnits
+Na1Br,Solvent3,formic acid,NoUnits
+Na1Br,Solvent2,ethanol,NoUnits
+Na1Br,Solvent5,dimethylformamide,NoUnits
+Na1Br,Solvent4,glycerol,NoUnits
+Na1Br,"SO<sub>2</sub>, amine<br />Insoluble in acetone, acetonitrile<ref name",chemister ,NoUnits
+Na1Br,RefractIndex,1.6428,24 C
+Na1Br,Viscosity,1.42,cP 762 C
+Na1Br,BoilingPtC,1390,C
+Na1Br,MeltingPtC,747,C
+Na1Br,KrF</sub>,1.8467,24 C
+Na1Br,Appearance,White powder,NoUnits
+Na1Br,Solubility5,3.2,g/100 g 10.3 C
+Na1Br,Solubility4,38.7,g/100 g 20 C
+Na1Br,Solubility3,19.3,g/100 g 18 C
+Na1Br,HeNe</sub>,1.6389,24 C
+Na1Br,SolubleOther,Soluble in alcohol,NoUnits
+Na1Br,HeatCapacity,51.4,J/molK
+Na1Br,F K<br> (dihydrate) decomposes<ref name,pphoiccite book,NoUnits
+Na1Br,DeltaGf,49.3,kJ/mol
+Na1Br,Entropy,86.82,J/molK
+Na1Br,ThermalConductivity,5.6,W/mK 150 K
+Na1Br,VaporPressure,1,torr 806 C
+Na1Br,DeltaHf,61.41,kJ/mol
+In1Sb,Density,5.775,g cm^3
+In1Sb,ElectronMobility,7.7,mC s g^1 at 27 C
+In1Sb,BandGap,0.17,eV
+In1Sb,Appearance,Dark grey,NoUnits
+In1Sb,ThermalConductivity,180,mW K^1 cm^1 at 27 C
+In1Sb,RefractIndex,4.0,NoUnits
+In1Sb,MeltingPtC,527,C
+H1Br,DeltaHf,6.45, 36.13 kJ mol^1
+H1Br,HeatCapacity,350.7,mJ K^1 g^1
+H1Br,Density,3.6452,kg/m^3 0 C
+H1Br,Odor,Acrid,NoUnits
+H1Br,Appearance,Colorless gas,NoUnits
+H1Br,BoilingPtC,6.8,C
+H1Br,pKb,23,NoUnits
+H1Br,Entropy,198.696-198.704,J K^1 mol^1
+H1Br,VaporPressure,2.308,MPa at 21 C
+H1Br,RefractIndex,1.325,NoUnits
+H1Br,SolubleOther,soluble in alcohol,NoUnits
+H1Br,MeltingPtC,6.9,C
+Li2SO3,MolarMass,93.943,NoUnits
+CaSO4,Solvent,glycerol,NoUnits
+CaSO4,MolarMass,136.14,g/mol anhydrous
+CaSO4,Odor,odorless,NoUnits
+CaSO4,Density,2.96,g/cm^3 anhydrous 
+CaSO4,Appearance,white solid,NoUnits
+CaSO4,Solubility,0.21g/100ml,at 20 C anhydrous
+CaSO4,pKa,10.4,anhydrous 
+CaSO4,Entropy,107,Jmol^1K^1 
+CaSO4,DeltaHf,-1433,kJ/mol
+CaSO4,SolubleOther,slightly soluble dihydrate,NoUnits
+CaSO4,MeltingPtC,1460,C
+Ca1Cl2,"F K<br> tetrahydrate, decomposes<ref name",pphoiccite book,NoUnits
+Ca1Cl2,Solvent1,ethanol,NoUnits
+Ca1Cl2,Solvent3,acetone,NoUnits
+Ca1Cl2,Solvent2,methanol,NoUnits
+Ca1Cl2,Solvent4,pyridine,NoUnits
+Ca1Cl2,CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub><ref name,chemister ,NoUnits
+Ca1Cl2,MeltingPtC,772-775,C
+Ca1Cl2,Odor,Odorless,NoUnits
+Ca1Cl2,Viscosity,3.34,cP 787 C
+Ca1Cl2,Solubility,Anhydrous ,NoUnits
+Ca1Cl2,BoilingPtC,1935,C
+Ca1Cl2,Entropy,108.4,J/molK
+Ca1Cl2,RefractIndex,1.52,NoUnits
+Ca1Cl2,MagSus,.4710^5,cm^3/mol
+Ca1Cl2,Appearance,White powder,NoUnits
+Ca1Cl2,"F K<br> hexahydrate, decomposes<ref name",crc ,NoUnits
+Ca1Cl2,DeltaGf,48.81,kJ/mol
+Ca1Cl2,Solubility4,16.6,g/kg
+Ca1Cl2,Solubility3,0.1,g/kg 20 C
+Ca1Cl2,SolubleOther,Soluble in acetic acid,NoUnits
+Ca1Cl2,pKa,89,anhydrous
+Ca1Cl2,place,New York,NoUnits
+SO2Cl2,Density,1.67,g cm^3 20 C
+SO2Cl2,MolarMass,134.9698,g mol^1
+SO2Cl2,Appearance,Colorless liquid with a pungent odor Yellows upon standing,NoUnits
+SO2Cl2,Solubility,hydrolyes,NoUnits
+SO2Cl2,BoilingPtC,69.4,C
+SO2Cl2,RefractIndex,1.4437,20 C 
+SO2Cl2,SolubleOther,miscible with benene,NoUnits
+SO2Cl2,MeltingPtC,4.1,C
+KOH,Solvent3,isopropanol,NoUnits
+KOH,Solvent2,methanol,NoUnits
+KOH,RefractIndex,1.409,20 C
+KOH,MolarMass,56.11,g mol^-1
+KOH,Odor,odorless,NoUnits
+KOH,BoilingPtC,1327,C
+KOH,MeltingPtC,360, C
+KOH,Appearance,white solid,NoUnits
+KOH,DeltaGf,-380.2,kJ/mol
+KOH,Solubility3,14,g / 100 g 28 C
+KOH,Solubility2,55,g/100 g 28 C
+KOH,SolubleOther,soluble in alcohol,NoUnits
+KOH,HeatCapacity,65.87,J/molK
+KOH,pKa,13.5,0.1 M
+KOH,Entropy,79.32,J/molK
+KOH,DeltaHf,-425.8,kJ/mol
+SrO,HeatCapacity,44.3,Jmol^1K^1
+SrO,Density,4.70,g/cm^3
+SrO,MolarMass,103.619,g/mol
+SrO,Appearance,colorless cubic crystal system,NoUnits
+SrO,Solubility,reacts,NoUnits
+SrO,BoilingPtC,3200,C
+SrO,Entropy,57.2,Jmol^1K^1
+SrO,DeltaHf,-592.0,kJmol^1
+SrO,MeltingPtC,2531,C
+KSCN,Solvent,acetone,NoUnits
+KSCN,Density,1.886,g/cm^3
+KSCN,MolarMass,97.181,g mol^1
+KSCN,Odor,Odorless,NoUnits
+KSCN,Appearance,Colorless deliquescent crystals,NoUnits
+KSCN,Solubility,177,g/100 mL 0 C 
+KSCN,BoilingPtC,500,C
+KSCN,SolubleOther,21.0,g/100 mL
+KSCN,MeltingPtC,173.2,C
+NaHSO3,Density,1.48,g/cm^3
+NaHSO3,MolarMass,104.061,g/mol
+NaHSO3,Odor,slight sulfurous odor,NoUnits
+NaHSO3,Appearance,White solid,NoUnits
+NaHSO3,Solubility,42,g/100 mL
+NaHSO3,BoilingPtC,315,C
+NaHSO3,RefractIndex,1.526,NoUnits
+NaHSO3,MeltingPtC,150,C
+La2CO3)3,Density,2.62.7,g/cmsup
+La2CO3)3,MolarMass,457.838,g/mol
+La2CO3)3,Appearance,White powder,NoUnits
+La2CO3)3,Solubility,negligible,NoUnits
+La2CO3)3,MeltingPt,decomposes,NoUnits
+La2CO3)3,SolubleOther,soluble in acids,NoUnits
+H3PO3,Density,1.651,g/cm^3 21 C
+H3PO3,MolarMass,82.00,g/mol
+H3PO3,Appearance,white solid ,NoUnits
+H3PO3,Solubility,310,g/100 mL
+H3PO3,BoilingPtC,200,C
+H3PO3,pKa,1.3,NoUnits
+H3PO3,SolubleOther,soluble in alcohol,NoUnits
+H3PO3,MeltingPtC,73.6,C
+AuCl3,MolarMass,303.325,g/mol
+AuCl3,MeltingPtC,254,C
+AuCl3,SolubleOther,soluble in ether,NoUnits
+AuCl3,Solubility,68,g/100 ml cold
+AuCl3,Density,4.7,g/cm^3
+Cl3PS,Density,1.67,g/cm^3
+Cl3PS,MolarMass,169.4,g/mol
+Cl3PS,Appearance,Colorless liquid,NoUnits
+Cl3PS,Solubility,Reacts,NoUnits
+Cl3PS,BoilingPtC,125,C
+Cl3PS,SolubleOther,Soluble in benene,NoUnits
+Cl3PS,MeltingPtC,5,C
+GaP,Density,4.138,g/cm^3
+GaP,MolarMass,100.697,g/mol
+GaP,BandGap,2.26,eV 300 K
+GaP,Odor,odorless,NoUnits
+GaP,Appearance,pale orange solid,NoUnits
+GaP,Solubility,insoluble,NoUnits
+GaP,ElectronMobility,250,cm^2/V*s 300 K
+GaP,ThermalConductivity,1.1,W/cm*K 300 K
+GaP,RefractIndex,3.02,2.48 m
+GaP,MeltingPtC,1477,C
+InCl3,Solvent,other solvents,NoUnits
+InCl3,Density,3.46,g/cm^3
+InCl3,MolarMass,221.18,g/mol
+InCl3,Appearance,white flakes,NoUnits
+InCl3,Solubility,soluble,NoUnits
+InCl3,BoilingPtC,800,C
+InCl3,SolubleOther,THF,NoUnits
+InCl3,MeltingPtC,586,C
+Cl1O,HeatCapacity,Chlorine monoxide is a chemical Radical chemistry,NoUnits
+Cl1O,"2
+
+This reaction causes the depletion of the ozone layer.<ref name",hollemanwibergcite book,NoUnits
+Cl1O,DeltaHf,101.8,kJ/mol
+TiCl3,Density,2.64,g/cm^3
+TiCl3,MolarMass,154.225,g/mol
+TiCl3,Appearance,violet crystals ,NoUnits
+TiCl3,Solubility,very soluble,NoUnits
+TiCl3,BoilingPtC,960,C
+TiCl3,RefractIndex,1.4856,NoUnits
+TiCl3,MeltingPtC,425,C
+Y2O3,Solvent,alcohol ,NoUnits
+Y2O3,Density,5.010,g/cm^3
+Y2O3,MolarMass,225.81,g/mol
+Y2O3,Appearance,White solid,NoUnits
+Y2O3,Solubility,insoluble,NoUnits
+Y2O3,BoilingPtC,4300,C
+Y2O3,SolubleOther,soluble,NoUnits
+Y2O3,MeltingPtC,2425,C
+KIO4,MolarMass,230.00,g mol^1
+KIO4,Odor,odourless,NoUnits
+KIO4,MeltingPtC,582,C
+KIO4,Appearance,white crystalline powder,NoUnits
+KIO4,Density,3.618,g/cm^3
+C3H9P,VaporPressure,49.9,kPa at 20 C
+C3H9P,MeltingPtC,-86,C
+C3H9P,Appearance,Colorless liquid,NoUnits
+C3H9P,BoilingPtC,38,to 39 C
+C3H9P,Density,735,mg cm^3
+AlCl3,HeatCapacity,91,J/molK
+AlCl3,Density,2.48,g/cm^3 anhydrous
+AlCl3,MolarMass,133.34,g/mol anhydrous<br />241.43 g/mol hexahydrate
+AlCl3,Appearance,white or pale yellow solid,NoUnits
+AlCl3,BoilingPtC,120,C
+AlCl3,DeltaGf,-628.6,kJ/mol
+AlCl3,Entropy,111,J/molK
+AlCl3,VaporPressure,133.3,Pa 99 C
+AlCl3,DeltaHf,04.2,kJ/mol
+AlCl3,MeltingPtC,192.4,C
+C6H5PH2,MolarMass,110.09,g/mol
+C6H5PH2,Odor,foul,NoUnits
+C6H5PH2,BoilingPtC,160,C
+C6H5PH2,Appearance,Colorless liquid,NoUnits
+C6H5PH2,Density,1.001,g/cm^3
+MgSO4,Odor,odorless,NoUnits
+MgSO4,Appearance,white crystalline solid,NoUnits
+MgSO4,RefractIndex,1.523,monohydrate <br /> 1.433 heptahydrate
+N2O5,MolarMass,108.01,g/mol
+N2O5,Density,1.642,g/cm^3 18 C
+N2O5,Appearance,white solid,NoUnits
+N2O5,Dipole,1.39,D
+N2O5,Solubility,reacts to give Nitric acid,NoUnits
+N2O5,DeltaGf,114.1,kJ/mol
+N2O5,DeltaHf,3.1,kJ/mol s
+N2O5,SolubleOther,soluble in chloroform ,NoUnits
+H24Na3AsO16,MolarMass,423.9,g/mol
+H24Na3AsO16,Appearance,colourless solid,NoUnits
+H24Na3AsO16,Solubility,soluble,NoUnits
+H24Na3AsO16,Density,1.517,g/cm^3 dodecahydrate
+UF4,Density,6.70,g/cm^3
+UF4,MolarMass,314.02,g/mol
+UF4,Appearance,Green crystalline solid,NoUnits
+UF4,Solubility,Insoluble,NoUnits
+UF4,BoilingPtC,1417,C
+UF4,MeltingPtC,1036,C
+Cd1O,sublimation<ref name,INCHEMsheet,NoUnits
+Cd1O,RefractIndex,2.49,NoUnits
+Cd1O,ElectronMobility,531,cm^2/Vs
+Cd1O,Odor,odorless,NoUnits
+Cd1O,Solubility,4.8,mg/L 18 C
+Cd1O,BoilingPtC,1559,C
+Cd1O,units,SIref,NoUnits
+Cd1O,MeltingPtC,900-1000,C
+Cd1O,MagSus,3e,NoUnits
+Cd1O,Appearance,colorless powder alpha form ,NoUnits
+Cd1O,BandGap,2.18,eV
+Cd1O,name,Cadmium oxide,NoUnits
+Cd1O,HeatCapacity,43.64,J/molK
+Cd1O,mask,FFFF,NoUnits
+Cd1O,Entropy,55,J/molK
+Cd1O,ThermalConductivity,0.7,W/mK
+Cd1O,VaporPressure,0.13,kPa 1000 C
+Cd1O,DeltaHf,58,kJ/mol
+H3PW12O40,MolarMass,2880.2,g/mol anhydrous
+H3PW12O40,Solvent,other solvents,NoUnits
+H3PW12O40,class,wikitable,NoUnits
+CaC2O4,MolarMass,128.097,g/mol
+CaC2O4,MeltingPtC,200,C
+CaC2O4,Appearance,white solid,NoUnits
+CaC2O4,Solubility,0.67,mg/L 20 C
+CaC2O4,Density,2.12,g/cm^3
+ClO3F,Density,1.434,g/cm^3
+ClO3F,MolarMass,102.4496,g/mol
+ClO3F,Viscosity,3.91,x 10^3 Pa.s @ melting point
+ClO3F,Odor,sweet odor,NoUnits
+ClO3F,Appearance,Colorless gas,NoUnits
+ClO3F,Solubility,0.06,g/100 ml 20 C
+ClO3F,BoilingPtC,6.7,C
+ClO3F,VaporPressure,10.5,atm 20C
+ClO3F,DeltaHf,7,NoUnits
+ClO3F,MeltingPtC,47.8,C
+SiCl4,Density,1.483,g/cm^3
+SiCl4,MolarMass,val,NoUnits
+SiCl4,Appearance,Colourless liquid,NoUnits
+SiCl4,Solubility,Reaction,NoUnits
+SiCl4,BoilingPtC,57.65,C
+SiCl4,ul,kPa at val,NoUnits
+SiCl4,Entropy,240,Jmol^1K^1
+SiCl4,VaporPressure,val,NoUnits
+SiCl4,DeltaHf,87,kJmol^1
+SiCl4,SolubleOther,soluble in benene,NoUnits
+SiCl4,MeltingPtC,-68.74,C
+NaN3,pKa,4.8,NoUnits
+NaN3,HeatCapacity,76.6,J/mol K
+NaN3,Density,1.846,g/cm^3 20 C
+NaN3,MolarMass,65.0099,g/mol
+NaN3,Odor,odorless,NoUnits
+NaN3,Appearance,colorless to white solid,NoUnits
+NaN3,Solubility,38.9,g/100 mL 0 C 
+NaN3,Solvent1,methanol,NoUnits
+NaN3,DeltaGf,99.4,kJ/mol
+NaN3,Solvent2,ethanol,NoUnits
+NaN3,Entropy,70.5,J/mol K
+NaN3,Solubility2,0.22,g/100 mL 0 C
+NaN3,Solubility1,2.48,g/100 mL 25 C
+NaN3,DeltaHf,21.3,kJ/mol
+NaN3,MeltingPtC,275,C
+HClO4,Density,1.768,g/cm^3
+HClO4,MolarMass,100.46,g/mol
+HClO4,Odor,odorless,NoUnits
+HClO4,Appearance,colorless liquid,NoUnits
+HClO4,Solubility,miscible,NoUnits
+HClO4,BoilingPtC,203,C
+HClO4,MeltingPtC,-17,C
+BaSO4,DeltaHf,465,kJmol^1
+BaSO4,Density,4.49,g/cm^3
+BaSO4,MolarMass,233.38,g/mol
+BaSO4,Odor,odorless,NoUnits
+BaSO4,Appearance,white crystalline,NoUnits
+BaSO4,Solubility,0.0002448,g/100 mL 20 C 
+BaSO4,BoilingPtC,1600,C
+BaSO4,SolubilityProduct,1.0842, 10^10 25 C
+BaSO4,Entropy,132,Jmol^1K^1
+BaSO4,RefractIndex,1.636,alpha
+BaSO4,SolubleOther,insoluble in alcohol,NoUnits
+BaSO4,MeltingPtC,1580,C
+TbCl3,Density,4.35,g/cm^3
+TbCl3,MolarMass,265.2834,g/mol
+TbCl3,Appearance,white powder,NoUnits
+TbCl3,Solubility,soluble,NoUnits
+TbCl3,BoilingPtC,180,to 200 C
+TbCl3,MeltingPtC,558,C
+Na2SiO3,DeltaHf,561.43,kJ mol^1
+Na2SiO3,HeatCapacity,111.8,J/mol K
+Na2SiO3,Density,2.61,g cm^3
+Na2SiO3,Appearance,White to greenish opaque crystals,NoUnits
+Na2SiO3,Solubility,22.2,g/100 ml 25C 
+Na2SiO3,DeltaGf,-1427,kJ/mol
+Na2SiO3,Entropy,113.71,J K^1 mol^1
+Na2SiO3,MeltingPtC,1088,C
+Na2SiO3,SolubleOther,insoluble in alcohol,NoUnits
+Na2SiO3,RefractIndex,1.52,NoUnits
+MnCl2,MolarMass,125.844,g/mol anhydrous
+MnCl2,SolubleOther,soluble in pyridine,NoUnits
+MnCl2,BoilingPtC,1225,C
+MnCl2,Appearance,pink solid tetrahydrate,NoUnits
+MnCl2,MeltingPtC,654,C
+SrF2,Density,4.24,g/cm^3
+SrF2,MolarMass,125.62,g/mol
+SrF2,Solubility,0.039,g/100 mL
+SrF2,BoilingPtC,2460,C
+SrF2,RefractIndex,1.439,@0.58 m
+SrF2,MeltingPtC,1477,C
+CSCl2,Solvent,other solvents,NoUnits
+CSCl2,Density,1.50,g/cm^3
+CSCl2,MolarMass,114.98,g/mol
+CSCl2,Appearance,Red liquid,NoUnits
+CSCl2,Solubility,Decomposition,NoUnits
+CSCl2,BoilingPtC,70,to 75 C
+CSCl2,SolubleOther,polar organic solventsbr rxn with amines and alcohols,NoUnits
+CSCl2,RefractIndex,1.558,NoUnits
+NaI,DeltaHf,88,kJmol^1
+NaI,MolarMass,149.89,g/mol
+NaI,Odor,odorless,NoUnits
+NaI,Density,3.67,g/cm^3
+NaI,Appearance,white solid ,NoUnits
+NaI,BoilingPtC,1304,C
+NaI,pKa,89.5,NoUnits
+NaI,Entropy,91,Jmol^1K^1
+NaI,RefractIndex,1.7745,NoUnits
+NaI,MeltingPtC,661,C
+ZnCN)2,Density,1.852,g/cm^3
+ZnCN)2,MolarMass,117.444,g/mol
+ZnCN)2,Appearance,white powder,NoUnits
+ZnCN)2,Solubility,0.00005,g/100 mL 20 C
+ZnCN)2,SolubleOther,attacked by alkalies,NoUnits
+ZnCN)2,MeltingPtC,800,C
+AlP,DeltaHf,-164.4,kJ/mol
+AlP,Density,2.85,g/cm^3
+AlP,MolarMass,57.9552,g/mol
+AlP,BandGap,2.5,eV indirect
+AlP,Odor,like,NoUnits
+AlP,Appearance,Yellow or gray crystals,NoUnits
+AlP,Solubility,reacts,NoUnits
+AlP,Entropy,47.3,J/mol K
+AlP,RefractIndex,2.75,IR
+AlP,MeltingPtC,2530,C
+Na2S2O4,Density,2.38,g/cm^3 anhydrous 
+Na2S2O4,MolarMass,174.107,g/mol anhydrous 
+Na2S2O4,Odor,faint sulfur odor,NoUnits
+Na2S2O4,BoilingPt,Decomposes,NoUnits
+Na2S2O4,Appearance,white to grayish crystalline powder ,NoUnits
+Na2S2O4,Solubility,18.2,g/100 mL anhydrous
+Na2S2O4,SolubleOther,slightly soluble in alcohol,NoUnits
+CdSO4,DeltaHf,35,kJmol^1
+CdSO4,Odor,odorless,NoUnits
+CdSO4,BoilingPt,decomposes to basic sulfate and then oxide,NoUnits
+CdSO4,Appearance,White hygroscopic solid,NoUnits
+CdSO4,Entropy,123,Jmol^1K^1
+CdSO4,MeltingPtC,1000,C
+CdSO4,SolubleOther,slightly soluble in methanol,NoUnits
+CdSO4,RefractIndex,1.565,NoUnits
+BeSO3,MolarMass,89.075,g/mol
+KNO3,DeltaHf,-494.00,kJ/mol
+KNO3,HeatCapacity,95.06,J/mol K
+KNO3,Density,2.109,g/cm^3 16 C
+KNO3,MolarMass,101.1032,g/mol
+KNO3,SolubleOther,slightly soluble in ethanolbr  soluble in glycerol,NoUnits
+KNO3,Odor,odorless,NoUnits
+KNO3,BoilingPt,400,C
+KNO3,Appearance,white solid,NoUnits
+KNO3,Solubility,133,g/L 0 C<br /> 316 g/L 20 C<br /> 2460 g/L 100 C
+KNO3,RefractIndex,1.335,NoUnits
+KNO3,MeltingPtC,334,C
+NaBH4,Density,1.0740,g/cm^3
+NaBH4,MolarMass,37.83,g/mol
+NaBH4,Appearance,white crystals ,NoUnits
+NaBH4,Solubility,soluble,NoUnits
+NaBH4,BoilingPtC,500,C
+NaBH4,SolubleOther,soluble in liquid ammonia,NoUnits
+NaBH4,MeltingPtC,400,C
+C1I4,DeltaHf,384.0400.4,kJ mol^1
+C1I4,Appearance,Dark violet crystals,NoUnits
+C1I4,HeatCapacity,0.500,J K^1 g^1
+C1I4,DeltaHc,94.4778.4,kJ mol^1
+C1I4,Density,4.32,g mL^1
+Na1IO3,HeatCapacity,125.5,J/molK
+Na1IO3,Density,4.28,g/cm^3
+Na1IO3,Odor,Odorless,NoUnits
+Na1IO3,Appearance,White orthorhombic crystals,NoUnits
+Na1IO3,Solvent1,dimethylformamide,NoUnits
+Na1IO3,DeltaGf,35.1,kJ/mol
+Na1IO3,Entropy,135,J/molK
+Na1IO3,Solubility1,0.5,g/kg
+Na1IO3,MeltingPtC,425,C
+Na1IO3,SolubleOther,Soluble in acetic acid,NoUnits
+BaTiO3,Density,6.02,g/cm^3
+BaTiO3,MolarMass,233.192,g
+BaTiO3,Appearance,white crystals,NoUnits
+BaTiO3,Odor,odorless,NoUnits
+BaTiO3,BandGap,3.2,eV 300 K
+BaTiO3,Solubility,insoluble,NoUnits
+BaTiO3,RefractIndex,2.412;,n<sub>e</sub>
+BaTiO3,MeltingPtC,1625,C
+Cl2O6,Density,1.65,g/cm^3
+Cl2O6,MolarMass,166.901,g/mol
+Cl2O6,Appearance,red liquid,NoUnits
+Cl2O6,Solubility,Reacts,NoUnits
+Cl2O6,BoilingPtC,200,C
+Cl2O6,MeltingPtC,3.5,C
+BrF5,Density,2.466,g/cm^3
+BrF5,MolarMass,174.894,g.mol^1
+BrF5,Appearance,Pale yellow liquid,NoUnits
+BrF5,Solubility,reacts,NoUnits
+BrF5,BoilingPtC,40.25,C
+BrF5,MeltingPtC,1.30,C
+C6O6W,Density,2.65,g/cm^3
+C6O6W,MolarMass,351.901,g/mol
+C6O6W,Appearance,Colorless solid,NoUnits
+C6O6W,Solubility,insoluble,NoUnits
+C6O6W,SolubleOther,sparingly in THF,NoUnits
+C6O6W,MeltingPtC,170,C
+MoO3H2O,MolarMass,161.95,g mol^1 
+MoO3H2O,MeltingPt_ref,,NoUnits
+MoO3H2O,MeltingPtC,300,C
+MoO3H2O,Density,3.1,g cm^3 
+OsO4,Density,4.9,g/cm^3
+OsO4,MolarMass,254.23,g/mol
+OsO4,Odor,acrid,NoUnits
+OsO4,Appearance,white volatile solid,NoUnits
+OsO4,Solubility,5.70,g/100 mL 10 C 
+OsO4,BoilingPtC,129.7,C
+OsO4,VaporPressure,7,mmHg 20 C
+OsO4,SolubleOther,375,g/100 mL carbon tetrachloride
+OsO4,MeltingPtC,40.25,C
+H2WO4,Density,5.59,g/cm^3
+H2WO4,MolarMass,249.853,g/mol
+H2WO4,Appearance,yellow powder,NoUnits
+H2WO4,Solubility,insoluble,NoUnits
+H2WO4,BoilingPtC,1473,C
+H2WO4,SolubleOther,soluble in hydrofluoric acid,NoUnits
+H2WO4,MeltingPtC,100,C
+K2O4S2,MolarMass,206.32,g/mol
+K2O4S2,Appearance,light yellow powder,NoUnits
+NH3,chapter,Ammonia and Liquid Ammonia Solutions,NoUnits
+NH3,DeltaHf,6,kJmol^1
+NH3,RefractIndex,1.3327,NoUnits
+NH3,MolarMass,17.031,g/mol
+NH3,Appearance,Colourless gas,NoUnits
+NH3,Odour,strong pungent odour,NoUnits
+NH3,Solubility,47%,w/w 0 C<br />31% w/w 25 C<br />18% w/w 50 C
+NH3,BoilingPtC,3.34,C
+NH3,pKb,4.75,NoUnits
+NH3,Entropy,193,Jmol^1K^1
+NH3,Viscosity,0.276,cP -40 C
+NH3,SolubleOther,soluble in chloroform,NoUnits
+NH3,VaporPressure,8573,h Pa
+NH3,MeltingPtC,7.73,C
+COS,HeatCapacity,41.5,J/mol K
+COS,Density,2.51,g/L
+COS,MolarMass,60.075,g/mol
+COS,Odor,like,NoUnits
+COS,Appearance,colorless gas,NoUnits
+COS,Dipole,0.65,D
+COS,Solubility,0.376,g/100 mL 0 C <br /> 0.125 g/100 mL 25 C
+COS,BoilingPtC,0.2,C
+COS,Entropy,231.5,J/mol K
+COS,DeltaHf,-141.8,kJ/mol
+COS,SolubleOther,very soluble in potassium hydroxide,NoUnits
+COS,MeltingPtC,38.8,C
+Br4Si,RefractIndex,val,NoUnits
+Br4Si,BoilingPtC,153,C
+Br4Si,Appearance,Colorless liquid,NoUnits
+Br4Si,Density,2.79,gcm^3
+H1Cl,DeltaHf,2.31,kJ mol^1
+H1Cl,HeatCapacity,0.7981,J K^1 g^1
+H1Cl,Density,1.49,g L^1
+H1Cl,Viscosity,0.311,cP 100 C
+H1Cl,Odor,pungent,NoUnits
+H1Cl,Appearance,Colorless gas,NoUnits
+H1Cl,Solubility,823,g/L 0 C 
+H1Cl,BoilingPtC,-85.05,C
+H1Cl,pKb,17.0,NoUnits
+H1Cl,Entropy,186.902,J K^1 mol^1
+H1Cl,RefractIndex,1.0004456,gas 
+H1Cl,SolubleOther,soluble in methanol,NoUnits
+H1Cl,DeltaHc,5.31,kJ mol^1
+H1Cl,MeltingPtC,-114.22,C
+Al2O3,BoilingPt,convert,NoUnits
+Al2O3,RefractIndex,nsubsub,NoUnits
+Al2O3,Density,3.954.1,g/cm^3
+Al2O3,Odor,odorless,NoUnits
+Al2O3,Appearance,white solid,NoUnits
+Al2O3,Solubility,insoluble,NoUnits
+Al2O3,DeltaHf,675.7,kJmol^1
+Al2O3,Entropy,50.92,Jmol^1K^1
+Al2O3,abbr,on,NoUnits
+Al2O3,ThermalConductivity,30,Wm^1K^1
+Al2O3,contribution,Adipic acid,NoUnits
+Al2O3,MeltingPt,convert,NoUnits
+Al2O3,SolubleOther,insoluble in diethyl ether ,NoUnits
+CsHCO3,MolarMass,193.922,g/mol
+C1Cl4,DeltaHf,-139.3,kJ/mol
+C1Cl4,HeatCapacity,132.6,J/mol K
+C1Cl4,LogP,2.64,NoUnits
+C1Cl4,HenryConstant,2.76x10^2,atm-cu m/mol
+C1Cl4,Odor,like odor,NoUnits
+C1Cl4,Appearance,colourless liquid,NoUnits
+C1Cl4,Dipole,0,D
+C1Cl4,Solubility,0.097,g/100 mL 0 C 
+C1Cl4,BoilingPtC,76.72,C
+C1Cl4,DeltaGf,-686,kJ/mol
+C1Cl4,Entropy,214.42,J/mol K
+C1Cl4,VaporPressure,11.94,kPa at 20 C
+C1Cl4,RefractIndex,1.4607,NoUnits
+C1Cl4,SolubleOther,soluble in alcohol,NoUnits
+C1Cl4,MeltingPtC,-22.92,C
+TaC,F K<br> (TaC<sub>0.5</sub>)<ref name,crc,NoUnits
+TaC,name,Tantalum carbide,NoUnits
+TaC,HeatCapacity,36.71,J/molK
+TaC,HNO<sub>3</sub> mixture<ref name,crc,NoUnits
+TaC,MolarMass,192.96,g/mol
+TaC,mask,FFFF,NoUnits
+TaC,Odor,Odorless,NoUnits
+TaC,Appearance,gray powder,NoUnits
+TaC,Solubility,Insoluble,NoUnits
+TaC,BoilingPtC,4780-5470,C
+TaC,Entropy,42.29,J/molK
+TaC,units,SIref,NoUnits
+TaC,ThermalConductivity,21,W/mK
+TaC,DeltaHf,44.1,kJ/mol
+TaC,SolubleOther,Soluble in hydrofluoric acid,NoUnits
+TaC,MeltingPtC,3850-3880,C
+Cu2O,Solvent,acid,NoUnits
+Cu2O,Density,6.0,g/cm^3
+Cu2O,MolarMass,143.09,g/mol
+Cu2O,BandGap,2.137,Electronvolt
+Cu2O,Appearance,red solid,NoUnits
+Cu2O,Solubility,Insoluble,NoUnits
+Cu2O,BoilingPtC,1800,C
+Cu2O,Entropy,93,Jmol^1K^1
+Cu2O,DeltaHf,70,kJmol^1
+Cu2O,SolubleOther,Soluble,NoUnits
+Cu2O,MeltingPtC,1232,C
+HOCl,Density,Variable,NoUnits
+HOCl,MolarMass,52.46,g/mol
+HOCl,Appearance,Colorless aqueous solution,NoUnits
+HOCl,Solubility,Soluble,NoUnits
+HOCl,pKa,7.53,NoUnits
+N2F4,MolarMass,104.01,g mol^1
+N2F4,BoilingPt_ref,,NoUnits
+N2F4,BoilingPtC,3,C
+N2F4,MeltingPtC,64.5,C
+CdI2,Density,5.640,g/cm^3
+CdI2,MolarMass,366.22,g/mol
+CdI2,Appearance,white to pale yellow crystals,NoUnits
+CdI2,Solubility,787,g/L 0 C 
+CdI2,BoilingPtC,742,C
+CdI2,SolubleOther,soluble in ethanol,NoUnits
+CdI2,MeltingPtC,387,C
+HBrO,MolarMass,96.911,NoUnits
+HBrO,BoilingPtC,20-25,C
+HBrO,pKa,8.65,NoUnits
+HBrO,Density,2.470,g/cm
+LiClO,Density,0.531,g/cm^3 20 C
+LiClO,MolarMass,58.39,g/mol
+LiClO,Odor,like odor,NoUnits
+LiClO,Appearance,white solid,NoUnits
+LiClO,Solubility,soluble,NoUnits
+LiClO,BoilingPtC,1336,C
+LiClO,MeltingPtC,135,C
+Rb1I,Density,3.110,g/cm ^3
+Rb1I,MolarMass,212.3723,g/mol
+Rb1I,Appearance,solid,NoUnits
+Rb1I,Solubility,152,g/100 mL
+Rb1I,BoilingPtC,1304,C
+Rb1I,MeltingPtC,646.85,C
+LiBH4,Solvent,ether,NoUnits
+LiBH4,HeatCapacity,82.6,J/mol K
+LiBH4,MolarMass,21.784,g/mol
+LiBH4,Appearance,White solid,NoUnits
+LiBH4,Solubility,reacts,NoUnits
+LiBH4,BoilingPtC,380,C
+LiBH4,Entropy,75.7,J/mol K
+LiBH4,DeltaHf,-198.83,kJ/mol
+LiBH4,SolubleOther,2.5,g/100 mL
+LiBH4,MeltingPtC,268,C
+AgBr,Dielectric constant,12.5,-->
+AgBr,HeatCapacity,270,J/kgK
+AgBr,Density,6.473,g/cm^3
+AgBr,MolarMass,187.77,g/mol
+AgBr,BandGap,2.5,eV
+AgBr,Appearance,Pale yellow solidbr photosensitive,NoUnits
+AgBr,Solubility,0.140,mg/L 20 C
+AgBr,BoilingPtC,1502,C
+AgBr,SolubilityProduct,5.4, 10 ^13
+AgBr,Entropy,107,Jmol^1K^1
+AgBr,ElectronMobility,4000,cm^2/Vs
+AgBr,RefractIndex,2253,NoUnits
+AgBr,DeltaHf,00,kJmol^1
+AgBr,MeltingPtC,432,C
+Ag2F,MolarMass,234.734,g/mol
+Ag2F,Appearance,colored crystals with green luster,NoUnits
+Ag2F,Solubility,reacts,NoUnits
+Ag2F,Density,8.6,g/cm^3
+K2SO3,MolarMass,158.26,g/mol
+K2SO3,Appearance,white solid,NoUnits
+K2SO3,Solubility,soluble,NoUnits
+SF4,Density,1.95,g/cm^3
+SF4,MolarMass,108.07,g/mol
+SF4,BoilingPt,-38,C
+SF4,Appearance,colorless gas,NoUnits
+SF4,Solubility,reacts,NoUnits
+SF4,VaporPressure,10.5,atm 22C
+SF4,MeltingPt,-121.0,C
+ZnSe,DeltaHf,-177.6,kJ/mol
+ZnSe,Density,5.27,g/cm^3
+ZnSe,MolarMass,144.35,g/mol
+ZnSe,Appearance,light yellow solid,NoUnits
+ZnSe,BandGap,2.82,eV 10 K
+ZnSe,Solubility,negligible,NoUnits
+ZnSe,MeltingPt,convert,NoUnits
+ZnSe,RefractIndex,2.67,550 nm
+NaReO4,Density,5.39,g/cm^3
+NaReO4,MolarMass,273.194,g/mol
+NaReO4,Appearance,White crystalline powder,NoUnits
+NaReO4,Solubility,103.3,g/100 mL 0 C
+NaReO4,SolubleOther,soluble in ethanol,NoUnits
+NaReO4,MeltingPtC,414,C
+NOsu,Density,1.88,g dm^3
+NOsu,pmc,ref chloroform,NoUnits
+NOsu,RefractIndex,1.449,at 20 C
+NOsu,MolarMass,46.0055,g mol^1
+NOsu,Odor,Chlorine like,NoUnits
+NOsu,Solubility,Hydrolyses,NoUnits
+NOsu,BoilingPtC,21.2,C
+NOsu,editor,Haynes,NoUnits
+NOsu,MeltingPtC,1.2,C
+NOsu,Appearance,Vivid orange gas,NoUnits
+NOsu,SolubleOther,soluble in Carbon tetrachloride,NoUnits
+NOsu,HeatCapacity,37.5,J/mol K
+NOsu,Entropy,240,J mol^1 K^1
+NOsu,VaporPressure,98.80,kPa at 20 C
+NOsu,DeltaHf,34,kJ mol^1
+PdCl2,Density,4.0,g/cm^3
+PdCl2,MolarMass,177.326,g/mol anhydrous 
+PdCl2,Appearance,dark red solid ,NoUnits
+PdCl2,Solubility,soluble in trace amounts,NoUnits
+PdCl2,SolubleOther,soluble in organic solvents ,NoUnits
+PdCl2,MeltingPtC,679,C
+BaCrO4,Density,4.498,g/cm^3
+BaCrO4,MolarMass,253.37,g/mol
+BaCrO4,Appearance,yellow powder,NoUnits
+BaCrO4,Solubility,0.2775,mg/100 mL 20 C
+BaCrO4,SolubleOther,soluble in strong acids,NoUnits
+BaCrO4,MeltingPtC,210,C
+SrNO3)2,MolarMass,211.630,g/mol anhydrous 
+SrNO3)2,BoilingPtC,645,C
+SrNO3)2,Appearance,white granular solid,NoUnits
+SrNO3)2,MeltingPtC,570,C
+AgN3,Solvent,other solvents,NoUnits
+AgN3,Density,4.42,g/cm^3
+AgN3,MolarMass,149.888,g/mol
+AgN3,BoilingPt,decomposes,NoUnits
+AgN3,Appearance,colorless solid,NoUnits
+AgN3,SolubleOther,2.010^8,g/L
+AgN3,MeltingPtC,250,C
+SiO,Density,2.13,g/cm^3
+SiO,MolarMass,44.08,g/mol
+SiO,Appearance,black glassy solid,NoUnits
+SiO,Solubility,insoluble,NoUnits
+SiO,BoilingPtC,1880,C
+SiO,MeltingPtC,1702,C
+H3B,Solvent,Ammonia,NoUnits
+H3B,Appearance,colourless gas,NoUnits
+H3B,Solubility,hydrolyses,NoUnits
+H3B,Entropy,187.88,kJ mol^1 K^1
+H3B,DeltaHf,106.69,kJ mol^1
+H3B,SolubleOther,3.2,mol L^1
+ZrF4,MolarMass,167.21,g/mol
+ZrF4,MeltingPtC,910,C
+ZrF4,Appearance,white crystalline powder,NoUnits
+ZrF4,Solubility,1.32,g/100mL 20 C 
+ZrF4,Density,4.43,g/cm^3 20 C
+Cd1Se,Density,5.816,g cm^3
+Cd1Se,Appearance,Black,NoUnits
+Cd1Se,Odor,Odorless,NoUnits
+Cd1Se,BandGap,1.74,eV
+Cd1Se,MeltingPtK,1541,K
+Cd1Se,RefractIndex,2.5,NoUnits
+SiO2,Density,2.648,-quartz
+SiO2,series,Novartis Foundation Symposia,NoUnits
+SiO2,"</nowiki> c-axis), 6.8 ( c-axis), 1.4 (am.) W/(mK)<ref name",92rp,NoUnits
+SiO2,RefractIndex,1.544,Birefringence
+SiO2,"orthorhombic<br/>oS24, C222<sub>1</sub>, No.20<ref name",tridcite journal,NoUnits
+SiO2,MolarMass,60.08,g/mol
+SiO2,BoilingPt,2,NoUnits
+SiO2,"hexagonal<br/>hP12, P6<sub>3</sub>/mmc, No. 194<ref name",trid,NoUnits
+SiO2,class,wikitable,NoUnits
+SiO2,"cubic<br/>cF104, Fd<u style",decorationoverline3um,NoUnits
+SiO2,pmid,24336488,NoUnits
+SiO2,"cubic (cP*, P4<sub>2</sub>32, No.208)<ref name",melcite journal,NoUnits
+SiO2,Appearance,Transparent solid Amorphous WhiteWhitish Yellow PowderSand,NoUnits
+SiO2,reason,what are tests,NoUnits
+SiO2,"O<sub>2</sub> or H<sub>2</sub>O, respectively.<ref name",Sunggyu Leecite book,NoUnits
+SiO2,fibrous<br/> W-silica<ref name,Greenwood,NoUnits
+SiO2,+ Crystalline forms of SiO<sub>2</sub><ref name,WibergHolleman,NoUnits
+SiO2,MeltingPt,1,NoUnits
+SiO2,"o), 1.553 (e)<ref name",92rp,NoUnits
+SiO2,newspaper,The New York Times,NoUnits
+SiO2,ThermalConductivity,12,<nowiki>
+SiO2,DeltaHf,11,kJmol^1
+SiO2,pmc,3863822,NoUnits
+AlN,ElectronMobility,300,cm^2/Vs
+AlN,DeltaHf,318,kJ/mol
+AlN,Entropy,20.2,J/mol K
+AlN,HeatCapacity,30.1,J/mol K
+AlN,Density,3.260,g/cm^3
+AlN,MolarMass,40.9882,g/mol
+AlN,BandGap,6.015,eV 
+AlN,Appearance,yellow solid,NoUnits
+AlN,Solubility,hydrolyses powder,NoUnits
+AlN,BoilingPtC,2517,C
+AlN,DeltaGf,287.4,kJ/mol
+AlN,ThermalConductivity,285,W/mK
+AlN,RefractIndex,1.92.2,NoUnits
+AlN,MeltingPtC,2200,C
+LiO2,MolarMass,38.94,g/mol
+LiO2,BoilingPt,Lithium superoxide Lithium,NoUnits
+LiO2,MeltingPt,25,C decomposes
+LiO2,Density,3,NoUnits
+Fe3O4,MolarMass,231.533,g/mol
+Fe3O4,MeltingPtC,1597,C
+Fe3O4,Appearance,solid black powder,NoUnits
+Fe3O4,Density,5,g/cm^3
+HClO3,MolarMass,84.45914,g mol^1
+HClO3,pKa,,NoUnits
+HClO3,Appearance,colourless solution,NoUnits
+HClO3,Solubility,40,g/100 ml 20 C
+HClO3,Density,1,g/mL
+RbF,Density,3.557,g/cm^3
+RbF,MolarMass,104.4662,g/mol
+RbF,Appearance,white crystalline solid,NoUnits
+RbF,Solubility,130.6,g/100 mL 18 C
+RbF,BoilingPtC,1408,C
+RbF,MeltingPtC,795,C
+BaN6,Density,2.936,g/cm
+BaN6,Solvent1,alcohol,NoUnits
+BaN6,Solvent3,ether,NoUnits
+BaN6,Solvent2,acetone,NoUnits
+BaN6,MeltingPtC,126,C
+BaN6,MolarMass,221.37,g/mol
+BaN6,Odor,odorless,NoUnits
+BaN6,BoilingPtC,160,C
+BaN6,Appearance,white crystalline solid,NoUnits
+BaN6,Solubility3,insoluble,NoUnits
+BaN6,Solubility2,insoluble,NoUnits
+BaN6,Solubility1,0.017,g/100 mL
+KBr,Density,2.74,g/cm^3
+KBr,MolarMass,119.002,g/mol
+KBr,Odor,odorless,NoUnits
+KBr,Appearance,white solid,NoUnits
+KBr,Solubility,53.5,g/100 mL 0 C 
+KBr,BoilingPtC,1435,C
+KBr,Solvent1,glycerol,NoUnits
+KBr,Solvent2,ethanol,NoUnits
+KBr,Solubility2,4.76,g/100 mL 80 C
+KBr,Solubility1,21.7,g/100 mL
+KBr,RefractIndex,1.559,NoUnits
+KBr,SolubleOther,very slightly soluble in diethyl ether,NoUnits
+KBr,MeltingPtC,734,C
+C16O16Rh6,MolarMass,1065.62,g/mol
+C16O16Rh6,series,Inorganic Syntheses,NoUnits
+C16O16Rh6,Appearance,Black crystals,NoUnits
+NaHS,Density,1.79,g/cm^3
+NaHS,MolarMass,56.063,g/mol
+NaHS,Appearance,white solid,NoUnits
+NaHS,Solubility,50,g/100 mL 22 C
+NaHS,SolubleOther,soluble in alcohol,NoUnits
+NaHS,MeltingPtC,350,C
+SmCl3,Density,4.46,gram
+SmCl3,MolarMass,256.76,g/mol anhydrous
+SmCl3,BoilingPt,decomposes,NoUnits
+SmCl3,Appearance,coloured solid hexahydrate,NoUnits
+SmCl3,Solubility,92.4,gram
+SmCl3,MeltingPtC,682,C
+SF6,BoilingPtK,209,K
+SF6,MolarMass,146.06,g/mol
+SF6,Odor,odorless,NoUnits
+SF6,Density,6.17,g/L
+SF6,Appearance,Colorless gas,NoUnits
+SF6,Solubility,0.003%,25 C
+SF6,Entropy,292,Jmol^1K^1
+SF6,VaporPressure,2.9,MPa at 21.1 C
+SF6,DeltaHf,209,kJmol^1
+SF6,SolubleOther,slightly soluble in water,NoUnits
+HCN,Solvent,ethanol,NoUnits
+HCN,HeatCapacity,71.00,kJ K^1 mol^1 at 27 C
+HCN,BoilingPtK,298.7,to 299.7 K
+HCN,Viscosity,201,Pa s
+HCN,Odor,Oil of bitter almond,NoUnits
+HCN,Density,0.687,g mL^1
+HCN,Appearance,Very pale,NoUnits
+HCN,Solubility,Miscible,NoUnits
+HCN,pKb,4.79,NoUnits
+HCN,DeltaHc,-426.5,kJ mol^1
+HCN,pKa,9.21,NoUnits
+HCN,Entropy,113.01,J K^1 mol^1
+HCN,location,Oxford,NoUnits
+HCN,MeltingPtK,259,to 261 K
+HCN,VaporPressure,630,mmHg 20 C
+HCN,DeltaHf,109.9,kJ mol^1
+HCN,SolubleOther,Miscible,NoUnits
+HCN,HenryConstant,75,mol Pa^1 kg^1
+HCN,RefractIndex,1.2675,
+Cd1S,DeltaHf,62,kJmol^1
+Cd1S,Density,4.826,g/cm^3
+Cd1S,Appearance,orange to brown solid,NoUnits
+Cd1S,Solubility,insoluble,NoUnits
+Cd1S,BoilingPtC,980,C
+Cd1S,RefractIndex,2.529,NoUnits
+Cd1S,Entropy,65,Jmol^1K^1
+Cd1S,MeltingPtC,1750,C
+Cd1S,SolubleOther,soluble in acid ,NoUnits
+Zr1C,Density,6.73,g/cm^3 24 C
+Zr1C,MeltingPtC,3532-3540,C
+Zr1C,BoilingPt_ref,,NoUnits
+Zr1C,Odor,Odorless,NoUnits
+Zr1C,Solubility,Insoluble,NoUnits
+Zr1C,BoilingPtC,5100,C
+Zr1C,units,SIref,NoUnits
+Zr1C,"HF,<ref name",crc  nitric acid,NoUnits
+Zr1C,Appearance,Gray refractory solid,NoUnits
+Zr1C,SolubleOther,Soluble in concentrated sulfuric acid,NoUnits
+Zr1C,name,Zirconium carbide,NoUnits
+Zr1C,HeatCapacity,37.442,J/molK
+Zr1C,mask,FFFF,NoUnits
+Zr1C,MeltingPt_ref,,NoUnits
+Zr1C,Entropy,33.14,J/molK
+Zr1C,DeltaHf,07,kJ/mol extrapolated to stoichiometric composition
+YSb,MolarMass,210.666,g/mol
+YSb,MeltingPtC,2310,C
+YSb,Appearance,cubic crystal system,NoUnits
+YSb,Density,5.97,g/cm^3
+TeO2,MolarMass,159.60,g/mol
+TeO2,Appearance,white solid,NoUnits
+TeO2,Solubility,negligible,NoUnits
+TeO2,BoilingPtC,1245,C
+TeO2,RefractIndex,2.24,NoUnits
+TeO2,SolubleOther,soluble in acid and alkali,NoUnits
+TeO2,MeltingPtC,732,C
+Cs2CO3,Solubility4,394.2,g/L
+Cs2CO3,Density,4.072,g/cm^3
+Cs2CO3,MolarMass,325.82,g/mol
+Cs2CO3,Appearance,white powder,NoUnits
+Cs2CO3,Solubility5,723.3,g/L
+Cs2CO3,Solubility,2605,g/L 15 C
+Cs2CO3,Solvent1,ethanol,NoUnits
+Cs2CO3,Solvent3,Dimethyl sulfoxide,NoUnits
+Cs2CO3,Solvent2,Dimethylformamide,NoUnits
+Cs2CO3,Solubility3,361.7,g/L
+Cs2CO3,Solubility2,119.6,g/L
+Cs2CO3,Solubility1,110,g/L
+Cs2CO3,Solvent4,Sulfolane,NoUnits
+Cs2CO3,Solvent5,Methylpyrrolidone,NoUnits
+Cs2CO3,MeltingPtC,610,C
+K2HgI4,SolubleOther,soluble in alcohol,NoUnits
+K2HgI4,Odor,odorless,NoUnits
+K2HgI4,Appearance,yellow crystals,NoUnits
+K2HgI4,Solubility,very soluble,NoUnits
+K2HgI4,Density,4.29,g/cm^3
+Na2CO3,MolarMass,156.982,g/mol
+Na2CO3,Appearance,white solid,NoUnits
+Na2CO3,Solubility,150,g/l
+PF5,Density,5.527,kg/m^3 g/L
+PF5,MolarMass,125.966,g/mol
+PF5,Odor,unpleasant,NoUnits
+PF5,Appearance,colourless gas,NoUnits
+PF5,Solubility,hydrolysis,NoUnits
+PF5,BoilingPtC,-84.6,C
+PF5,MeltingPtC,-93.78,C
+Na2S2O3,Density,1.667,g/cm^3
+Na2S2O3,MolarMass,158.11,g/mol anhydrous 
+Na2S2O3,Odor,Odorless,NoUnits
+Na2S2O3,Appearance,White crystals,NoUnits
+Na2S2O3,Solubility,70.1,g/100 mL 20 C
+Na2S2O3,BoilingPtC,100,C
+Na2S2O3,RefractIndex,1.489,NoUnits
+Na2S2O3,SolubleOther,negligible in alcohol,NoUnits
+Na2S2O3,MeltingPtC,48.3,C
+Na2SO3,Density,2.633,g/cm^3 anhydrous
+Na2SO3,MolarMass,126.043,g/mol
+Na2SO3,Odor,odorless,NoUnits
+Na2SO3,BoilingPt,Decomposesseparate substances into constituent elements,NoUnits
+Na2SO3,Appearance,white solid,NoUnits
+Na2SO3,Solubility,27.0,g/100 mL water 20 C
+Na2SO3,pKa,9,heptahydrate
+Na2SO3,RefractIndex,1.565,NoUnits
+Na2SO3,SolubleOther,soluble in glycerol ,NoUnits
+Na2SO3,MeltingPtC,33.4,C
+TiF3,Density,3.4,g/cm^3
+TiF3,MolarMass,104.862,g/mol
+TiF3,Appearance,red powder,NoUnits
+TiF3,Solubility,sparingly soluble,NoUnits
+TiF3,BoilingPtC,1400,C
+TiF3,MeltingPtC,1200,C
+SrCO3,Density,3.74,g/cm^3
+SrCO3,MolarMass,147.63,g/mol
+SrCO3,Odor,Odorless,NoUnits
+SrCO3,Appearance,White powder,NoUnits
+SrCO3,Solubility,0.0011,g/100 mL 18 C 
+SrCO3,RefractIndex,1.518,NoUnits
+SrCO3,SolubleOther,soluble in ammonium chloride ,NoUnits
+SrCO3,MeltingPtC,1494,C
+CoBr2,MolarMass,218.7412,g/mol anhydrous 
+CoBr2,MeltingPtC,678,C
+CoBr2,Appearance,Bright green crystals anhydrous ,NoUnits
+CoBr2,Density,4.909,g/cm^3 anhydrous 
+CrCl3,Density,2.87,g/cm^3 anhydrous 
+CrCl3,Appearance,purple when anhydrous,NoUnits
+CrCl3,Solubility,slightly soluble anhydrous ,NoUnits
+CrCl3,BoilingPtC,1300,C
+CrCl3,pKa,2.4,0.2M solution
+CrCl3,SolubleOther,insoluble in ethanol ,NoUnits
+CrCl3,MeltingPtC,1152,C
+BeH2,HeatCapacity,30.124,J/mol K
+BeH2,Density,0.65,g/cm^3
+BeH2,MolarMass,11.03,g mol^1
+BeH2,Appearance,amorphous white solid,NoUnits
+BeH2,Solubility,decomposes,NoUnits
+BeH2,SolubleOther,insoluble in diethyl ether,NoUnits
+BeH2,MeltingPtC,250,C
+TiN,MagSus,38e,NoUnits
+TiN,Density,5.22,g/cm^3
+TiN,MolarMass,61.874,g/mol
+TiN,Odor,Odorless,NoUnits
+TiN,Appearance,Coating of golden color,NoUnits
+TiN,Solubility,insoluble,NoUnits
+TiN,ThermalConductivity,19.2,W/mformatnum:&deg;C
+TiN,MeltingPtC,2930,C
+PBr5,Density,3.61,g/cm^3
+PBr5,MolarMass,430.49,g/mol
+PBr5,Appearance,yellow solid,NoUnits
+PBr5,Solubility,decomposes,NoUnits
+PBr5,BoilingPtC,106,C
+PBr5,MeltingPt,100,C decomposes
+HgSO4,Density,6.47,g/cm
+HgSO4,MolarMass,296.653,g/mol
+HgSO4,Appearance,white monoclinic crystals,NoUnits
+HgSO4,Odor,odorless,NoUnits
+HgSO4,kJ mol<sup>1</sup><ref name,handCite book,NoUnits
+HgSO4,SublimationConditions,450,C Decomposes
+HgSO4,Solubility,Decomposes in water to yellow mercuric subsulfate and sulfuric acid,NoUnits
+HgSO4,DeltaHf,07.5,kJ/mol
+HgSO4,SolubleOther,soluble in hot sulfuric acid,NoUnits
+AgCNO,MolarMass,149.885,g/mol
+AgCNO,Density,3.938,g/cm^3
+H3PMo12O40,MolarMass,1825.25,g/mol
+H3PMo12O40,MeltingPt,79-90,&deg;C
+H3PMo12O40,Solubility,soluble,NoUnits
+H3PMo12O40,Density,1.62,g/ml
+YbCl3,Density,4.06,g/cm^3 solid
+YbCl3,MolarMass,279.40,g/mol
+YbCl3,Appearance,White powder,NoUnits
+YbCl3,BoilingPt_ref,,NoUnits
+YbCl3,Solubility,0.17,g/mL 25 C
+YbCl3,BoilingPtC,1453,C
+YbCl3,MeltingPt_ref,,NoUnits
+YbCl3,MeltingPtC,854,C
+H2S,DeltaHf,1,kJ mol^1
+H2S,HeatCapacity,1.003,J K^1 g^1
+H2S,Density,1.363,g dm^3
+H2S,Odor,Rotten eggs,NoUnits
+H2S,Appearance,Colorless gas,NoUnits
+H2S,Solubility,4,g dm^3 at 20 C
+H2S,BoilingPtC,0,C
+H2S,pKb,12.9,NoUnits
+H2S,RefractIndex,1.000644,0 C
+H2S,pKa,7.0,NoUnits
+H2S,Entropy,206,J mol^1 K^1
+H2S,location,Oxford,NoUnits
+H2S,VaporPressure,1740,kPa at 21 C
+H2S,MeltingPtC,2,C
+ZrCl4,HeatCapacity,125.38,JK^-1mol^-1
+ZrCl4,Density,2.80,g/cm^3
+ZrCl4,MolarMass,233.04,g/mol
+ZrCl4,Appearance,white crystals ,NoUnits
+ZrCl4,Solubility,hydrolysis,NoUnits
+ZrCl4,BoilingPtC,331,C
+ZrCl4,Entropy,181.41,JK^-1mol^-1
+ZrCl4,DeltaHf,-980.52,kJ/mol
+ZrCl4,SolubleOther,soluble in alcohol,NoUnits
+ZrCl4,MeltingPtC,437,C
+NaAlO2,DeltaHf,-1133.2,kJ/mol
+NaAlO2,HeatCapacity,73.6,J/mol K
+NaAlO2,Density,1.5,g/cm^3
+NaAlO2,MolarMass,81.97,g/mol
+NaAlO2,Odor,odorless,NoUnits
+NaAlO2,Appearance,yellowish ,NoUnits
+NaAlO2,Solubility,soluble,NoUnits
+NaAlO2,Entropy,70.4,J/mol K
+NaAlO2,RefractIndex,1.566,NoUnits
+NaAlO2,SolubleOther,soluble in alcohol,NoUnits
+NaAlO2,MeltingPtC,1650,C
+LiOH,chapter,9  Results,NoUnits
+LiOH,DeltaHf,-20.36,kJ/g
+LiOH,HeatCapacity,2.071,J/g K
+LiOH,Density,1.46,g/cm^3 anhydrous 
+LiOH,MolarMass,23.95,g/mol anhydrous 
+LiOH,Appearance,hygroscopic white solid ,NoUnits
+LiOH,BoilingPtC,924,C
+LiOH,Solvent1,methanol,NoUnits
+LiOH,Solvent3,isopropanol,NoUnits
+LiOH,Solvent2,ethanol,NoUnits
+LiOH,RefractIndex,1.464,anhydrous 
+LiOH,MeltingPtC,462,C
+Pb3PO4)2,Density,6.9,g/cm^3
+Pb3PO4)2,Appearance,white powder,NoUnits
+Pb3PO4)2,Solubility,0.000014,g/100 mL
+Pb3PO4)2,MeltingPtC,1014,C
+Pb3PO4)2,SolubleOther,insoluble in alcohol ,NoUnits
+Pb3PO4)2,RefractIndex,2.048,NoUnits
+BaCO3,DeltaHf,-1219,kJ/mol
+BaCO3,HeatCapacity,85.35,J/molK
+BaCO3,Density,4.286,g/cm^3
+BaCO3,MolarMass,197.34,g/mol
+BaCO3,Odor,odorless,NoUnits
+BaCO3,Appearance,white crystals,NoUnits
+BaCO3,BoilingPtC,1450,C
+BaCO3,SolubilityProduct,2.5810^9,NoUnits
+BaCO3,Entropy,112,J/molK
+BaCO3,RefractIndex,1.676,NoUnits
+BaCO3,SolubleOther,decomposes in acid,NoUnits
+BaCO3,MeltingPtC,811,C
+HgSCN)2,Density,3.71,g/cm^3
+HgSCN)2,MolarMass,316.755,g/mol
+HgSCN)2,Odor,odorless,NoUnits
+HgSCN)2,Appearance,White monoclinic powder,NoUnits
+HgSCN)2,Solubility,0.069,g/100 mL
+HgSCN)2,SolubleOther,Soluble in dilute hydrochloric acid,NoUnits
+HgSCN)2,MeltingPtC,165,C
+AlF3,MolarMass,83.9767,g/mol anhydrous 
+AlF3,Appearance,white,NoUnits
+AlF3,Solubility,0.56,g/100 mL 0 C 
+AlF3,MeltingPtC,1291,C
+BaC2O4,MolarMass,225.346,g/mol
+BaC2O4,MeltingPtC,400,C
+BaC2O4,Solubility,0.9290,mg/L
+BaC2O4,Density,2.658,g/cm^3
